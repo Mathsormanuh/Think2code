@@ -8,7 +8,7 @@ Basic Syntax & Variables (15 problems)
 7.	Calculate simple interest
 8.	Check if number is positive or negative
 9.	Find remainder of division
-10.	Convert minutes to hours and minutes
+10.	Convert minutes to hours
 11.	Calculate BMI (Body Mass Index)
 12.	Convert kilometers to miles
 13.	Calculate profit or loss percentage
