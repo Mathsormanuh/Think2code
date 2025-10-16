@@ -1,0 +1,93 @@
+Prerequisites: (Level I)
+1.	Print Hello world.
+2.	Print your name.
+3.	Print your name and age in one line.
+4.	Print the sum of two numbers (5 + 7) directly.
+5.	Print the result of 10 – 3 directly.
+6.	Print the result of 4 × 6 directly.
+7.	Print the result of 20 ÷ 5 directly.
+8.	Print the result of 2³ (2 to the power 3) directly.
+9.	Print the numbers 1, 2, 3, 4, 5 in one line.
+10.	Print the numbers 1 to 10, each on a new line.
+11.	Take two numbers as input and print their sum.
+12.	Take two numbers as input and print their difference.
+13.	Take two numbers as input and print their product.
+14.	Take two numbers as input and print their quotient.
+15.	Take two numbers as input and print their remainder.
+16.	Take two numbers as input and print their average.
+17.	Take three numbers as input and print their sum.
+18.	Take three numbers as input and print their average.
+19.	Take one number as input and print its square.
+20.	Take one number as input and print its cube. 
+21.	Take two numbers as input and print the larger number.
+22.	Take two numbers as input and print the smaller number.
+23.	Take one number as input and print half of it.
+24.	Take one number as input and print double of it.
+25.	Take one number as input and print 10% of it.
+26.	Take marks in 5 subjects and print the total marks.
+27.	Take marks in 5 subjects and print the average marks.
+28.	Take marks in 5 subjects and print the percentage (out of 500).
+29.	Take the radius of a circle and print its circumference.
+30.	Take the radius of a circle and print its area.
+31.	Take one number and check if it is positive.
+32.	Take one number and check if it is negative.
+33.	Take one number and check if it is zero.
+34.	Take one number and check if it is even.
+35.	Take one number and check if it is odd.
+36.	Take one number and check if it is greater than 100.
+37.	Take one number and check if it is less than 50.
+38.	Take two numbers and check which one is greater.
+39.	Take three numbers and print the largest of them.
+40.	Take three numbers and print the smallest of them.
+41.	Print numbers from 1 to 5 using a loop.
+42.	Print numbers from 1 to 10 using a loop.
+43.	Print numbers from 1 to n (user input) using a loop.
+44.	Print numbers from n down to 1 (reverse order).
+45.	Print the sum of first 5 natural numbers.
+46.	Print the sum of first 10 natural numbers.
+47.	Print the sum of first n natural numbers.
+48.	Print the sum of first n odd numbers.
+49.	Print the sum of first n even numbers.
+50.	Print the multiplication table of a number (n).
+51.	Print the squares of numbers from 1 to 5 (each on a new line).
+52.	Print the squares of numbers from 1 to n (user input).
+53.	Print the cubes of numbers from 1 to n.
+54.	Print the sum of numbers from a to b (inclusive).
+55.	Print the product of numbers from 1 to n (assume n ≥ 1).
+56.	Given n, print the sum of all odd numbers from 1 to n.
+57.	Given n, print the sum of all even numbers from 1 to n.
+58.	Print the numbers from 1 to n that are multiples of 3.
+59.	Print the numbers from 1 to n that are multiples of 5.
+60.	Print the numbers from 1 to n that are multiples of both 3 and 5.
+61.	Print the multiplication table of a given number n up to 10.
+62.	Print the multiplication table of n up to a user-defined k.
+63.	Print the cumulative sum sequence for numbers 1 to n (e.g., 1 3 6 10 ...).
+64.	Print the cumulative product sequence for numbers 1 to n.
+65.	Print the sequence 1², 2², 3², …, n² on one line, space-separated.
+66.	(A) Read 5 integers and print their average.
+ (B) Read n integers and print their average.
+67.	(A) Read 5 integers and print the maximum.
+ (B) Read n integers and print the maximum.
+68.	(A) Read 5 integers and print the minimum.
+ (B) Read n integers and print the minimum.
+69.	(A) Read 5 integers and print the count of positives.
+ (B) Read n integers and print the counts of positives, negatives, and zeros.
+70.	(A) Read 5 integers and print the sum of positives only.
+ (B) Read n integers and print the sum of positives and sum of negatives.
+71.	Given a non-negative integer x, print the number of digits in x.
+72.	Given x, print the sum of its digits.
+73.	Given x, print the product of its digits (assume x > 0).
+74.	Given x, print the first and last digit of x.
+75.	Given x, print x with its digits reversed.
+76.	Given x, check if x is a palindrome number (print YES/NO).
+77.	Given x, print the difference between the sum of even digits and sum of odd digits.
+78.	Given x, remove all trailing zeros (e.g., 1200 → 12) and print the result.
+79.	Given x, print the digital root of x (repeated sum of digits until one digit).
+80.	Given x and a digit d, print how many times d appears in x.
+81.	Given n, check if n is divisible by 2 (print YES/NO).
+82.	Given n, check if n is divisible by 3.
+83.	Given n, check if n is divisible by 5.
+84.	Given n, check if n is divisible by 9 using the sum-of-digits rule.
+85.	Given n, print all divisors (factors) of n in increasing order.
+86.	Given n, print the count of divisors of n.
+87.	Given n, print the sum of divisors of n.
