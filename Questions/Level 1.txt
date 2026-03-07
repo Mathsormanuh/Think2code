@@ -19,7 +19,7 @@ Conditional Statements (15 problems)
 2.	Find largest of three numbers
 3.	Check leap year
 4.	Check if character is vowel or consonant
-5.	Check if student passed or failed
+5.	Check if student passed or failedCheck if character is alphabet, digit or special character
 6.	Calculate grade based on marks
 7.	Check if triangle is valid
 8.	Check if number is positive, negative or zero
