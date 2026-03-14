@@ -5,7 +5,6 @@ c=1
 print(a)
 print(b)
 print(c)
-
 for i in range(1,n-2):
     d=a+b
     print(d)
