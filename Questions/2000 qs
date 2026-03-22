@@ -1,0 +1,2409 @@
+1.	Print Hello world.
+2.	Print your name.
+3.	Print your name and age in one line.
+4.	Print the sum of two numbers (5 + 7) directly.
+5.	Print the result of 10 – 3 directly.
+6.	Print the result of 4 × 6 directly.
+7.	Print the result of 20 ÷ 5 directly.
+8.	Print the result of 2³ (2 to the power 3) directly.
+9.	Print the numbers 1, 2, 3, 4, 5 in one line.
+10.	Print the numbers 1 to 10, each on a new line.
+11.	Take two numbers as input and print their sum.
+12.	Take two numbers as input and print their difference.
+13.	Take two numbers as input and print their product.
+14.	Take two numbers as input and print their quotient.
+15.	Take two numbers as input and print their remainder.
+16.	Take two numbers as input and print their average.
+17.	Take three numbers as input and print their sum.
+18.	Take three numbers as input and print their average.
+19.	Take one number as input and print its square.
+20.	Take one number as input and print its cube. 
+21.	Take two numbers as input and print the larger number.
+22.	Take two numbers as input and print the smaller number.
+23.	Take one number as input and print half of it.
+24.	Take one number as input and print double of it.
+25.	Take one number as input and print 10% of it.
+26.	Take marks in 5 subjects and print the total marks.
+27.	Take marks in 5 subjects and print the average marks.
+28.	Take marks in 5 subjects and print the percentage (out of 500).
+29.	Take the radius of a circle and print its circumference.
+30.	Take the radius of a circle and print its area.
+31.	Take one number and check if it is positive.
+32.	Take one number and check if it is negative.
+33.	Take one number and check if it is zero.
+34.	Take one number and check if it is even.
+35.	Take one number and check if it is odd.
+36.	Take one number and check if it is greater than 100.
+37.	Take one number and check if it is less than 50.
+38.	Take two numbers and check which one is greater.
+39.	Take three numbers and print the largest of them.
+40.	Take three numbers and print the smallest of them.
+41.	Print numbers from 1 to 5 using a loop.
+42.	Print numbers from 1 to 10 using a loop.
+43.	Print numbers from 1 to n (user input) using a loop.
+44.	Print numbers from n down to 1 (reverse order).
+45.	Print the sum of first 5 natural numbers.
+46.	Print the sum of first 10 natural numbers.
+47.	Print the sum of first n natural numbers.
+48.	Print the sum of first n odd numbers.
+49.	Print the sum of first n even numbers.
+50.	Print the multiplication table of a number (n).
+51.	Print the squares of numbers from 1 to 5 (each on a new line).
+52.	Print the squares of numbers from 1 to n (user input).
+53.	Print the cubes of numbers from 1 to n.
+54.	Print the sum of numbers from a to b (inclusive).
+55.	Print the product of numbers from 1 to n (assume n ≥ 1).
+56.	Given n, print the sum of all odd numbers from 1 to n.
+57.	Given n, print the sum of all even numbers from 1 to n.
+58.	Print the numbers from 1 to n that are multiples of 3.
+59.	Print the numbers from 1 to n that are multiples of 5.
+60.	Print the numbers from 1 to n that are multiples of both 3 and 5.
+61.	Print the multiplication table of a given number n up to 10.
+62.	Print the multiplication table of n up to a user-defined k.
+63.	Print the cumulative sum sequence for numbers 1 to n (e.g., 1 3 6 10 ...).
+64.	Print the cumulative product sequence for numbers 1 to n.
+65.	Print the sequence 1², 2², 3², …, n² on one line, space-separated.
+66.	(A) Read 5 integers and print their average.
+ (B) Read n integers and print their average.
+67.	(A) Read 5 integers and print the maximum.
+ (B) Read n integers and print the maximum.
+68.	(A) Read 5 integers and print the minimum.
+ (B) Read n integers and print the minimum.
+69.	(A) Read 5 integers and print the count of positives.
+ (B) Read n integers and print the counts of positives, negatives, and zeros.
+70.	(A) Read 5 integers and print the sum of positives only.
+ (B) Read n integers and print the sum of positives and sum of negatives.
+71.	Given a non-negative integer x, print the number of digits in x.
+72.	Given x, print the sum of its digits.
+73.	Given x, print the product of its digits (assume x > 0).
+74.	Given x, print the first and last digit of x.
+75.	Given x, print x with its digits reversed.
+76.	Given x, check if x is a palindrome number (print YES/NO).
+77.	Given x, print the difference between the sum of even digits and sum of odd digits.
+78.	Given x, remove all trailing zeros (e.g., 1200 → 12) and print the result.
+79.	Given x, print the digital root of x (repeated sum of digits until one digit).
+80.	Given x and a digit d, print how many times d appears in x.
+81.	Given n, check if n is divisible by 2 (print YES/NO).
+82.	Given n, check if n is divisible by 3.
+83.	Given n, check if n is divisible by 5.
+84.	Given n, check if n is divisible by 9 using the sum-of-digits rule.
+85.	Given n, print all divisors (factors) of n in increasing order.
+86.	Given n, print the count of divisors of n.
+87.	Given n, print the sum of divisors of n.
+88.	Given n, print YES if n is a perfect square, else NO.
+89.	Given n, print YES if n is a perfect number (sum of proper divisors equals n), else NO.
+90.	Given n, print YES if n is abundant, deficient, or perfect (exactly one word).
+91.	Given a and b (a ≤ b), print the count of even numbers in [a, b].
+92.	Given a and b, print the count of multiples of k in [a, b] (user gives k).
+93.	Given a and b, print the sum of all numbers in [a, b] that are not multiples of 3.
+94.	Given a and b, print the sum of squares of all numbers in [a, b].
+95.	Given a and b, print the largest number in [a, b] that is a multiple of m (or print -1 if none).
+96.	Given a and b, print the count of numbers in [a, b] with an even number of digits.
+97.	Given a and b, print the count of palindromic numbers in [a, b].
+98.	Given a and b, print the number with the maximum sum of digits in [a, b] (if tie, print the smallest such number).
+99.	Given a and b, print the LCM of all numbers from a to b when b − a ≤ 5 (assume valid).
+100.	(A) Given n, print YES/NO if n is prime (basic trial division).
+  (B) Given a and b, print all primes in [a, b] using the same basic method (keep ranges small).
+101.	Given n, print the first n prime numbers.
+102.	Given n, print the sum of the first n prime numbers.
+103.	Given n, print the product of the first n prime numbers (assume n ≤ 10).
+104.	Given n, print the nth prime number.
+105.	Given n, print all twin prime pairs less than or equal to n.
+106.	Given n, print all prime numbers in [n, 2n].
+107.	Given n, check if it is a Mersenne prime (prime of form 2^k – 1).
+108.	Given n, check if it is a Fermat number (of form 2^(2^k) + 1).
+109.	Given n, print the prime factorization of n.
+110.	Given n, print the highest prime factor of n.
+111.	Given n, print the lowest prime factor of n.
+112.	Given n, print the count of distinct prime factors of n.
+113.	Given n, print the sum of all prime factors of n (without repetition).
+114.	Given n, print the sum of all prime factors of n (with repetition).
+115.	Given n, print YES if n is squarefree, else NO.
+116.	Given n, print YES if n is a semiprime (product of two primes).
+117.	Given n, print YES if n is a powerful number (every prime factor squared divides it).
+118.	Given n, print Euler’s totient function φ(n).
+119.	Given n, print the Carmichael function value λ(n) (for small n only).
+120.	Given n, print the Möbius function μ(n) (for small n only).
+121.	Given n, print the factorial n!.
+122.	Given n, print the sum 1 + 2 + 3 + … + n using formula.
+123.	Given n, print the sum 1² + 2² + 3² + … + n².
+124.	Given n, print the sum 1³ + 2³ + 3³ + … + n³.
+125.	Given n, print the sum of reciprocals 1 + 1/2 + 1/3 + … + 1/n (approximate as float).
+126.	Given a, d, n, print the nth term of an arithmetic progression.
+127.	Given a, d, n, print the sum of the first n terms of an arithmetic progression.
+128.	Given a, r, n, print the nth term of a geometric progression.
+129.	Given a, r, n, print the sum of the first n terms of a geometric progression.
+130.	Given n, print the Fibonacci sequence up to n terms.
+131.	Given n, print the nth Fibonacci number.
+132.	Given n, print the sum of the first n Fibonacci numbers.
+133.	Given n, print the ratio F(n)/F(n-1) for large n and observe convergence (approximate).
+134.	Given n, print all Lucas numbers up to n terms.
+135.	Given n, print the nth Lucas number.
+136.	Given n, print the Tribonacci sequence up to n terms.
+137.	Given n, print the Padovan sequence up to n terms.
+138.	Given n, print the Catalan numbers up to n terms.
+139.	Given n, print the nth Catalan number.
+140.	Given n, print the Bell numbers up to n terms (use recurrence for small n).
+141.	Given n, compute n choose r (nCr).
+142.	Given n, compute n permute r (nPr).
+143.	Given n, print Pascal’s triangle up to n rows.
+144.	Given n, print the sum of entries in the nth row of Pascal’s triangle.
+145.	Given n, print the central binomial coefficient C(2n, n).
+146.	Given n, check if n is in Pascal’s triangle (appears in some row).
+147.	Given n, compute the multinomial coefficient for given k parts.
+148.	Given n, compute the Stirling numbers of the second kind S(n, k) for small values.
+149.	Given n, compute the number of derangements of n items.
+150.	Given n, compute the nth partition number p(n) for small n (brute force allowed).
+151.	Given n, print the sum of factorials 1! + 2! + … + n!.
+152.	Given n, print the sum of the digits of n!.
+153.	Given n, print the largest power of 2 less than or equal to n.
+154.	Given n, print the largest power of any integer k (k > 1) less than or equal to n.
+155.	Given n, print the highest power of 2 that divides n.
+156.	Given n, print the highest power of any prime p that divides n.
+157.	Given n, check if it is a power of 2.
+158.	Given n, check if it is a power of 3.
+159.	Given n, check if it is a power of any integer k.
+160.	Given n, print the binary representation of n.
+161.	Given n, print the number of 1s in its binary representation.
+162.	Given n, print the number of 0s in its binary representation.
+163.	Given n, print the count of set bits in n (Brian Kernighan’s method).
+164.	Given n, print YES if n is a palindrome in binary.
+165.	Given n, print YES if n is a palindrome in hexadecimal.
+166.	Given n, print its Gray code representation.
+167.	Given n, convert Gray code back to binary.
+168.	Given n, print the Hamming weight (number of differing bits) compared with m.
+169.	Given n, print the Hamming distance between two binary strings.
+170.	Given n, print the next higher number with the same number of set bits.
+171.	Given n, print all permutations of [1, 2, …, n].
+172.	Given n, print all combinations of r elements from [1, 2, …, n].
+173.	Given n, generate all subsets of [1, 2, …, n].
+174.	Given a list of n integers, print the sum of all elements.
+175.	Given a list of n integers, print the average of the elements.
+176.	Given a list of n integers, print the maximum element.
+177.	Given a list of n integers, print the minimum element.
+178.	Given a list of n integers, print the difference between max and min.
+179.	Given a list of n integers, print the second largest element.
+180.	Given a list of n integers, print the second smallest element.
+181.	Given a list of n integers, print the list in reverse order.
+182.	Given a list of n integers, print the list sorted in increasing order.
+183.	Given a list of n integers, print the list sorted in decreasing order.
+184.	Given a list of n integers, print the median value.
+185.	Given a list of n integers, print the mode value.
+186.	Given a list of n integers, print the variance (population variance).
+187.	Given a list of n integers, print the standard deviation.
+188.	Given a list of n integers, print all distinct elements.
+189.	Given a list of n integers, print all elements that occur more than once.
+190.	Given a list of n integers, print the frequency of each element.
+191.	Given a list of n integers, check if it is sorted (non-decreasing).
+192.	Given a list of n integers, check if it is strictly increasing.
+193.	Given a list of n integers, check if it is strictly decreasing.
+194.	Given a list of n integers, rotate the list left by k positions.
+195.	Given a list of n integers, rotate the list right by k positions.
+196.	Given a list of n integers, shift all zeros to the end while maintaining order.
+197.	Given a list of n integers, shift all negatives to the front while maintaining order.
+198.	Given a list of n integers, separate even and odd numbers into two lists.
+199.	Given a list of n integers, print the longest increasing subsequence (brute force for small n).
+200.	Given a list of n integers, print the longest decreasing subsequence.Read a string and print its length.
+201.	Read a string and print it in reverse.
+202.	Read a string and print the first and last character.
+203.	Read a string and count vowels and consonants (letters only).
+204.	Read a string and count digits, letters, and other characters.
+205.	Read a string and remove all spaces (print the result).
+206.	Read a string and collapse multiple spaces to a single space.
+207.	Read a string and convert it to lowercase, then uppercase on a new line.
+208.	Read a string and swap case of every character.
+209.	Read a string and print YES if it is a palindrome (ignore case and spaces), else NO.
+210.	Read a string and remove all vowels.
+211.	Read a string and remove all consonants (letters that are not vowels).
+212.	Read a string and remove all digits.
+213.	Read a string and keep only alphanumeric characters.
+214.	Read a string and count occurrences of a given character c.
+215.	Read a string and replace all occurrences of a given character a with b.
+216.	Read a string and print the index of the first occurrence of a given substring t (or -1).
+217.	Read a string and print the count of (possibly overlapping) occurrences of substring t.
+218.	Read a string and print the number of words (words are sequences of non-space characters).
+219.	Read a sentence and print the longest word (if tie, print the first).
+220.	Read a string and print all unique characters in order of first appearance.
+221.	Read a string and print the frequency of each character (sorted by character).
+222.	Read a sentence and print word frequencies (case-insensitive, sorted by word).
+223.	Read two strings and print YES if they are anagrams (ignore spaces/case), else NO.
+224.	Read a string and perform run-length encoding (e.g., “aaabb” → “a3b2”).
+225.	Read a run-length encoded string (valid) and decode it.
+226.	Read a string and perform a Caesar cipher shift by k (letters only, preserve case).
+227.	Read a string and apply ROT13 encoding.
+228.	Read a string and print YES if it is a pangram (contains all letters a–z), else NO.
+229.	Read a string and print YES if it is an isogram (no repeated letters, ignore case), else NO.
+230.	Read two strings and print the length of their longest common prefix.
+231.	Read two strings and print the length of their longest common suffix.
+232.	Read a string and a window size k; print the lexicographically smallest substring of length k.
+233.	Read a string and a window size k; print the lexicographically largest substring of length k.
+234.	Read a string and remove consecutive duplicate characters (e.g., “aaabbcca” → “abca”).
+235.	Read a string and print the sum of all integers appearing in it (multi-digit numbers allowed).
+236.	Read a string of parentheses and print YES if it is balanced, else NO.
+237.	Read a string containing (), {}, []; print YES if brackets are balanced, else NO.
+238.	Read a string and print the longest palindromic substring (if tie, print the first).
+239.	Read two strings and print their longest common subsequence length (small sizes).
+240.	Read a list of n integers and print the prefix sums array.
+241.	Read a list of n integers and answer q range-sum queries [l, r] using prefix sums (small q).
+242.	Read a list of n integers and a target s; print YES if a pair sums to s, else NO.
+243.	Read a sorted list and a target s; print the pair that sums to s using two pointers (or -1).
+244.	Read a list and a window size k; print the maximum sum of any contiguous subarray of length k.
+245.	Read a list and a window size k; print the minimum sum of any contiguous subarray of length k.
+246.	Read a list and a target s; print the length of the shortest subarray with sum ≥ s (assume positive ints).
+247.	Read a list and print the length of the longest subarray with all distinct elements.
+248.	Read two equal-length arrays and print their dot product.
+249.	Read an r×c matrix and print its transpose.
+250.	Read an r×c matrix and print the sum of all elements.
+251.	Read two r×c matrices and print their sum.
+252.	Read two r×c matrices and print their difference (A − B).
+253.	Read an r×c matrix and a scalar k; print the matrix multiplied by k.
+254.	Read an r×c matrix and print its row sums (one per line).
+255.	Read an r×c matrix and print its column sums (one per line).
+256.	Read an n×n matrix and print its trace (sum of main diagonal).
+257.	Read an n×n matrix and print YES if it is symmetric (A = Aᵀ), else NO.
+258.	Read an n×n matrix and print YES if it is diagonal (only diagonal can be non-zero), else NO.
+259.	Read an n×n matrix and print its transpose (in-place not required).
+260.	Read an n×n matrix and print YES if it is upper triangular, else NO.
+261.	Read an n×n matrix and print YES if it is lower triangular, else NO.
+262.	Read two matrices A (p×q) and B (q×r); print their product A×B.
+263.	Read an n×n matrix and print the sum of the secondary diagonal.
+264.	Read an n×n matrix and print the index of the row with maximum sum (0-based; if tie, smallest index).
+265.	Read an n×n matrix and print the index of the column with maximum sum.
+266.	Read a 3×3 matrix and print YES if it is a magic square, else NO.
+267.	Read an n×n matrix and print its elements in spiral order.
+268.	Read an n×n matrix and rotate it 90° clockwise.
+269.	Read an r×c matrix sorted row-wise; given x, print YES if x exists using efficient search, else NO.
+270.	Read an array and sort it using bubble sort (print sorted array).
+271.	Read an array and sort it using selection sort.
+272.	Read an array and sort it using insertion sort.
+273.	Read an array of non-negative ints (values ≤ k) and sort using counting sort.
+274.	Read two sorted arrays and merge them into one sorted array.
+275.	Read an array and an integer k; print the k-th smallest element (1 ≤ k ≤ n).
+276.	Read a sorted array and a target x; perform binary search and print the index or -1.
+277.	Read a sorted array and x; print the index of the first occurrence of x or -1.
+278.	Read a sorted array and x; print the index of the last occurrence of x or -1.
+279.	Read a sorted array and x; print the count of occurrences of x.
+280.	Read an array and remove duplicates while preserving order.
+281.	Read an array and print a frequency map (value → count) sorted by value.
+282.	Read an array and print elements sorted by frequency (desc), then by value (asc) on ties.
+283.	Read two arrays and print their intersection (unique elements) sorted.
+284.	Read two arrays and print their union (unique elements) sorted.
+285.	Read two arrays and print their multiset intersection (respect counts), in any order.
+286.	Read an array and a target s; print all index pairs (i, j), i < j with arr[i] + arr[j] = s.
+287.	Read an array and a target s; print any triplet with sum s (or -1 if none).
+288.	Read an array and print the length of the longest consecutive sequence (unordered array).
+289.	Read an array and print the majority element if one exists (> n/2), else print NONE.
+290.	Read coefficients a₀…aₙ and x; evaluate the polynomial a₀ + a₁x + … + aₙxⁿ (use Horner’s method).
+291.	Read two non-negative integers as strings and print their sum (big integer addition).
+292.	Read two non-negative integers as strings and print their product (schoolbook multiplication; small lengths).
+293.	Read an integer (1…3999) and convert it to Roman numerals.
+294.	Read a valid Roman numeral and convert it to integer.
+295.	Read a positive integer n and print its Excel column title (e.g., 1→A, 28→AB).
+296.	Read an Excel column title (A…Z, AA… etc.) and print its column number.
+297.	Read a date YYYY-MM-DD and print VALID or INVALID (consider leap years; Gregorian rules).
+298.	Read two dates YYYY-MM-DD and print the number of days between them (date2 − date1).
+299.	Write a program that asks for age. If <18, raise a custom UnderageError and handle it gracefully.
+300.	Wrap a division operation in try/except/else/finally and print cleanup actions.
+301.	Implement a context manager ChangeDir(path) that temporarily changes working directory and restores it after exit.
+302.	Implement a context manager Timer() that prints how long a block took.
+303.	Compute the arithmetic mean. (A) [2, 4, 6, 8]. (B) Read n and n numbers.
+304.	Compute the weighted mean. (A) values [10, 20, 30], weights [1, 2, 3]. (B) Read n, then n values and n weights.
+305.	Compute the geometric mean (all numbers > 0). (A) [1.5, 2, 3]. (B) Read n positives.
+306.	Compute the harmonic mean (nonzero). (A) [1, 2, 4]. (B) Read n nonzero values.
+307.	Compute the median. (A) [7, 1, 3, 9, 5]. (B) Read n and n numbers (n can be even/odd).
+308.	Compute the mode (if multiple, print the smallest). (A) [1, 2, 2, 3, 3]. (B) Read n and n integers.
+309.	Compute the trimmed mean by removing p% from each end. (A) data [1..10], p = 10. (B) Read n, data, and p.
+310.	Compute the k-th percentile using nearest-rank. (A) data [5, 2, 7, 9, 1], k = 40. (B) Read n, data, k.
+311.	Compute Q1, Q2, Q3 (nearest-rank). (A) [6, 2, 3, 1, 5, 4, 7, 9]. (B) Read n and data.
+312.	Compute the interquartile range (IQR) = Q3 − Q1. (A) Use data of #159. (B) Read n and data.
+313.	Compute the range = max − min. (A) [−3, 7, 2, 11]. (B) Read n and data.
+314.	Compute mean absolute deviation from the mean. (A) [1, 2, 3, 4, 5]. (B) Read n and data.
+315.	Compute population variance and population standard deviation. (A) [2, 4, 4, 4, 5, 5, 7, 9]. (B) Read n and data.
+316.	Compute sample variance and sample standard deviation (Bessel’s correction). (A) [10, 12, 23, 23, 16, 23, 21, 16]. (B) Read n and data.
+317.	Compute coefficient of variation (CV%) = 100×sd/mean. (A) [10, 12, 11, 13]. (B) Read n and data.
+318.	Compute z-scores for each value (using dataset’s mean & sd). (A) [100, 102, 98, 101]. (B) Read n and data.
+319.	Standardize to zero mean, unit variance; output transformed values. (A) [5, 6, 7, 8]. (B) Read n and data.
+320.	Min–max scale data to [0, 1]. (A) [20, 22, 24, 30]. (B) Read n and data.
+321.	Detect outliers via IQR rule (values < Q1−1.5·IQR or > Q3+1.5·IQR). (A) [1,2,2,3,3,4,100]. (B) Read n and data.
+322.	Build a histogram with k equal-width bins; print counts per bin. (A) data [1..10], k = 3. (B) Read n, data, k.
+323.	Build a frequency table (value → count) sorted by value. (A) [2,2,3,1,3,3]. (B) Read n and integers.
+324.	Build a relative frequency table (value → proportion). (A) [1,1,2,2,2,3]. (B) Read n and integers.
+325.	Build a cumulative frequency table (value → cumulative count). (A) [3,1,2,2,1]. (B) Read n and integers.
+326.	Given queries x₁…x_q, compute the empirical CDF F(x) for each. (A) data [1,2,3,4], queries [0,2,3,5]. (B) Read n data and q queries.
+327.	Compute moving average with window k (valid positions only). (A) data [1,2,3,4,5], k=3. (B) Read n, data, k.
+328.	Compute EWMA with α (0<α≤1). (A) data [10, 11, 13, 12], α=0.5. (B) Read n, data, α.
+329.	Compute covariance of two equal-length lists. (A) x [1,2,3], y [2,4,6]. (B) Read n, then x and y.
+330.	Compute Pearson correlation r. (A) x [1,2,3,4], y [2,3,5,4]. (B) Read n, x, y.
+331.	Compute Spearman rank correlation (average ranks on ties). (A) x [10,20,20,40], y [30,10,20,40]. (B) Read n, x, y.
+332.	Fit simple linear regression y = a + b x (least squares); output a and b. (A) x [1,2,3], y [2,2,4]. (B) Read n, x, y.
+333.	Given regression (a, b) and data, compute R². (A) reuse #180 data. (B) Read n, x, y, a, b.
+334.	For predictions ŷ, compute residuals and MSE. (A) y [3, −1, 2], ŷ [2.5, −0.5, 2]. (B) Read n and two lists.
+335.	Compute MAE and RMSE between y and ŷ. (A) y [1,2], ŷ [1.5,1.5]. (B) Read n and two lists.
+336.	Compute median absolute deviation (MAD) about the median. (A) [1,1,2,2,4,6,9]. (B) Read n and data.
+337.	Compute Gini mean absolute difference: average |x_i − x_j| over all pairs (small n). (A) [1,2,3]. (B) Read n and data.
+338.	Compute Gini coefficient for inequality (Lorenz-curve area method). (A) incomes [1, 2, 3, 4, 5]. (B) Read n and positives.
+339.	Output Lorenz curve points (cum% population vs cum% value). (A) incomes [2,2,4,8,8]. (B) Read n and positives.
+340.	Compute sample skewness (Fisher–Pearson g₁). (A) [2,3,4,5,100]. (B) Read n and data.
+341.	Compute excess kurtosis (Fisher definition). (A) [−2, −1, 0, 1, 2]. (B) Read n and data.
+342.	Compute Shannon entropy (bits) of discrete counts. (A) counts [10, 20, 30]. (B) Read m and m counts.
+343.	Compute KL divergence D_KL(P‖Q) for discrete distributions (normalize if counts). (A) P [2,1], Q [1,2]. (B) Read m and two lists.
+344.	Compute Jensen–Shannon divergence (and its square root). (A) P [0.6,0.4], Q [0.1,0.9]. (B) Read m and two prob. lists.
+345.	Pool two datasets: output pooled mean and pooled variance (unbiased). (A) A [1,2,3], B [4,5]. (B) Read n,m and data.
+346.	Two-sample t-test (equal variances): output t and df. (A) A [5,6,7], B [8,9,10]. (B) Read n,m and data.
+347.	Welch’s t-test (unequal variances): output t and df. (A) A [1,2,50], B [3,4,5,6]. (B) Read n,m and data.
+348.	One-sample t-test for mean = μ₀: output t and df. (A) data [10,12,11,13], μ₀=11. (B) Read n, data, μ₀.
+349.	Z-interval for mean with known σ, 95% CI. (A) data [100,102,98,101], σ=2. (B) Read n, data, σ.
+350.	t-interval for mean with unknown σ, 95% CI. (A) [5,6,7,9,10]. (B) Read n and data.
+351.	Bootstrap CI for the mean (percentile method), with B resamples and fixed random seed. (A) data [1,2,3,4,5], B=2000. (B) Read n, data, B, seed.
+352.	Benford’s law: compute first-digit frequencies, expected vs observed, and χ² statistic. (A) numbers [12, 123, 456, 789, 101, 111]. (B) Read n and n positive integers.
+353.	Write a Python program to compute the bitwise AND, OR, and XOR of two integers entered by the user.
+354.	Write a Python program to check if a number is even or odd using bitwise operators (not modulo).
+355.	Write a Python program to swap two numbers without using a temporary variable (use XOR trick).
+356.	Write a Python program to count the number of set bits (1s) in the binary representation of an integer.
+357.	Write a Python program to check if a given number is a power of 2 (use bitwise operations).
+358.	Write a Python program to find the only non-repeated number in a list where every other number appears exactly twice.
+359.	Write a Python program to turn OFF (set to 0) the k-th bit of an integer.
+360.	Write a Python program to turn ON (set to 1) the k-th bit of an integer.
+361.	Write a Python program to toggle (flip) the k-th bit of an integer.
+362.	Write a Python program to extract the rightmost set bit of an integer.
+363.	Write a Python program to divide an integer by 2 using right shift.
+364.	Write a Python program to multiply an integer by 2 using left shift.
+365.	Write a Python program to find the XOR of all numbers from 1 to n.
+366.	Write a Python program to find the missing number in a list containing numbers 1 to n, where exactly one number is missing, using XOR.
+367.	Write a Python program to generate all subsets of a set using bitmasking.
+368.	Write a recursive function to compute factorial of a number.
+369.	Write a recursive function to compute the n-th Fibonacci number.
+370.	Write a recursive function to compute the gcd of two numbers.
+371.	Write a recursive function to find the sum of digits of an integer.
+372.	Write a recursive function to reverse a string.
+373.	Write a recursive function to check if a string is a palindrome.
+374.	Write a recursive function to perform binary search in a sorted list.
+375.	Write a recursive function to perform linear search in a list.
+376.	Write a recursive function to compute xⁿ (power function).
+377.	Write a recursive function to check if a number is prime.
+378.	Write a recursive function to print numbers from 1 to n.
+379.	Write a recursive function to solve the Tower of Hanoi problem for n disks.
+380.	Write a recursive function to perform merge sort on a list.
+381.	Write a recursive function to perform quicksort on a list.
+382.	Write a recursive function to perform DFS traversal of a graph.
+383.	Write a Python program to print a solid square pattern of * of size n.
+384.	Write a Python program to print a right-angled triangle pattern of *.
+385.	Write a Python program to print an inverted right-angled triangle pattern of *.
+386.	Write a Python program to print a pyramid pattern of *.
+387.	Write a Python program to print an inverted pyramid pattern of *.
+388.	Write a Python program to print a diamond pattern of *.
+389.	Write a Python program to print Pascal’s triangle up to n rows.
+390.	Write a Python program to print Floyd’s triangle with numbers.
+391.	Write a Python program to print a number pyramid where each row contains increasing numbers.
+392.	Write a Python program to print an alphabet pyramid (A, AB, ABC, ...).
+393.	Write a Python program to print a hollow square pattern of *.
+394.	Write a Python program to print a hollow diamond pattern of *.
+395.	Write a Python program to print a checkerboard pattern using * and spaces.
+396.	Write a Python program to print a butterfly pattern of *.
+397.	Write a Python program to print numbers in a spiral form inside a square matrix.
+398.	Write a Python program to open a text file and print its contents line by line.
+399.	Write a Python program to take user input and write it into a text file.
+400.	Write a Python program to count the number of lines in a text file.
+401.	Write a Python program to count the number of words in a text file.
+402.	Write a Python program to count the number of characters in a text file.
+403.	Write a Python program to copy the contents of one text file into another
+404.	Write a Python program that takes two numbers and divides them, handling division by zero with try/except.
+405.	Write a program that reads a file, and handles the case where the file does not exist.
+406.	Write a program that converts a string to integer, handling the case where conversion fails.
+407.	Write a program with try/except/finally to demonstrate cleanup actions.
+408.	Write a program to raise a custom exception if age < 18 for voting eligibility
+409.	
+410.	Write a Python program to merge the contents of two text files into a new file.
+411.	Write a Python program to remove all blank lines from a text file.
+412.	Write a Python program to find and print the longest line in a text file.
+413.	Write a Python program to find the most frequent word in a text file.
+414.	Write a Python program to search for a word in a file and print all lines containing it.
+415.	Write a Python program to replace a given word in a file with another word.
+416.	Write a Python program to store key-value pairs in a JSON file and then read them back.
+417.	Write a Python program to convert a CSV file into a JSON file.
+418.	Write a Python program to convert a JSON file into a CSV file.
+419.	Write a Python program to validate if a given string is a valid email address using regex.
+420.	Write a Python program to validate if a given string is a valid phone number (10 digits).
+421.	Write a Python program to validate if a string is a valid date in DD-MM-YYYY format.
+422.	Write a Python program to extract all numbers from a given text using regex.
+423.	Write a Python program to extract all email addresses from a given text.
+424.	Write a Python program to extract all hashtags from a given sentence.
+425.	Write a Python program to extract all URLs from a given paragraph.
+426.	Write a Python program to find all words in a string that start with a capital letter.
+427.	Write a Python program to replace multiple spaces in a string with a single space.
+428.	Write a Python program to split a sentence into words using regex (not split()).
+429.	Write a Python program to validate if a password is strong (≥8 chars, at least one upper, lower, digit, special char).
+430.	Write a Python program to find all repeated words in a paragraph.
+431.	Write a Python program to extract all 4-digit years from a given text.
+432.	Write a Python program to extract all IP addresses from a log file using regex.
+433.	Write a Python program to extract all domain names from a list of URLs.
+434.	Write a Python program to plot the function y = x² for x = 1 to 10.
+435.	Write a Python program to plot a bar chart of student marks for 5 subjects.
+436.	Write a Python program to plot a pie chart showing expense distribution (e.g., Food, Rent, Travel, Other).
+437.	Write a Python program to plot a histogram of 100 random numbers between 1 and 100.
+438.	Write a Python program to plot a scatter plot of 10 (x, y) points.
+439.	Write a Python program to plot a sine wave using numpy and matplotlib.
+440.	Write a Python program to plot two functions (y = x² and y = 2x) on the same graph.
+441.	Write a Python program to save a matplotlib plot as an image file (PNG).
+442.	Write a Python program to plot a line chart with axis labels and a title.
+443.	Write a Python program to plot a customized line chart with different line styles and markers.
+444.	Write a Python program to simulate 100 coin tosses and print the count of heads and tails.
+445.	Write a Python program to simulate rolling two dice 100 times and print the frequency of each sum.
+446.	Write a Python program to estimate the probability of getting a sum of 7 when rolling two dice.
+447.	Write a Python program to estimate the value of π using Monte Carlo simulation.
+448.	Write a Python program to simulate a random walk in 1D for n steps.
+449.	Write a Python program to simulate a random walk in 2D for n steps.
+450.	Write a Python program to generate a lottery ticket with 6 unique random numbers between 1 and 49.
+451.	Write a Python program to simulate the birthday paradox and estimate the probability of a shared birthday in a group.
+452.	Write a Python program to simulate Buffon’s needle experiment for estimating π.
+453.	Write a Python program to simulate a random walk model of stock price movements.
+454.	Write a Python program to fetch JSON data from a public API (e.g., joke API) and print it.
+455.	Write a Python program to fetch the current weather of a city using a weather API.
+456.	Write a Python program to fetch and print a random joke from an API.
+457.	Write a Python program to fetch the current price of Bitcoin (or another crypto) using an API.
+458.	Write a Python program to create a simple client-server socket program where the client sends a message and the server prints it.
+459.	Write a custom iterator class to generate squares of numbers up to n.
+460.	Write a generator function that yields Fibonacci numbers up to n.
+461.	Write a generator that yields prime numbers up to n.
+462.	Write a generator for infinite even numbers (stop after first 20).
+463.	Write a generator that yields lines of a file one by one.
+464.	
+465.	Read principal P, rate R% (annual), time T (years); print EMI for monthly installments (assume 12 payments/year).
+466.	Read principal P, rate R%, time T (years); print simple interest.
+467.	Read principal P, rate R%, time T (years); print compound interest (compounded annually).
+468.	Read principal P, rate R%, time T (years); print compound interest (compounded monthly).
+469.	Read principal P, rate R%, time T (years); print future value of investment.
+470.	Read principal P, rate R%, time T (years); print present value of investment.
+471.	Read speed v and time t; print distance = v × t.
+472.	Read distance d and speed v; print time required.
+473.	Read distance d and time t; print speed.
+474.	Read two workers’ times A and B (to complete a job alone); print the time they take if they work together.
+475.	Create a custom iterator Countdown(n) with __iter__ and __next__.
+476.	Write a generator that yields sliding pairs (a,b) from a list.
+477.	Implement chain(*iterables) using yield from.
+478.	Write a peekable iterator class with .peek() and .has_next().
+479.	Read pipe A (fill in t₁ hrs) and pipe B (empty in t₂ hrs); print time to fill the tank together.
+480.	Read number of pages p, reading speed r pages/hr; print hours needed.
+481.	Read n, print sum of angles in an n-sided polygon.
+482.	Read n, print number of diagonals in an n-sided polygon.
+483.	Read radius r, print volume of a sphere.
+484.	Read radius r and height h, print volume of a cone.
+485.	Read radius r and height h, print volume of a cylinder.
+486.	Read length l, breadth b, height h; print volume of cuboid.
+487.	Read side a, print volume of cube.
+488.	Read radius r and height h, print surface area of a cylinder.
+489.	Read radius r and height h, print slant height and surface area of a cone.
+490.	Read radius r, print surface area of a sphere.
+491.	Read three sides a, b, c; print area of triangle using Heron’s formula.
+492.	Read base b and height h; print area of triangle.
+493.	Read two diagonals d₁ and d₂; print area of a rhombus.
+494.	Read four sides of a quadrilateral and one diagonal; print area using Bretschneider’s formula (assume convex).
+495.	Read 2D coordinates (x₁, y₁), (x₂, y₂); print distance between points.
+496.	Read 2D coordinates (x₁, y₁), (x₂, y₂); print midpoint.
+497.	Read 2D coordinates (x₁, y₁), (x₂, y₂), (x₃, y₃); print area of triangle.
+498.	Read 2D coordinates (x₁, y₁), (x₂, y₂), (x₃, y₃); check if collinear.
+499.	Read slope m and point (x₁, y₁); print equation of line in form y – y₁ = m(x – x₁).
+500.	Read line coefficients ax + by + c = 0; print its slope and intercept.
+501.	Read two line equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0; print intersection point (if exists).
+502.	Read coordinates of circle center (h, k) and radius r; print equation of circle.
+503.	Read equation of circle x² + y² + 2gx + 2fy + c = 0; print its center and radius.
+504.	Read coordinates of parabola vertex (h, k) and focus (h, k + p); print its equation.
+505.	Read coefficients of quadratic ax² + bx + c = 0; print roots (real or complex).
+506.	Read coefficients of quadratic ax² + bx + c = 0; print sum and product of roots.
+507.	Read coefficients of quadratic ax² + bx + c = 0; print nature of roots (real distinct, real equal, or complex).
+508.	Read a polynomial of degree ≤ 4 and a value x; print its value.
+509.	Read coefficients of two polynomials; print their sum polynomial.
+510.	Read coefficients of two polynomials; print their product polynomial.
+511.	Read polynomial coefficients and print its derivative polynomial.
+512.	Read polynomial coefficients and print its integral polynomial (constant = 0).
+513.	Read a polynomial and perform synthetic division by (x – a).
+514.	Read coefficients of cubic polynomial; print its discriminant.
+515.	Use @dataclass to define Student(name, marks) with average and ordering.
+516.	Add type hints to a math library and run mypy to check errors.
+517.	Implement Singleton Logger and verify only one instance is created.
+518.	Implement Strategy pattern for sorting: switch between bubble and merge sort.
+519.	Implement Observer pattern: when a Subject’s state changes, notify multiple observers.
+520.	
+521.	Read n, compute the nth Bernoulli number (small n).
+522.	Read n, compute the nth Harmonic number Hₙ.
+523.	Read n, compute generalized Harmonic number Hₙ,ᵐ = 1/1ᵐ + 1/2ᵐ + … + 1/nᵐ.
+524.	Read n, print first n terms of the Taylor expansion of eˣ at x=1.
+525.	Read n, print first n terms of the Taylor expansion of sin(x) at x=0 (Maclaurin).
+526.	Read n, print first n terms of the Taylor expansion of cos(x) at x = 0.
+527.	Read n, print first n terms of the Taylor expansion of ln(1 + x) at x = 0.
+528.	Read n, approximate e using the series 1 + 1/1! + 1/2! + … + 1/n!.
+529.	Read n, approximate π using the Leibniz series 4 × (1 – 1/3 + 1/5 – 1/7 + … up to n terms).
+530.	Read n, approximate π using the Nilakantha series 3 + 4/(2×3×4) – 4/(4×5×6) + … up to n terms.
+531.	Read x, approximate sin(x) using Taylor series up to n terms.
+532.	Read x, approximate cos(x) using Taylor series up to n terms.
+533.	Read x, approximate eˣ using Taylor series up to n terms.
+534.	Read x, approximate ln(1 + x) using Taylor series up to n terms.
+535.	Read x, approximate arctan(x) using Taylor series up to n terms.
+536.	Read x, print the derivative at x numerically using difference quotient (f(x+h) – f(x))/h.
+537.	Read x, approximate derivative of sin(x) at x using small h.
+538.	Read x, approximate derivative of eˣ at x using small h.
+539.	Read a, b, n; approximate ∫ f(x) dx using trapezoidal rule for n subintervals.
+540.	Read a, b, n; approximate ∫ f(x) dx using Simpson’s rule (n even).
+541.	Read n, approximate ln(2) using series 1 – 1/2 + 1/3 – 1/4 + … ± 1/n.
+542.	Read n, compute golden ratio approximation using Fibonacci ratio F(n)/F(n–1).
+543.	Read n, compute silver ratio approximation using Pell numbers.
+544.	Read n, compute √2 using Newton–Raphson iteration up to n steps.
+545.	Read n, compute cube root of 2 using Newton–Raphson iteration up to n steps.
+546.	Read n, generate n random integers between 1 and 6; simulate dice throws.
+547.	Simulate tossing a coin n times; print counts of heads and tails.
+548.	Read n, simulate probability of getting sum = 7 in n dice throws.
+549.	Read n, simulate probability of at least one head in n coin tosses.
+550.	Read n, simulate probability that at least two people share a birthday (birthday paradox).
+551.	Read n, simulate Monte Carlo approximation of π by throwing n random points in unit square.
+552.	Read n, simulate Monty Hall problem and estimate probability of winning if you switch.
+553.	Read n, generate n random integers and print sample mean and variance.
+554.	Read n, simulate a random walk of n steps (+1 or –1 each step) and print final position.
+555.	Read n, simulate a 2D random walk of n steps (up/down/left/right).
+556.	Read n, generate a sequence of n random numbers and compute autocorrelation with lag 1.
+557.	Generate n pseudorandom numbers using Linear Congruential Generator parameters (a, c, m, seed).
+558.	Read n, simulate Buffon’s needle experiment to estimate π.
+559.	Read n, simulate gambler’s ruin problem (start capital k, goal N).
+560.	Read n, simulate a queue system with arrivals and service times (small).
+561.	Read n, simulate binomial distribution by tossing a coin n times per trial.
+562.	Read n, simulate geometric distribution (trials until first success).
+563.	Read n, simulate Poisson distribution with mean λ using random sampling.
+564.	Read n, simulate normal distribution samples using Box-Muller method.
+565.	Generate n uniform random numbers and test if distribution looks flat (frequency counts).
+566.	Generate n normal random numbers and compute sample mean and standard deviation.
+567.	Read n, simulate exponential distribution with parameter λ.
+568.	Read n, simulate Cauchy distribution (x = tan(π(u – 0.5))).
+569.	Read n, simulate logistic distribution using inverse transform sampling.
+570.	Read n, simulate triangular distribution (parameters a, b, c).
+571.	Read n, simulate discrete uniform distribution over k categories.
+572.	Read n, simulate multinomial distribution (k categories, n trials).
+573.	Read n, simulate hypergeometric distribution (population, successes, draws).
+574.	Read n, simulate random graph G(n, p) (Erdős–Rényi model).
+575.	Read n, simulate preferential attachment graph (Barabási–Albert model).
+576.	Read n and generate adjacency matrix of a complete graph Kₙ.
+577.	Read n and generate adjacency list of a complete graph Kₙ.
+578.	Read n and generate adjacency matrix of a cycle graph Cₙ.
+579.	Read n and generate adjacency list of a path graph Pₙ.
+580.	Read n and m, generate adjacency list of a random undirected graph with m edges.
+581.	Read n and p, generate Erdős–Rényi random graph G(n, p).
+582.	Read adjacency list of a graph, print degree of each vertex.
+583.	Read adjacency list of a graph, print max degree and vertex index.
+584.	Read adjacency list of a graph, print YES if it has an isolated vertex.
+585.	Read adjacency list of a graph, print YES if it has a universal vertex.
+586.	Read adjacency list of a graph, check if it is regular (all vertices same degree).
+587.	Read adjacency list of a graph, print number of edges.
+588.	Read adjacency list of a graph, check if it is complete.
+589.	Read adjacency list of a graph, print number of connected components.
+590.	Read adjacency list of a graph, perform BFS from vertex 0 and print traversal order.
+591.	Read adjacency list of a graph, perform DFS from vertex 0 and print traversal order.
+592.	Read adjacency list of a graph, check if graph is connected.
+593.	Read adjacency list of a graph, check if graph is bipartite (BFS coloring).
+594.	Read adjacency list of a graph, check if graph has a cycle (undirected).
+595.	Read adjacency list of a graph, check if graph has a cycle (directed).
+596.	Read adjacency list of a graph, perform topological sort (DAG only).
+597.	Read adjacency list of a graph, print shortest path from s to t using BFS (unweighted).
+598.	Read weighted graph (adjacency list), compute shortest path from s to t using Dijkstra.
+599.	Read weighted graph (adjacency list), compute shortest paths from s to all vertices (Dijkstra).
+600.	Read weighted graph (adjacency matrix), compute all pairs shortest paths (Floyd–Warshall).
+601.	Read weighted graph (adjacency list), compute shortest paths from s to all vertices (Bellman–Ford).
+602.	Read adjacency list of weighted graph, compute minimum spanning tree weight (Kruskal).
+603.	Read adjacency list of weighted graph, compute minimum spanning tree weight (Prim).
+604.	Read adjacency list of a directed graph, compute strongly connected components (Kosaraju).
+605.	Read adjacency list of an undirected graph, compute articulation points.
+606.	Read adjacency list of an undirected graph, compute bridges.
+607.	Read adjacency list of a directed graph, check if it has Eulerian path/circuit.
+608.	Read adjacency list of an undirected graph, check if it has Eulerian path/circuit.
+609.	Read adjacency list of a graph, check if it has Hamiltonian path (brute force for n ≤ 10).
+610.	Read adjacency list of a graph, compute chromatic number (small graphs only).
+611.	Read adjacency list of a graph, compute clique number (brute force for n ≤ 10).
+612.	Read adjacency list of a graph, check if it is planar (for small n, brute force).
+613.	Read adjacency list of a graph, print adjacency matrix.
+614.	Read adjacency matrix of a graph, print adjacency list.
+615.	Read adjacency list of a graph, check if it contains self-loops.
+616.	Read adjacency list of a graph, check if it contains multiple edges.
+617.	Read adjacency list of a graph, compute diameter (longest shortest path).
+618.	Read adjacency list of a tree, compute its height.
+619.	Read adjacency list of a tree, compute its centroid(s).
+620.	Read adjacency list of a tree, compute its diameter (longest path).
+621.	Read adjacency list of a tree, check if it is binary.
+622.	Build a CLI tool that sums integers passed on command line.
+623.	Extend it with a --mean flag to compute average.
+624.	Add subcommands: users add and users list.
+625.	Add --verbose flag to control logging level.
+626.	Read binary tree, print preorder traversal.
+627.	Read binary tree, print inorder traversal.
+628.	Read binary tree, print postorder traversal.
+629.	Read binary tree, print level order traversal (BFS).
+630.	Read binary tree, count total number of nodes.
+631.	Read binary tree, count number of leaf nodes.
+632.	Read binary tree, count number of internal nodes.
+633.	Read binary tree, print maximum depth.
+634.	Read binary tree, print minimum depth.
+635.	Read binary tree, print sum of all node values.
+636.	Read binary tree, print maximum node value.
+637.	Read binary tree, print minimum node value.
+638.	Read binary tree, print sum of leaf node values.
+639.	Read binary tree, check if it is height-balanced.
+640.	Read binary tree, check if it is full binary tree.
+641.	Read binary tree, check if it is complete binary tree.
+642.	Read binary tree, check if it is perfect binary tree.
+643.	Read binary tree, mirror the tree and print level order.
+644.	Read binary tree, print left view (nodes visible from left).
+645.	Read binary tree, print right view (nodes visible from right).
+646.	Read binary tree, print top view.
+647.	Read binary tree, print bottom view.
+648.	Read binary tree, print boundary traversal (anti-clockwise).
+649.	Read binary tree, print zigzag level order traversal.
+650.	Read binary tree, print vertical order traversal.
+651.	Read binary tree, print diagonal order traversal.
+652.	Read binary tree, print maximum width.
+653.	Read binary tree, print diameter (longest path).
+654.	Read binary tree, check if it is symmetric.
+655.	Read binary tree, check if two trees are identical.
+656.	Read binary tree, check if one tree is subtree of another.
+657.	Read binary tree, convert to doubly linked list (inorder order).
+658.	Read binary tree, flatten to linked list (preorder order).
+659.	Read binary tree, serialize and deserialize.
+660.	Read binary search tree (BST), insert a key.
+661.	Read BST, delete a key.
+662.	Read BST, search for a key.
+663.	Read BST, print inorder traversal (should be sorted).
+664.	Read BST, print kth smallest element.
+665.	Read BST, print kth largest element.
+666.	Read BST, find lowest common ancestor of two nodes.
+667.	Read BST, check if it is valid (inorder strictly increasing).
+668.	Read BST, convert to balanced BST (sorted array → BST).
+669.	Read BST, print sum of all nodes within range [L, R].
+670.	Read array, build a max heap.
+671.	Read array, build a min heap.
+672.	Read max heap, insert a key.
+673.	Read max heap, delete max.
+674.	Read min heap, insert a key.
+675.	Read min heap, delete min.
+676.	Read array, perform heap sort.
+677.	Read array, find kth largest element using min heap.
+678.	Read array, find kth smallest element using max heap.
+679.	Read array, merge k sorted lists using a heap.
+680.	Compute factorial of n using recursion.
+681.	Compute nth Fibonacci number using recursion.
+682.	Print Fibonacci sequence up to n terms using recursion.
+683.	Compute sum of first n natural numbers using recursion.
+684.	Compute sum of digits of n using recursion.
+685.	Reverse a string using recursion.
+686.	Check if a string is palindrome using recursion.
+687.	Compute gcd(a, b) using Euclid’s algorithm recursively.
+688.	Compute lcm(a, b) using recursion.
+689.	Compute power(a, b) using recursion.
+690.	Generate all binary strings of length n recursively.
+691.	Generate all subsets of a given set recursively.
+692.	Generate all permutations of a string recursively.
+693.	Generate all permutations of an array recursively.
+694.	Solve Tower of Hanoi for n disks and print moves.
+695.	Count number of moves in Tower of Hanoi for n disks.
+696.	Print all paths from (0,0) to (n-1,n-1) in an n×n grid (only right/down moves).
+697.	Print count of paths from (0,0) to (n-1,n-1) in an n×n grid.
+698.	Solve N-Queens problem (print one valid arrangement).
+699.	Count all valid N-Queens arrangements.
+700.	Solve Knight’s Tour problem (print one valid tour for n×n board).
+701.	Solve Rat in a Maze problem (print one path).
+702.	Solve Rat in a Maze problem (print all paths).
+703.	Print all combinations of balanced parentheses of length 2n.
+704.	Print all binary search trees possible with n nodes (Catalan).
+705.	Count number of binary search trees possible with n nodes.
+706.	Compute nth Catalan number using recursion.
+707.	Compute nth Catalan number using DP.
+708.	Compute nth Fibonacci number using DP (memoization).
+709.	Compute nth Fibonacci number using DP (tabulation).
+710.	Solve Fibonacci with space optimization (O(1) space).
+711.	Solve climbing stairs problem: number of ways to climb n steps (1 or 2 at a time).
+712.	Solve climbing stairs problem with k steps allowed.
+713.	Solve coin change problem: number of ways to make sum n with coins.
+714.	Solve coin change problem: minimum number of coins to make sum n.
+715.	Solve subset sum problem: check if subset with given sum exists.
+716.	Solve subset sum problem: count number of subsets with given sum.
+717.	Solve equal partition problem: check if array can be partitioned into two equal-sum subsets.
+718.	Solve 0/1 knapsack problem (maximum value for weight limit W).
+719.	Solve unbounded knapsack problem.
+720.	Solve longest common subsequence (LCS) length for two strings.
+721.	Print one LCS for two strings.
+722.	Solve longest common substring problem.
+723.	Solve edit distance problem (Levenshtein distance).
+724.	Solve minimum insertions to make string palindrome.
+725.	Solve minimum deletions to make string palindrome.
+726.	Solve matrix chain multiplication problem.
+727.	Solve egg dropping puzzle (min attempts with k eggs and n floors).
+728.	Solve rod cutting problem (max value by cutting rod of length n).
+729.	Solve maximum subarray sum problem (Kadane’s algorithm).
+730.	Configure logging with two handlers: console + file, custom format.
+731.	Use warnings to mark a function as deprecated.
+732.	Demonstrate pdb (or breakpoint()) to debug a bug in a loop.
+733.	Use timeit to compare comprehension vs map for squaring numbers.
+734.	Compute factorial of n using recursion.
+735.	Compute nth Fibonacci number using recursion.
+736.	Print Fibonacci sequence up to n terms using recursion.
+737.	Compute sum of first n natural numbers using recursion.
+738.	Compute sum of digits of n using recursion.
+739.	Reverse a string using recursion.
+740.	Check if a string is palindrome using recursion.
+741.	Compute gcd(a, b) using Euclid’s algorithm recursively.
+742.	Compute lcm(a, b) using recursion.
+743.	Compute power(a, b) using recursion.
+744.	Generate all binary strings of length n recursively.
+745.	Generate all subsets of a given set recursively.
+746.	Generate all permutations of a string recursively.
+747.	Generate all permutations of an array recursively.
+748.	Solve Tower of Hanoi for n disks and print moves.
+749.	Count number of moves in Tower of Hanoi for n disks.
+750.	Print all paths from (0,0) to (n-1,n-1) in an n×n grid (only right/down moves).
+751.	Print count of paths from (0,0) to (n-1,n-1) in an n×n grid.
+752.	Solve N-Queens problem (print one valid arrangement).
+753.	Count all valid N-Queens arrangements.
+754.	Solve Knight’s Tour problem (print one valid tour for n×n board).
+755.	Solve Rat in a Maze problem (print one path).
+756.	Solve Rat in a Maze problem (print all paths).
+757.	Print all combinations of balanced parentheses of length 2n.
+758.	Print all binary search trees possible with n nodes (Catalan).
+759.	Count number of binary search trees possible with n nodes.
+760.	Compute nth Catalan number using recursion.
+761.	Compute nth Catalan number using DP.
+762.	Compute nth Fibonacci number using DP (memoization).
+763.	Compute nth Fibonacci number using DP (tabulation).
+764.	Solve Fibonacci with space optimization (O(1) space).
+765.	Solve climbing stairs problem: number of ways to climb n steps (1 or 2 at a time).
+766.	Solve climbing stairs problem with k steps allowed.
+767.	Solve coin change problem: number of ways to make sum n with coins.
+768.	Solve coin change problem: minimum number of coins to make sum n.
+769.	Solve subset sum problem: check if subset with given sum exists.
+770.	Solve subset sum problem: count number of subsets with given sum.
+771.	Solve equal partition problem: check if array can be partitioned into two equal-sum subsets.
+772.	Solve 0/1 knapsack problem (maximum value for weight limit W).
+773.	Solve unbounded knapsack problem.
+774.	Solve longest common subsequence (LCS) length for two strings.
+775.	Print one LCS for two strings.
+776.	Solve longest common substring problem.
+777.	Solve edit distance problem (Levenshtein distance).
+778.	Solve minimum insertions to make string palindrome.
+779.	Solve minimum deletions to make string palindrome.
+780.	Solve matrix chain multiplication problem.
+781.	Solve egg dropping puzzle (min attempts with k eggs and n floors).
+782.	Solve rod cutting problem (max value by cutting rod of length n).
+783.	Solve maximum subarray sum problem (Kadane’s algorithm).
+784.	Solve the longest increasing subsequence (LIS) length problem.
+785.	Print one actual LIS from the array.
+786.	Solve the longest decreasing subsequence (LDS) length problem.
+787.	Solve the longest bitonic subsequence length problem.
+788.	Solve the maximum sum increasing subsequence problem.
+789.	Solve the count of increasing subsequences of length k problem.
+790.	Solve the minimum number of deletions to make array sorted problem.
+791.	Solve the minimum jumps to reach end of array problem.
+792.	Solve the minimum cost path in an n×n grid (move right/down).
+793.	Solve the unique paths problem in an m×n grid (move right/down).
+794.	Solve the unique paths problem with obstacles in a grid.
+795.	Solve the minimum path sum problem in a grid.
+796.	Solve the maximum path sum problem in a grid.
+797.	Solve the number of ways to reach bottom-right cell moving in all 4 directions (small grids).
+798.	Solve the maximum rectangle of 1s in a binary matrix problem.
+799.	Solve the largest square of 1s in a binary matrix problem.
+800.	Solve the maximum sum subrectangle in a 2D matrix problem.
+801.	Solve the number of paths with a given sum in a grid problem.
+802.	Solve the count of distinct paths visiting every cell once in a grid (small n, backtracking).
+803.	Solve the word search problem in a 2D grid (existence of a word).
+804.	Solve the longest common subsequence problem for three strings.
+805.	Solve the shortest common supersequence length problem for two strings.
+806.	Solve the print of one shortest common supersequence problem.
+807.	Solve the longest palindromic subsequence problem.
+808.	Solve the count of palindromic subsequences problem.
+809.	Solve the longest palindromic substring problem.
+810.	Solve the minimum cuts needed for palindrome partitioning problem.
+811.	Solve the count of distinct substrings problem.
+812.	Solve the number of distinct subsequences of a string problem.
+813.	Solve the edit distance between three strings problem (small sizes).
+814.	Solve the minimum insertions and deletions to transform string A to B problem.
+815.	Solve the longest alternating subsequence problem.
+816.	Solve the count of arithmetic subsequences of length ≥3 problem (small n).
+817.	Solve the number of ways to partition an array into k parts with equal sum problem.
+818.	Solve the digit DP problem: count numbers ≤N with digit sum ≤S.
+819.	Solve the digit DP problem: count numbers ≤N without digit 4.
+820.	Solve the digit DP problem: count numbers ≤N with no adjacent equal digits.
+821.	Solve the digit DP problem: sum of digits of all numbers ≤N.
+822.	Solve the digit DP problem: count numbers ≤N divisible by K.
+823.	Solve the digit DP problem: count numbers ≤N with exactly K digits set to 1 in binary.
+824.	Solve the Grundy number for Nim piles (small piles).
+825.	Solve the Sprague–Grundy values for a subtraction game.
+826.	Solve the Grundy numbers for Wythoff’s game (small inputs).
+827.	Solve the game of removing stones: each turn remove 1,3,4 stones, decide winner.
+828.	Solve the coin turning game (small board) winner determination.
+829.	Solve the chocolate bar cutting game winner determination.
+830.	Solve the take-away game: remove 1…k stones, decide winner (Nim variant).
+831.	Solve the misère Nim game winner determination.
+832.	Solve the winner in a 1D coin strip game (small n).
+833.	Solve the winner in a 2D coin placement game (small n×m grid).
+834.	Given a tree, compute size of subtree for every node (tree DP).
+835.	Given a tree, compute sum of subtree values for every node.
+836.	Given a tree, compute maximum depth of subtree for every node.
+837.	Given a tree, compute maximum distance from each node to any other node (eccentricity).
+838.	Given a tree, compute the centroid(s) of the tree.
+839.	Given a tree, compute the longest path passing through each node.
+840.	Given a tree, compute maximum independent set size (tree DP).
+841.	Given a tree, compute count of independent sets modulo 10⁹+7.
+842.	Given a tree, compute maximum matching size.
+843.	Given a tree, compute number of ways to choose k nodes such that no two adjacent (k given).
+844.	Given a tree, compute sum of distances from each node to all other nodes.
+845.	Given a tree, compute number of paths whose sum of weights ≤S (S given).
+846.	Given a tree, compute diameter using one DFS.
+847.	Given a tree, compute sum over all paths of product of endpoints (small n).
+848.	Given a tree, compute maximum path sum between any two nodes.
+849.	Given a tree, compute count of leaf-to-leaf paths with sum divisible by k.
+850.	Given a tree, compute LCA (lowest common ancestor) for q queries (binary lifting).
+851.	Given a tree, compute kth ancestor of a node for q queries.
+852.	Given a tree, compute number of distinct colors in each node’s subtree (color info given).
+853.	Given a tree, compute maximum sum path with at most one edge reversed.
+854.	Given a graph, count number of spanning trees (Kirchhoff’s theorem, small n).
+855.	Given a graph, compute number of paths of length exactly k between u and v (matrix exponentiation).
+856.	Given a DAG, compute number of distinct paths from s to t.
+857.	Given a DAG, compute longest path length from s to t.
+858.	Given a DAG, compute number of topological sorts.
+859.	Given a DAG, compute minimum path cover.
+860.	Given a bipartite graph, compute maximum matching (Hungarian for small n).
+861.	Given a bipartite graph, compute minimum vertex cover (König’s theorem).
+862.	Given a graph, compute min-cut between s and t (small graph).
+863.	Given a graph, compute max-flow between s and t (Edmonds–Karp, small graph).
+864.	Given a weighted directed graph, compute Johnson’s algorithm for all pairs shortest paths.
+865.	Given a graph, compute number of simple cycles of length k (small n).
+866.	Given a graph, compute number of Hamiltonian paths (bitmask DP, small n).
+867.	Given a graph, compute traveling salesman cost (bitmask DP, small n).
+868.	Given a graph, compute minimum Steiner tree (bitmask DP, small n).
+869.	Given n, compute number of integer partitions of n (DP).
+870.	Given n, compute number of ways to write n as sum of squares.
+871.	Given n, compute number of ways to write n as sum of distinct squares.
+872.	Given n, compute number of ways to write n as sum of cubes (small n).
+873.	Given n, compute number of ways to write n as sum of distinct primes.
+874.	Given n, compute number of ways to write n as sum of two squares.
+875.	Given n, compute number of ways to write n as sum of two primes (Goldbach count).
+876.	Given n, compute number of coprime pairs (i,j) with 1 ≤ i,j ≤ n.
+877.	Given n, compute sum of gcd(i,j) for 1 ≤ i,j ≤ n.
+878.	Given n, compute sum of lcm(i,j) for 1 ≤ i,j ≤ n (small n).
+879.	Given n, compute number of reduced fractions with denominator ≤ n.
+880.	Given n, compute sum of Euler’s totient φ(k) for k = 1..n.
+881.	Given n, compute Möbius function μ(k) for k = 1..n and its prefix sums.
+882.	Given n, compute number of divisors of all numbers 1..n efficiently (sieve style).
+883.	Given n, compute sum of divisors of all numbers 1..n efficiently (sieve style).
+884.	Compute n! modulo m.
+885.	Compute binomial coefficient C(n, k) modulo m using DP.
+886.	Compute binomial coefficient C(n, k) modulo a prime using factorial + inverse factorial.
+887.	Compute modular exponentiation a^b mod m (fast power).
+888.	Compute modular inverse of a mod p (p prime).
+889.	Compute modular inverse of a mod m (using extended Euclid, general m).
+890.	Compute all modular inverses 1..n mod p (p prime).
+891.	Compute nCr mod p for multiple queries (precompute factorials).
+892.	Compute nPr mod p for multiple queries.
+893.	Compute Lucas theorem C(n,k) mod p for large n,k (p prime).
+894.	Compute number of ways to arrange n objects with repetitions mod p.
+895.	Compute Stirling numbers of first kind mod p.
+896.	Compute Stirling numbers of second kind mod p.
+897.	Compute Bell numbers mod p (small n).
+898.	Compute F(n) where F(n)=F(n-1)+F(n-2) mod m for large n (matrix exponentiation).
+899.	Compute nth Tribonacci mod m (matrix exponentiation).
+900.	Compute nth term of linear recurrence with given coefficients mod m (matrix exponentiation).
+901.	Compute sum of first n Fibonacci numbers mod m.
+902.	Compute sum of first n squares mod m.
+903.	Compute sum of first n cubes mod m.
+904.	Compute ∑_{i=1}^n i^k mod m (small k) using precomputed powers.
+905.	Compute ∑_{i=1}^n φ(i) mod m for large n (segmented sieve style).
+906.	Compute ∑_{i=1}^n μ(i) mod m for large n.
+907.	Compute ∑_{i=1}^n gcd(i, n) mod m.
+908.	Compute ∑_{i=1}^n lcm(i, n) mod m (small n).
+909.	Compute product of gcd(i, j) for 1 ≤ i,j ≤ n mod m (small n).
+910.	Compute product of lcm(i, j) for 1 ≤ i,j ≤ n mod m (small n).
+911.	Compute multiplicative order of a modulo n.
+912.	Compute primitive root modulo n (if exists).
+913.	Check if n is a quadratic residue mod p (Legendre symbol).
+914.	Compute square root of a modulo p (Tonelli–Shanks algorithm).
+915.	Compute discrete logarithm (a^x ≡ b mod m) using baby-step giant-step (small m).
+916.	Compute Euler’s totient function for all 1..n (sieve).
+917.	Compute sum of divisors of all 1..n mod m (optimized).
+918.	Compute count of primes in [1,n] using sieve of Eratosthenes.
+919.	Compute count of primes in [L,R] using segmented sieve.
+920.	Compute largest prime ≤n using sieve.
+921.	Compute smallest prime factor for all numbers ≤n.
+922.	Compute prime factorization of all numbers ≤n (linear sieve).
+923.	Compute prefix sums of φ(n) for n ≤10^6 (sieve style).
+924.	Compute prefix sums of μ(n) for n ≤10^6 (sieve style).
+925.	Compute Dirichlet convolution of two arithmetic functions f and g for 1..n.
+926.	Compute multiplicative function values for 1..n given prime factors.
+927.	Compute Möbius inversion of a given function f(n) to get g(n).
+928.	Compute number of divisors of n! mod m.
+929.	Compute sum of divisors of n! mod m.
+930.	Compute trailing zeros in n! base b.
+931.	Compute highest power of prime p dividing n!.
+932.	Compute product of all primes ≤n mod m.
+933.	Compute the n-th convolution of two sequences using Fast Fourier Transform (FFT).
+934.	Implement naive substring search: given text T and pattern P, print all start indices of P in T.
+935.	Implement Rabin–Karp algorithm for pattern matching (single pattern).
+936.	Implement Rabin–Karp algorithm for pattern matching (multiple patterns).
+937.	Implement Knuth–Morris–Pratt (KMP) algorithm for pattern matching.
+938.	Implement KMP to count number of occurrences of P in T.
+939.	Implement KMP to find longest prefix of pattern that is also suffix at each position (LPS array).
+940.	Implement Z-algorithm for pattern matching.
+941.	Implement Z-algorithm to compute longest substring starting at each position matching prefix.
+942.	Implement Boyer–Moore algorithm (bad character heuristic).
+943.	Implement finite automaton for a given pattern P and use it to search in T.
+944.	Compute prefix-function (π array) for a given string.
+945.	Compute border array for a given string.
+946.	Compute all borders of a string.
+947.	Compute number of distinct substrings using suffix automaton.
+948.	Build suffix array of a string (naive O(n²logn) for small n).
+949.	Build suffix array of a string using doubling algorithm (small n).
+950.	Build LCP (Longest Common Prefix) array given string and its suffix array.
+951.	Compute number of different substrings using suffix array + LCP.
+952.	Compute lexicographically smallest rotation of a string using Booth’s algorithm.
+953.	Compute lexicographically largest rotation of a string.
+954.	Compute minimum period of a string.
+955.	Check if a string is a repetition of some smaller string.
+956.	Given string s, find shortest palindrome you can form by adding characters in front.
+957.	Given string s, find shortest palindrome you can form by adding characters at the end.
+958.	Compute longest repeated substring using suffix array.
+959.	Compute longest common substring of two strings using suffix array.
+960.	Compute longest common substring of three strings using suffix array.
+961.	Compute longest palindromic substring using Manacher’s algorithm.
+962.	Compute number of palindromic substrings using Manacher’s algorithm.
+963.	Build Aho–Corasick automaton for a set of patterns and find all matches in text.
+964.	Build a trie from given set of strings and print its structure.
+965.	Implement auto-complete: given a prefix, list all words in trie with that prefix.
+966.	Count total number of nodes in a trie.
+967.	Count total number of distinct words in a trie.
+968.	Compute longest common prefix of a set of words using trie.
+969.	Build a compressed trie (radix tree) from given strings.
+970.	Implement suffix tree for a string (Ukkonen’s algorithm for small n).
+971.	Compute all occurrences of a substring using suffix tree.
+972.	Compute longest common substring of two strings using suffix tree.
+973.	Compute number of distinct substrings using suffix tree.
+974.	Build a minimal deterministic finite automaton (DFA) for a set of strings (small).
+975.	Build a prefix automaton for string matching.
+976.	Given string s and queries l,r, return hash of substring s[l:r] (rolling hash).
+977.	Compare two substrings of s using precomputed hashes (constant time).
+978.	Find all pairs of equal substrings between two strings using hashing.
+979.	Count distinct palindromic substrings using palindrome tree (Eertree).
+980.	Build suffix automaton of a string and compute number of paths in it.
+981.	Compute longest path in suffix automaton corresponding to distinct substring length.
+982.	Compute smallest k-lexicographic substring of a string using suffix automaton.
+983.	Compute number of occurrences of each substring using suffix automaton.
+984.	Compute convolution of two integer sequences using FFT (complex numbers).
+985.	Compute convolution of two integer sequences using Number Theoretic Transform (NTT, small prime modulus).
+986.	Multiply two large integers using FFT.
+987.	Multiply two polynomials mod p using NTT.
+988.	Compute circular convolution of two sequences using FFT.
+989.	Compute autocorrelation of a sequence using FFT.
+990.	Compute cross-correlation of two sequences using FFT.
+991.	Compute convolution of three sequences using FFT.
+992.	Compute convolution of two boolean sequences to count number of pairs with sum s.
+993.	Compute convolution of digit sequences to count number of carry operations (small n).
+994.	Compute power of a polynomial using FFT (exponentiation by squaring).
+995.	Compute inverse of a polynomial mod xⁿ using FFT (Newton’s method, small n).
+996.	Compute square root of a polynomial mod xⁿ (small n).
+997.	Compute derivative of a polynomial mod xⁿ.
+998.	Compute integral of a polynomial mod xⁿ.
+999.	Compute product of n polynomials using divide and conquer FFT.
+1000.	Compute pattern matching of binary strings using FFT convolution.
+1001.	Compute number of ways to form sum s from digits using convolution.
+1002.	Compute number of occurrences of pattern in text using polynomial hashing (rolling hash).
+1003.	Compute number of distinct substrings using polynomial hashing.
+1004.	Compute hash of reversed substrings to test palindrome in O(1).
+1005.	Compute longest prefix-suffix match for each prefix using rolling hash.
+1006.	Compute number of different palindromic substrings using hashing.
+1007.	Compute minimum rotation of string using hashing to compare rotations quickly.
+1008.	Compute maximum overlap of two strings using hashing.
+1009.	Compute the LCS length of two strings using bitset optimization.
+1010.	Compute the edit distance between two strings using bit-parallel algorithm.
+1011.	Compute the jumbled pattern matching count using FFT convolution (small alphabet).
+1012.	Compute the Hamming distance of two strings using FFT convolution (binary).
+1013.	Compute wildcard pattern matching (“?” matches one char, “*” matches any string) using DP.
+1014.	Compute regex-like matching with simple operators “.” and “*” using DP.
+1015.	Compute the shortest common superstring of a set of strings (small n).
+1016.	Compute the longest repeated substring of a string using suffix automaton + hashing.
+1017.	Compute the minimal DFA that accepts exactly the given string and its suffixes.
+1018.	Compute the minimal DFA that accepts all rotations of a string.
+1019.	Compute the lexicographically k-th substring of a string using suffix array + LCP.
+1020.	Compute the lexicographically k-th substring of a string using suffix automaton.
+1021.	Compute the smallest substring that contains all characters of the alphabet.
+1022.	Compute the smallest substring that contains all characters of another string.
+1023.	Compute the smallest window substring containing at least k occurrences of each char.
+1024.	Compute the shortest substring with sum ≥ S using sliding window.
+1025.	Compute the longest substring with at most k distinct characters.
+1026.	Compute the longest substring with exactly k distinct characters.
+1027.	Compute the number of substrings with at most k distinct characters.
+1028.	Compute the number of substrings with exactly k distinct characters.
+1029.	Compute the longest substring without repeating characters (linear time).
+1030.	Compute the count of substrings whose XOR of character codes = 0.
+1031.	Compute the count of substrings whose sum of character codes divisible by m.
+1032.	Compute the count of substrings whose polynomial hash equals a given value.
+1033.	Compute the longest palindromic substring of each prefix using hashing.
+1034.	Given n points (x,y), compute their centroid.
+1035.	Given n points, compute the bounding rectangle (min x, max x, min y, max y).
+1036.	Given n points, compute the pair with minimum Euclidean distance (brute force).
+1037.	Given n points, compute the pair with minimum Euclidean distance (divide and conquer).
+1038.	Given n points, compute the pair with maximum Euclidean distance.
+1039.	Given n points, compute the convex hull (Graham scan).
+1040.	Given n points, compute the convex hull (Andrew’s monotone chain).
+1041.	Given n points, compute the perimeter of their convex hull.
+1042.	Given n points, compute the area of their convex hull.
+1043.	Given n points, compute rotating calipers to find the farthest pair on hull.
+1044.	Given n points, compute the diameter of the point set (rotating calipers).
+1045.	Given polygon vertices in order, compute its area (shoelace formula).
+1046.	Given polygon vertices, check if polygon is convex.
+1047.	Given two convex polygons, check if they intersect.
+1048.	Given two convex polygons, compute their intersection polygon (small n).
+1049.	Given a convex polygon, compute point-in-polygon test for q points.
+1050.	Given a non-convex polygon, triangulate it (ear clipping, small n).
+1051.	Given n line segments, detect if any two intersect (sweepline).
+1052.	Given n line segments, count the number of intersections (sweepline).
+1053.	Given n points, compute their Delaunay triangulation (small n).
+1054.	Given n points, compute the Voronoi diagram (conceptual output for small n).
+1055.	Given n circles, find all intersection points (small n).
+1056.	Given n circles, compute union area (Monte Carlo approximation).
+1057.	Given n rectangles, compute union area (sweepline).
+1058.	Given n rectangles, compute intersection area.
+1059.	Given n rectangles, compute total perimeter of union.
+1060.	Given n intervals on a line, compute total covered length.
+1061.	Given n intervals, compute all maximal disjoint sets.
+1062.	Given n intervals, compute minimum number of points to hit all intervals.
+1063.	Given n intervals, compute maximum overlapping intervals at any time.
+1064.	Given n events (start,end), schedule maximum non-overlapping events (interval scheduling).
+1065.	Given n weighted intervals, compute maximum weight of non-overlapping events (weighted interval scheduling DP).
+1066.	Given n points, compute minimal spanning tree length using Kruskal.
+1067.	Given n points, compute minimal spanning tree length using Prim.
+1068.	Given n points, compute minimal perfect matching (Hungarian algorithm, small n).
+1069.	Given a bipartite graph with costs, compute minimum-cost matching (Hungarian algorithm).
+1070.	Given network of pipes (graph), compute max-flow min-cut (Edmonds–Karp).
+1071.	Given network of pipes (graph), compute max-flow min-cut (Dinic’s algorithm, small n).
+1072.	Given flow network, compute min-cost max-flow (successive shortest path, small n).
+1073.	Given graph with lower/upper bounds on edges, compute feasible flow (small n).
+1074.	Given graph with capacities, compute edge-disjoint paths between s and t.
+1075.	Given graph with capacities, compute vertex-disjoint paths between s and t.
+1076.	Given directed acyclic graph, compute number of paths with length exactly k between two nodes.
+1077.	Given weighted directed graph, compute longest path length in DAG.
+1078.	Given DAG, compute number of linear extensions (topological orders).
+1079.	Given undirected weighted graph, compute minimum spanning forest.
+1080.	Given graph, compute minimum cut separating a given set of terminals from another (multi-terminal cut).
+1081.	Given graph, compute Gomory–Hu tree of all-pairs minimum cuts (small n).
+1082.	Given graph, compute maximum matching in general graph (Edmonds’ blossom, small n).
+1083.	Given graph, compute edge connectivity and vertex connectivity.
+1084.	Given a set of half-planes (ax + by ≤ c), compute their intersection polygon and its area (small n).
+1085.	Clip a convex polygon by a single half-plane and output the resulting polygon (Sutherland–Hodgman).
+1086.	Clip a (possibly non-convex) polygon by a convex polygon and output the resulting polygon (small n).
+1087.	Compute the Minkowski sum of two convex polygons given in counterclockwise order.
+1088.	Point-in-polygon test (ray casting) for a simple polygon (on-edge counts as inside).
+1089.	Count intersections between a line segment and a simple polygon’s edges.
+1090.	Compute the visibility polygon from a point inside a simple polygon (small n).
+1091.	Decompose a simple polygon into convex pieces (greedy ear/diagonal cuts; small n).
+1092.	Given n general-position lines (no parallels, no three concurrent), compute number of regions formed.
+1093.	Compute intersection points of a line and a circle (0, 1, or 2 points).
+1094.	From an external point, compute the tangent points to a circle (if exist).
+1095.	Compute the common external tangents between two disjoint circles (if exist).
+1096.	Compute the shortest distance between two line segments in 2D.
+1097.	Closest pair of points under Manhattan distance (O(n log n)).
+1098.	Compute the minimum enclosing circle of a set of points (small n).
+1099.	Compute the minimum-area bounding rectangle of a convex polygon (rotating calipers).
+1100.	Solve a 2-variable linear program: maximize c₁x + c₂y subject to linear inequalities (vertex enumeration).
+1101.	Given linear inequalities in 2D, test feasibility and return one feasible point if it exists.
+1102.	Solve a small integer linear program in 2D by bounded brute force over a box.
+1103.	Decide 2-SAT satisfiability using implication graph + SCC; print one assignment if SAT.
+1104.	Maximum closure problem on a directed graph via min-cut reduction (small n).
+1105.	Minimum vertex cover on a tree via DP; output size.
+1106.	Minimum dominating set on a tree via DP (small n).
+1107.	Minimum feedback vertex set in a directed graph (brute force; n ≤ 15).
+1108.	Minimum feedback edge set in a directed graph (brute force; n ≤ 15).
+1109.	k-center problem in metric space: 2-approx greedy (small n, k).
+1110.	Traveling Salesman: nearest-neighbor heuristic then 2-opt improvement (small n).
+1111.	Euclidean MST: compute MST over points using pairwise edges (small n).
+1112.	Detect and print a negative cycle in a weighted directed graph (Bellman–Ford).
+1113.	Largest eigenvalue (spectral radius) estimate of adjacency matrix via power iteration.
+1114.	PageRank on a directed graph with damping factor d; output scores after T iterations.
+1115.	For a Markov chain (row-stochastic matrix), compute steady-state distribution via power method.
+1116.	Absorbing Markov chain: given P, compute absorption probabilities and expected steps (small n).
+1117.	Solve Ax = b using Gaussian elimination with partial pivoting (small n).
+1118.	Compute inverse of a non-singular matrix via Gauss–Jordan (small n).
+1119.	Compute determinant of a matrix via elimination (small n).
+1120.	Compute rank of a matrix via row-reduction to RREF.
+1121.	Compute characteristic polynomial of a 3×3 matrix (closed-form).
+1122.	Compute minimal polynomial of a 2×2 matrix.
+1123.	Orthonormalize a set of vectors using classical Gram–Schmidt (small n).
+1124.	Approximate all eigenvalues of a symmetric matrix using QR iteration (few steps, small n).
+1125.	Polynomial interpolation (Lagrange) through given points; evaluate at x₀.
+1126.	Polynomial interpolation (Newton divided differences); evaluate at x₀.
+1127.	Find a real root of a polynomial on [a, b] using bisection (continuous sign change assumed).
+1128.	Find a real root of a polynomial using the secant method (tolerance ε).
+1129.	Find a real root of a polynomial using Newton–Raphson (with derivative from coefficients).
+1130.	Minimize a convex quadratic f(x) = ½xᵀQx + bᵀx via gradient descent (positive-definite Q, small n).
+1131.	Fit a univariate logistic regression (y∈{0,1}) by gradient descent (tiny dataset).
+1132.	Compute discrete Walsh–Hadamard transform (XOR convolution) of length 2ᵏ sequence; do inverse too.
+1133.	Probabilistic primality test (Miller–Rabin) with chosen bases; output PROBABLE PRIME or COMPOSITE.
+1134.	Implement deterministic Miller–Rabin for 32-bit integers (fixed bases).
+1135.	Implement deterministic Miller–Rabin for 64-bit integers (known minimal base set).
+1136.	Implement Pollard’s Rho factorization (Brent’s variant; retry with random seeds).
+1137.	Factor any 64-bit integer using Miller–Rabin + Pollard’s Rho (output prime powers).
+1138.	Implement Chinese Remainder Theorem for pairwise coprime moduli (constructive).
+1139.	Implement generalized CRT for non-coprime moduli (detect inconsistency).
+1140.	Implement Garner’s algorithm to reconstruct x modulo product of moduli.
+1141.	Implement fast modular multiplication for 128-bit intermediate (to avoid overflow).
+1142.	Implement Barrett reduction for fast a mod m with precomputation.
+1143.	Implement Montgomery reduction and Montgomery multiplication.
+1144.	Compute modular square root a^(1/2) mod p for odd prime p (Tonelli–Shanks).
+1145.	Compute modular k-th roots mod p when k | (p−1) (list all or report none).
+1146.	Solve discrete logarithm a^x ≡ b (mod p) using baby-step giant-step with hash map.
+1147.	Solve discrete logarithm in groups with smooth order using Pohlig–Hellman (factor p−1).
+1148.	Generate a safe prime p = 2q + 1 (probabilistic), given bit length n (small n).
+1149.	Generate random primitive root modulo a prime p using factors of p−1.
+1150.	RSA key generation: choose primes p,q (small bits), compute n, φ(n), e, d.
+1151.	RSA encryption/decryption for small messages (PKCS#1 v1.5-style padding skipped; educational).
+1152.	RSA with CRT optimization for decryption (use dp, dq, qinv).
+1153.	Implement Rabin cryptosystem encryption/decryption (select the correct root with hints).
+1154.	Implement ElGamal public-key encryption over Z_p* (toy parameters).
+1155.	Implement Diffie–Hellman key exchange over Z_p* and derive shared key.
+1156.	Implement Hash-based message authentication code (HMAC) with SHA-256 (use hashlib).
+1157.	Implement Merkle tree over a list of messages (SHA-256); output root and inclusion proofs.
+1158.	Implement simple digital signature scheme: RSA sign/verify with SHA-256 hash (toy).
+1159.	Implement collision finder for a toy hash (very small output bits) via birthday attack.
+1160.	Implement continued fraction expansion of a rational number a/b.
+1161.	Compute best rational approximations (convergents) of a real x given as decimal.
+1162.	Solve Pell’s equation x² − Dy² = 1 for non-square D (small D) using continued fractions.
+1163.	Solve generalized Pell x² − Dy² = N for small |N| (try method of continued fractions).
+1164.	Solve linear Diophantine equation ax + by = c; print one solution or NONE.
+1165.	Enumerate all integer solutions of ax + by = c in a given range box.
+1166.	Solve system of two linear Diophantine equations in two variables (small coefficients).
+1167.	Compute Stern–Brocot tree path for a given positive rational p/q.
+1168.	Enumerate rationals between two given rationals using Farey sequences of order N.
+1169.	Compute Farey neighbors of a/b in Farey sequence of order N.
+1170.	Implement Union–Find (DSU) with path compression and union by rank; support q queries.
+1171.	Implement DSU with rollback (persistent undo) for offline queries.
+1172.	Implement Fenwick tree (BIT) for prefix sums with point updates.
+1173.	Implement Fenwick tree for range updates and point queries using two BITs.
+1174.	Implement sparse table for range minimum query (RMQ) (static array).
+1175.	Implement segment tree for range sum with point updates.
+1176.	Implement segment tree with range add and range sum (lazy propagation).
+1177.	Implement segment tree with range chmin (cap) and range min query (small n).
+1178.	Implement order-statistic tree (Fenwick over frequencies) to find k-th smallest online.
+1179.	Answer offline range sum queries using Mo’s algorithm (reordering queries).
+1180.	Answer offline distinct-count queries on ranges using Mo’s algorithm.
+1181.	Answer offline pair-sum frequency queries on ranges using Mo’s algorithm with modifications (updates).
+1182.	Implement persistent segment tree (versioned) supporting point updates and range sums.
+1183.	Implement wavelet tree for k-th smallest and frequency queries on ranges (small constraints).
+1184.	For a tree, support q queries of path sum using Heavy–Light Decomposition (HLD).
+1185.	For a tree, support q queries of path maximum using HLD.
+1186.	For a tree, support add v on path(u, v) and path sum queries using HLD + lazy segment tree.
+1187.	For a tree, compute subtree sums for q queries using Euler tour + Fenwick tree.
+1188.	For a tree with node weights, compute sum of distances from each node to all others (rerooting DP).
+1189.	For a tree with node weights, compute maximum path sum through each node (rerooting DP).
+1190.	Using centroid decomposition, count pairs of nodes with distance ≤ K.
+1191.	Using centroid decomposition, count pairs of nodes whose path-sum equals S (small constraints).
+1192.	Answer color frequency on path(u, v) using Mo’s algorithm on trees (Euler tour ordering).
+1193.	Using DSU on tree (small-to-large), compute distinct colors in each node’s subtree.
+1194.	Implement Li Chao segment tree: add line y=mx+c, query min at x.
+1195.	Implement Convex Hull Trick (monotone slopes + monotone queries) for DP optimization.
+1196.	Apply Divide & Conquer DP optimization to speed up a partition DP (quadrangle inequality).
+1197.	Apply Knuth optimization to speed up an optimal partitioning DP (Knuth’s quadrangle condition).
+1198.	Implement SMAWK algorithm to find row minima of a totally monotone matrix (small sizes).
+1199.	Compute min-plus convolution of two sequences (divide-and-conquer; small n).
+1200.	Implement SOS DP (sum over subsets) and its inverse for functions on bitmasks.
+1201.	Implement FWT-AND and FWT-OR transforms for subset convolutions (and inverse).
+1202.	Using meet-in-the-middle, count subsets of an array that sum exactly to S.
+1203.	Using meet-in-the-middle, solve TSP on n ≤ 30 by splitting cities and joining tours.
+1204.	Implement Bron–Kerbosch with pivoting to find the maximum clique (small n).
+1205.	Implement Karger’s randomized min cut (repeat trials, return best).
+1206.	Compute k-shortest simple paths between s and t using Yen’s algorithm.
+1207.	Compute the minimum mean cycle in a directed weighted graph (Karp’s algorithm).
+1208.	Compute the minimum arborescence (directed MST) rooted at r (Edmonds/Chu–Liu).
+1209.	Approximate minimum feedback arc set in a tournament (greedy ordering).
+1210.	Compute minimum Steiner tree in a metric for a given set of terminals (DP over subsets).
+1211.	Find biconnected components in an undirected graph and build the block–cut tree.
+1212.	Contract 2-edge-connected components of an undirected graph to build the bridge tree.
+1213.	Build the condensation DAG of SCCs of a directed graph and compute its longest path.
+1214.	Compute transitive closure of a directed graph (Warshall’s algorithm).
+1215.	Build the Burrows–Wheeler Transform (BWT) of a string and invert it.
+1216.	Build a tiny FM-index for a string and support pattern count queries.
+1217.	Implement LZ77 compression (encode/decode) with a small sliding window.
+1218.	Implement LZ78 compression (encode/decode).
+1219.	Build Huffman coding: construct tree from frequencies, encode and decode text.
+1220.	Implement arithmetic coding (static model) to encode and decode short texts.
+1221.	Implement a simplified rANS (range Asymmetric Numeral Systems) coder/decoder (tiny alphabet).
+1222.	Implement Berlekamp–Massey to find the shortest linear recurrence of a sequence mod p.
+1223.	Using Kitamasa’s method, compute the n-th term of a linear recurrence mod p for large n.
+1224.	Solve Ax = b for symmetric positive-definite A using Conjugate Gradient (small n).
+1225.	Compute eigenvalues of a real symmetric matrix using Jacobi’s method (small n).
+1226.	Compute a tiny SVD via Jacobi sweeps for a 2×2 or 3×3 matrix.
+1227.	Perform PCA: compute covariance, eigen-decompose (small d), and project data onto top k components.
+1228.	Implement k-means clustering (Lloyd’s algorithm) and report centroids + assignments.
+1229.	Implement EM for Gaussian Mixture Model with 2 components in 2D (tiny dataset).
+1230.	Solve TSP approximately using simulated annealing (cooling schedule, small n).
+1231.	Implement a toy genetic algorithm to maximize a given function over bitstrings.
+1232.	Solve the N-Queens problem using backtracking.
+1233.	Solve a Sudoku puzzle using backtracking.
+1234.	Generate all permutations of a string using backtracking.
+1235.	Solve the rat-in-a-maze problem with backtracking.
+1236.	Solve word search in a grid using backtracking.
+1237.	Write a program to list all files in a directory using os.
+1238.	Write a program to join paths safely using os.path.join.
+1239.	Write a program to check if a file exists using pathlib.
+1240.	Write a program to rename all .txt files in a folder.
+1241.	Write a program to count total size of all files in a directory.
+1242.	Write a program to hash a password using SHA256.
+1243.	Write a program to verify a password against a stored hash.
+1244.	Write a Flask app with simple login and session management.
+1245.	Write a program to generate random secure tokens for user authentication.
+1246.	Write a program to encrypt/decrypt a message using Fernet (symmetric encryption).
+1247.	Write a Flask app and run it on localhost with flask run.
+1248.	Write a program to package a Python project using setup.py.
+1249.	Write a program to create a requirements.txt from installed libraries.
+1250.	Deploy a Flask app locally with Gunicorn.
+1251.	Write instructions to run a Streamlit dashboard from command-line.
+1252.	
+1253.	Implement an offline LCA solver using Tarjan’s algorithm (DSU) for multiple queries.
+1254.	Implement a SAT solver (CNF) using DPLL with unit propagation and pure literal heuristic; output SAT/UNSAT and an assignment if SAT.
+1255.	Implement an array-based hash table with chaining; support put/get/delete.
+1256.	Implement open addressing hash table (linear probing) with resizing.
+1257.	Implement open addressing hash table (quadratic probing) with resizing.
+1258.	Implement open addressing hash table (double hashing) with resizing.
+1259.	Implement a Bloom filter with k hash functions; support add and membership query.
+1260.	Implement Count–Min Sketch; support update(key, +c) and query(key).
+1261.	Implement cuckoo hashing for fixed-size table; rehash on cycle detection.
+1262.	Implement LRU cache of capacity C using hashmap + doubly linked list.
+1263.	Implement LFU cache of capacity C (O(1) average operations).
+1264.	Maintain sliding window maximum for window size k using a deque.
+1265.	Maintain sliding window minimum for window size k using a deque.
+1266.	Maintain running median of a stream using two heaps.
+1267.	Maintain top-k frequent elements in a stream using a min-heap of size k.
+1268.	Implement reservoir sampling to pick 1 item uniformly from a stream of unknown length.
+1269.	Implement reservoir sampling to pick k items uniformly from a stream.
+1270.	Implement order-statistics treap (randomized BST) with insert, erase, kth, rank.
+1271.	Implement AVL tree with insert and delete; verify balance factors.
+1272.	Implement splay tree with access (splay), insert, and delete; test access locality.
+1273.	Implement a simple B-tree (degree t) supporting search and insert (small).
+1274.	Implement a skip list with search, insert, and delete (random levels).
+1275.	Compute next greater element for each array position using a monotonic stack.
+1276.	Compute largest rectangle in histogram using a monotonic stack.
+1277.	Compute trapping rain water amount using two pointers/stack.
+1278.	Parse and evaluate an arithmetic expression with +, −, ×, ÷, parentheses (shunting-yard + RPN eval).
+1279.	Extend the calculator to support power operator (^) and unary minus.
+1280.	Evaluate a boolean expression with AND, OR, NOT, parentheses (precedence respected).
+1281.	Build an AST for arithmetic expressions and evaluate via recursive walk.
+1282.	Write a tiny JSON parser (strings, numbers, booleans, null, arrays, objects) without using json.
+1283.	Write a robust CSV parser (quoted fields, escaped quotes, newlines inside quotes).
+1284.	Parse a simple INI file into a dict of sections and key–value pairs.
+1285.	Tokenize and evaluate spreadsheet-like formulas with cell references A1, B2, … (small grid).
+1286.	Implement a regex engine supporting literals, . and * (Kleene star), with backtracking.
+1287.	Add + (one or more) and ? (optional) operators to the regex engine.
+1288.	Add character classes like [a-z0-9] and negation [^…] to the regex engine.
+1289.	Solve a 9×9 Sudoku via backtracking; print one valid solution.
+1290.	Count number of solutions of a Sudoku (stop if > 2).
+1291.	Solve a Kakuro puzzle given sums and grid (small instance).
+1292.	Solve a Nonogram (picross) puzzle (small instance).
+1293.	Implement N×N KenKen solver with basic arithmetic constraints (small N).
+1294.	Implement Gomoku (five-in-a-row) winner detection on an N×N board.
+1295.	Implement a Trie-based autocomplete with frequency ranking and prefix query limits.
+1296.	Implement a spell checker using edit distance ≤ 2 with a dictionary (small).
+1297.	Implement SimHash for near-duplicate text detection; compare Hamming distances.
+1298.	Implement MinHash signatures for Jaccard similarity; estimate similarity between two sets.
+1299.	Implement a token-bucket rate limiter (capacity C, refill r/sec); simulate requests.
+1300.	Implement a thread-safe queue and demonstrate producer–consumer with threading.
+1301.	Compute parallel sum of a large array using multiprocessing (split into processes).
+1302.	Write a simple TCP echo server and client using socket; handle multiple clients with select.
+1303.	Write a minimal HTTP GET client using socket (no requests), print response status and body.
+1304.	Implement an async I/O TCP echo server with asyncio; support multiple concurrent clients.
+1305.	Implement a simple HTTP server on a chosen port that serves files from the current directory.
+1306.	Extend the HTTP server to support directory listing and index.html fallback.
+1307.	Add byte-range requests (partial content) support to the HTTP server.
+1308.	Add conditional GET support via If-Modified-Since and ETag.
+1309.	Implement an async HTTP server with asyncio handling multiple concurrent clients.
+1310.	Write a rate-limited downloader that fetches a list of URLs (use sockets, no third-party libs).
+1311.	Implement a web crawler (depth-limited) that saves page titles and outgoing links to a file.
+1312.	Parse a minimal subset of HTML to extract all links and image sources (string/regex based).
+1313.	Build a command-line argument parser (flags, options with values, positional args).
+1314.	Implement a UNIX-like wc (word/line/byte counts) for one or more files and stdin.
+1315.	Implement a file deduplicator: given a directory, find duplicate files via hash (SHA-256).
+1316.	Implement incremental hashing of large files in chunks; verify against whole-file hash.
+1317.	Implement a backup tool: copy changed files from src→dst using mtime and size comparison.
+1318.	Implement a directory tree diff: list added/removed/changed files between two paths.
+1319.	Implement a log rotator: when file exceeds N bytes, rotate with timestamps and keep last k.
+1320.	Implement a tail -f clone that follows a growing log file and prints new lines.
+1321.	Implement a search-in-files tool: grep a pattern across all files in a directory tree.
+1322.	Implement a mini find: list files matching name/extension/size/mtime filters.
+1323.	Implement a ZIP archiver using zipfile: add/extract/list; preserve permissions where possible.
+1324.	Implement a TAR.GZ archiver using tarfile: add/extract/list.
+1325.	Implement file compression benchmarks comparing gzip, bz2, and lzma on a sample file.
+1326.	Implement Base64 encode/decode for files; verify round-trip.
+1327.	Implement checksum utility: compute MD5/SHA-1/SHA-256 for files; output in common format.
+1328.	Implement encrypted ZIP using zipfile with password; test extraction.
+1329.	Implement simple XOR stream cipher for a file with a repeating key; decrypt back.
+1330.	Implement Vigenère cipher for text files (A–Z only), encrypt/decrypt.
+1331.	Implement substitution cipher cracker by frequency analysis (English, small texts).
+1332.	Implement Huffman coding for a file: build frequency table, encode, and decode (binary I/O).
+1333.	Implement arithmetic coding for a file using static model (small files).
+1334.	Implement a Merkle tree over files in a directory; output root and proofs for each file.
+1335.	Implement a transaction log appender that writes records with CRC and can recover after crash.
+1336.	Implement write-ahead logging and checkpointing for a simple key–value store (append-only file).
+1337.	Implement a B+ tree (order t) on disk for integer keys; support search and insert (small).
+1338.	Use ThreadPoolExecutor to download 5 URLs concurrently; handle exceptions per future.
+1339.	Use ProcessPoolExecutor to parallelize prime checks.
+1340.	In asyncio, start 3 tasks and cancel one mid-way, handling CancelledError.
+1341.	Demonstrate asyncio.wait_for to timeout a slow task.
+1342.	
+1343.	Implement a SQLite usage: create a table, insert/read/update/delete student records.
+1344.	Implement SQLite bulk import from a CSV; measure time and use transactions for speed.
+1345.	Implement SQLite full-text search (FTS5) over a set of text files; answer keyword queries.
+1346.	Implement SQLite with parameterized queries and indexes; compare indexed vs non-indexed query time.
+1347.	Implement a connection pool (dummy) for SQLite with a queue and worker threads.
+1348.	Implement a URL shortener with SQLite: insert long→short, resolve short→long, count hits.
+1349.	Implement thread-safe counter using threading.Lock; increment from N threads.
+1350.	Implement readers–writers problem using threading.Condition.
+1351.	Implement a producer–consumer pipeline with bounded buffer using queue.Queue.
+1352.	Implement a barrier for N threads (wait until all arrive, then proceed).
+1353.	Demonstrate a deadlock using two locks; then fix it using lock ordering.
+1354.	Implement a semaphore to limit concurrent access to a resource (e.g., 3 at a time).
+1355.	Implement thread pool: submit callables, collect results, graceful shutdown.
+1356.	Implement multiprocessing map/reduce: split work across processes and combine results.
+1357.	Implement shared memory between processes using multiprocessing.shared_memory.
+1358.	Implement process pool with timeouts and task retries on failure.
+1359.	Implement a rate-limited async downloader using asyncio + semaphores; report progress.
+1360.	Implement a bounded async task queue with backpressure using asyncio.Queue.
+1361.	Implement an async web crawler with concurrency limits and robots.txt respect (basic).
+1362.	Implement an async rate limiter (token bucket) shared across coroutines.
+1363.	Implement an exponential backoff retry decorator for network calls (max attempts, jitter).
+1364.	Implement a circuit breaker for flaky functions (open/half-open/closed states).
+1365.	Implement a pub/sub event bus in-memory; support subscribe, unsubscribe, publish.
+1366.	Implement a cron-like scheduler that runs jobs on a minute pattern (no external libs).
+1367.	Implement a priority job queue with worker threads and graceful shutdown.
+1368.	Implement a bounded dispatcher that batches small messages and flushes every T ms or size S.
+1369.	Implement a retrying message sender with exactly-once semantics using idempotency keys (simulation).
+1370.	Implement a Raft-like log replication simulator (leader election + append entries; tiny).
+1371.	Implement a Lamport logical clock and simulate message ordering among processes.
+1372.	Implement vector clocks to detect causal ordering conflicts among processes.
+1373.	Implement a distributed mutex using Ricart–Agrawala (simulation).
+1374.	Implement a gossip protocol to disseminate a value in a cluster (simulation).
+1375.	Implement a consistent hashing ring and map keys to nodes; handle node joins/leaves.
+1376.	Implement a Bloom filter–backed cache to avoid cache-miss lookups (simulate hit ratio).
+1377.	Implement a write-behind cache with periodic flush and durability guarantees.
+1378.	Implement LRU+TTL cache with per-key expirations and background sweeper.
+1379.	Implement multi-producer multi-consumer queue with backpressure and metrics.
+1380.	Implement time-series aggregator: ingest (timestamp, value), serve windowed sums/avg/min/max.
+1381.	Implement Welford’s online variance for a data stream; support merge of partial stats.
+1382.	Implement reservoir quantiles (Greenwald–Khanna) to answer φ-quantile queries (small n).
+1383.	Implement Count Sketch to estimate heavy hitters with signs (small).
+1384.	Implement HyperLogLog to estimate cardinality of a stream (toy parameters).
+1385.	Implement a moving average crossover detector on tick data (SMA short vs long).
+1386.	Implement EWMA (exponentially weighted moving average) with decay α; stream updates.
+1387.	Implement CUSUM change detection on a numeric stream; signal regime shifts.
+1388.	Implement Kalman filter for 1D position–velocity model; process noisy measurements.
+1389.	Implement Hidden Markov Model (discrete emissions): forward–backward to infer posteriors.
+1390.	Implement HMM Viterbi to decode most likely hidden state sequence.
+1391.	Implement Page–Hinkley test to detect mean shift in a stream.
+1392.	Implement AR(1) parameter estimation by least squares; forecast next k steps.
+1393.	Implement ARIMA(1,1,1) fitter for a short series (very small dataset).
+1394.	Implement DTW (Dynamic Time Warping) distance between two time series.
+1395.	Implement cross-correlation lag estimator to find lead/lag between two series.
+1396.	Implement Fourier transform of a real signal using numpy.fft and identify top k frequencies.
+1397.	Implement Welch’s method to estimate power spectral density (small signal).
+1398.	Implement STFT (short-time Fourier transform) and reconstruct via overlap-add (toy).
+1399.	Implement Goertzel algorithm to detect specific frequencies in a stream.
+1400.	Implement Savitzky–Golay smoothing filter for noisy signals.
+1401.	Implement Ramer–Douglas–Peucker algorithm to simplify a polyline with tolerance ε.
+1402.	Implement Hough transform to detect lines in a binary image (tiny image).
+1403.	Implement Canny edge detector pipeline (Gaussian blur → gradients → NMS → hysteresis).
+1404.	Implement connected components labeling on a binary image (4- or 8-connectivity).
+1405.	Implement flood fill on a 2D grid (scanline or BFS).
+1406.	Implement k-means image quantization to reduce colors to k clusters.
+1407.	Implement seam carving for content-aware image resizing (tiny image).
+1408.	Implement Poisson image blending (toy example, grayscale).
+1409.	Implement a Harris corner detector on a grayscale image (small).
+1410.	Implement binary image thresholding at a given T; output 0/1 grid.
+1411.	Compute Otsu’s threshold on a grayscale image (small), then binarize.
+1412.	Implement image histogram (0–255 bins) and cumulative histogram.
+1413.	Implement histogram equalization on a small grayscale image.
+1414.	Implement 2D convolution on a grayscale image with a given kernel (odd size).
+1415.	Implement Gaussian blur using separable 1D kernels (small σ, odd window).
+1416.	Implement Sobel gradients (Gx, Gy) and gradient magnitude image.
+1417.	Implement non-maximum suppression on gradient magnitude with orientation.
+1418.	Implement double threshold + hysteresis step to complete a basic Canny pipeline.
+1419.	Implement median filter with k×k window (odd k).
+1420.	Implement morphological dilation and erosion with a binary structuring element.
+1421.	Implement opening and closing using erosion/dilation on a binary image.
+1422.	Compute the distance transform (cityblock or Euclidean approx) of a binary image.
+1423.	Implement connected components on a binary image and color each component with a label id.
+1424.	Implement integral image (summed-area table) and use it for fast box sums.
+1425.	Implement template matching by normalized cross-correlation; return best match location.
+1426.	Compute image pyramids (Gaussian downsampling) for L levels (tiny images).
+1427.	Implement Laplacian of Gaussian (LoG) blob detection; return top-k blob centers (small images).
+1428.	Implement HOG (Histogram of Oriented Gradients) feature vector for a tiny image and cell size.
+1429.	Implement Zhang–Suen thinning (skeletonization) on a binary image (tiny).
+1430.	Implement Hough transform for circles (restricted radii set) on a binary edge image.
+1431.	Compute block-matching motion vectors between two small grayscale frames.
+1432.	Compute optical flow (Lucas–Kanade) at sparse points (3×3 window, tiny frames).
+1433.	Implement seam carving to remove one vertical seam minimizing energy (repeat r times).
+1434.	Implement Poisson image cloning for copying a small patch into a target (grayscale).
+1435.	Implement k-means image segmentation into K clusters on RGB values (tiny image as nested lists).
+1436.	Implement mean-shift segmentation (small bandwidth, few iterations) on RGB pixels (tiny).
+1437.	Implement graph cut for binary segmentation with a simple data + smoothness term (small grid).
+1438.	Implement bilateral filter (spatial + range kernels) on a small grayscale image.
+1439.	Implement NL-means denoising on a tiny grayscale image (very small patch/window).
+1440.	Build a character-level n-gram language model (n=3) and generate text of length L.
+1441.	Compute TF–IDF vectors for a set of documents and return top-k terms per document.
+1442.	Compute cosine similarity matrix between documents using TF–IDF.
+1443.	Implement Naive Bayes text classifier (multinomial) for two classes; evaluate accuracy on a tiny split.
+1444.	Implement Jaccard similarity for sets of shingles; find top-5 nearest neighbors of each doc.
+1445.	Implement LSH for Jaccard with banding; query near-duplicates among documents (toy).
+1446.	Implement word-level bigram language model with add-α smoothing; compute sentence probability.
+1447.	Implement Viterbi POS tagging with a tiny tagset and toy emission/transition tables.
+1448.	Implement a trie-based spell corrector suggesting top-k edits at distance ≤2 (toy dict).
+1449.	Implement a Markov chain text generator (order-2) with temperature-like sampling.
+1450.	Implement a recursive-descent parser for arithmetic with variables and assignment.
+1451.	Extend the language with if/else and while; interpret statements from a source file.
+1452.	Build symbol table with lexical scopes for the mini-language (blocks).
+1453.	Generate three-address code (TAC) for arithmetic expressions from the AST.
+1454.	Implement a tiny bytecode VM: stack machine with ops (PUSH, ADD, SUB, MUL, DIV, LOAD, STORE, JMP, JZ).
+1455.	Implement constant folding and dead code elimination on TAC (tiny).
+1456.	Implement LL(1) table construction (FIRST/FOLLOW sets) and parse a given grammar (no left recursion).
+1457.	Build an LR(0) automaton for a small grammar; perform shift–reduce parsing and report actions.
+1458.	Implement Earley parser for general CFGs; accept/reject and one parse tree (tiny input).
+1459.	Implement top-down memoized parser (packrat) for a PEG grammar with *, +, ?, sequence, choice, and literals.
+1460.	Implement a lexer for a tiny language: identifiers, integers, + - * / ( ) = ; and keywords if else while.
+1461.	Implement an LL(1) parser for the tiny language grammar and build an AST (no left recursion; small).
+1462.	Extend the AST interpreter to support integer variables, assignment, and expression evaluation.
+1463.	Add if/else execution to the interpreter with block scopes (lexical).
+1464.	Add while loops to the interpreter with proper break of infinite loops via a step cap.
+1465.	Implement static type checking (integers only) and report line/column on errors.
+1466.	Implement constant propagation on the AST and fold constant expressions.
+1467.	Implement common subexpression elimination (CSE) on basic blocks.
+1468.	Convert straight-line code to SSA form (single static assignment) with φ-nodes (tiny CFG).
+1469.	Implement copy propagation and dead code elimination on SSA.
+1470.	Build an interference graph of variables and color it for register allocation (k registers; spill if needed).
+1471.	Generate simple stack-machine bytecode from AST and execute on your VM (from earlier tasks).
+1472.	Hash and verify passwords with PBKDF2 and random salt.
+1473.	Do the same with Argon2 if available.
+1474.	Implement JWT-based login: issue token, verify, enforce expiry.
+1475.	Implement CSRF token for a form and verify on submit.
+1476.	
+1477.	Add a mark-and-sweep garbage collector to the VM (heap of boxed integers/strings).
+1478.	Implement reference counting GC and demonstrate a cyclic leak case.
+1479.	Implement a stop-and-copy (Cheney) collector; compare pause times on tiny workloads.
+1480.	Implement a generational GC simulation with nursery and promotions (statistics only).
+1481.	Implement a bump-pointer allocator and a free-list allocator; simulate allocations/frees.
+1482.	Simulate buddy memory allocation; allocate/free blocks and print the tree after each op.
+1483.	Simulate paging with LRU page replacement; report hit/miss rate for a reference string.
+1484.	Simulate clock (second-chance) page replacement and compare against LRU on same trace.
+1485.	Simulate multilevel feedback queue (MLFQ) CPU scheduler; output per-process turnaround/wait times.
+1486.	Simulate shortest remaining time first (SRTF) scheduling; handle preemption.
+1487.	Simulate priority scheduling with aging to avoid starvation.
+1488.	Implement a toy extents-based file system in a file: create, write, read, delete (no crash recovery).
+1489.	Add a simple journal (write-ahead log) to the toy FS; recover after simulated crash.
+1490.	Implement Unix permissions (rwx for user/group/other) in the toy FS; enforce on open/read/write.
+1491.	Implement a path resolver with . and .. and symbolic links (no cycles) for the toy FS.
+1492.	Parse PCAP-like hex dump and extract TCP 3-way handshake events (SYN/SYN-ACK/ACK).
+1493.	Implement a minimal HTTP/1.1 request parser and response builder (status line, headers, body).
+1494.	Implement a minimal SMTP client that sends a plaintext email via a test server (no TLS).
+1495.	Implement a minimal DNS resolver for A records over UDP (single query, no recursion).
+1496.	Implement a minimal DHCP client simulator: craft DISCOVER/OFFER/REQUEST/ACK messages (fields only).
+1497.	Implement CIDR utilities: given IP and prefix, print network/broadcast/usable range.
+1498.	Implement Dijkstra on a road network where edges have time-dependent weights (piecewise-constant; small).
+1499.	Implement A* search with admissible heuristic (Euclidean) on a grid with obstacles.
+1500.	Implement bidirectional BFS to find the shortest path between two nodes in an unweighted graph.
+1501.	Implement Johnson–Trotter algorithm to enumerate permutations with minimal swaps.
+1502.	Implement Dancing Links (DLX) to solve exact cover (tiny Sudoku variant).
+1503.	Implement branch-and-bound for 0/1 knapsack with upper bounds (value density heuristic).
+1504.	Implement branch-and-bound TSP with lower bounds (small n).
+1505.	Implement a decision tree classifier (ID3) from scratch; train/test on a tiny dataset.
+1506.	Implement a random forest (few trees, bootstrapping + feature subsampling); report accuracy.
+1507.	Implement perceptron for binary classification; plot mistakes per epoch (text output ok).
+1508.	Implement a 1-hidden-layer neural network (ReLU, softmax) trained by SGD on a toy dataset.
+1509.	Implement backpropagation with numerical gradient check on a tiny network.
+1510.	Implement k-NN classifier with KD-tree acceleration (small d).
+1511.	Implement Q-learning on a gridworld: learn optimal policy to reach a goal with obstacles.
+1512.	Implement SARSA on the same gridworld; compare learning curves (episode returns).
+1513.	Implement multi-armed bandit algorithms: ε-greedy, UCB1; compare cumulative regret.
+1514.	Implement policy gradient (REINFORCE) on a tiny stochastic MDP with 2 states and 2 actions.
+1515.	Implement k-fold cross-validation for a classifier; report mean accuracy and std (toy data).
+1516.	Compute confusion matrix, precision, recall, F1, and accuracy for binary classification.
+1517.	Compute ROC curve points and AUC for a scored binary classifier.
+1518.	Implement macro and micro averaged F1 for multi-class classification.
+1519.	Implement stratified k-fold splitting for imbalanced binary labels.
+1520.	Implement grid search over two hyperparameters for a model; pick best by CV score.
+1521.	Implement random search hyperparameter tuning; compare with grid on same budget.
+1522.	Implement early stopping for iterative training based on validation loss patience p.
+1523.	Implement L2-regularized linear regression (ridge) with gradient descent.
+1524.	Implement L1-regularized linear regression (lasso) with coordinate descent (small d).
+1525.	Implement elastic net regression with coordinate descent (small d).
+1526.	Implement stochastic gradient descent with learning-rate schedules (constant, 1/t).
+1527.	Implement momentum and Nesterov momentum variants for SGD; compare convergence.
+1528.	Implement AdaGrad, RMSProp, and Adam optimizers on the same convex objective.
+1529.	Fit logistic regression with L2 regularization using gradient descent; report log-loss.
+1530.	Implement softmax regression (multinomial logistic) for multi-class (toy data).
+1531.	Implement hinge-loss linear SVM with subgradient descent (no kernels).
+1532.	Implement one-vs-rest and one-vs-one strategies for multi-class classification.
+1533.	Implement naive Bayes regression (Gaussian) for continuous targets (toy).
+1534.	Implement principal component regression: PCA → linear regression on top-k PCs.
+1535.	Implement linear discriminant analysis (LDA) classifier (compute class means/covariance).
+1536.	Implement quadratic discriminant analysis (QDA) classifier (separate covariances).
+1537.	Implement k-means++ initialization and compare against random init (iterations to converge).
+1538.	Implement Gaussian Mixture Model with diagonal covariances; EM until convergence (tiny).
+1539.	Implement autoencoder (linear encoder/decoder) trained with gradient descent on toy data.
+1540.	Implement denoising autoencoder (linear) that reconstructs clean input from noisy input.
+1541.	Implement word tokenizer with punctuation handling and lowercase/stopword options (tiny list).
+1542.	Implement character n-gram feature extractor and cosine similarity between two texts.
+1543.	Train skip-gram word2vec (negative sampling) on a tiny corpus; get embeddings (small dims).
+1544.	Train GloVe-style embeddings via weighted least squares on co-occurrence counts (tiny).
+1545.	Implement cosine similarity search over embeddings; return top-k nearest words.
+1546.	Implement byte pair encoding (BPE) learning on a corpus; tokenize a sentence with learned merges.
+1547.	Implement bigram language model with Kneser–Ney smoothing (toy).
+1548.	Implement beam search decoder for a character-level language model (score by log-probs).
+1549.	Implement simple RNN (tanh) for next-char prediction trained by BPTT (very small).
+1550.	Implement LSTM cell forward/backward for one time step; verify gradients numerically.
+1551.	Implement sequence-to-sequence (encoder–decoder, no attention) for toy copy task.
+1552.	Add additive attention (Bahdanau) to seq2seq for toy copy/reverse task.
+1553.	Implement scaled dot-product attention given Q, K, V; verify against manual calc.
+1554.	Implement a tiny Transformer block (single-head self-attention + FFN) for toy sequence.
+1555.	Implement label smoothing for classification and show its effect on loss.
+1556.	Implement scheduled sampling for seq2seq training; compare BLEU on toy data.
+1557.	Implement BLEU score (up to 4-grams with brevity penalty) for candidate vs references.
+1558.	Implement Levenshtein alignment to output edit script (ins/del/sub) between two strings.
+1559.	Solve y′ = f(t, y) using Euler’s method; compare to exact solution for y′=ky.
+1560.	Solve the same ODE using RK4; compare error vs Euler at same step size.
+1561.	Implement adaptive step-size RK (embedded RK4(5) with tolerance) on y′=sin(t)−y.
+1562.	Solve second-order ODE y″ + ay′ + by = 0 by reduction to first order system and RK4.
+1563.	Solve 1D heat equation u_t = α u_xx on [0,1] with FTCS explicit scheme (small grid, stability check).
+1564.	Solve 1D wave equation u_tt = c² u_xx via finite differences (leapfrog), fixed ends, small grid.
+1565.	Solve Laplace’s equation on a 2D square grid with Dirichlet boundaries using Jacobi iteration.
+1566.	Solve the same Laplace problem using Gauss–Seidel iteration; report iterations to tolerance.
+1567.	Solve the same Laplace problem using Successive Over-Relaxation (SOR); search a good ω on a grid.
+1568.	Solve the 2D heat equation with explicit FTCS; enforce stability condition and simulate T steps.
+1569.	Solve the 1D heat equation with implicit backward Euler via tridiagonal solve (Thomas algorithm).
+1570.	Solve the 1D heat equation with Crank–Nicolson (tridiagonal each step); compare error vs FTCS.
+1571.	Solve Poisson’s equation ∇²u = f on a 2D grid with Dirichlet boundaries using finite differences.
+1572.	Modify to support one Neumann boundary (zero normal derivative) on a side (discrete stencil).
+1573.	Solve discrete Poisson with a point source (delta at one grid cell); visualize potential values.
+1574.	Implement Conjugate Gradient to solve the SPD linear system from a 2D Laplacian (sparse access).
+1575.	Implement nonlinear Newton’s method for a scalar equation with line search; robust stopping rules.
+1576.	Implement Newton’s method for a 2×2 nonlinear system using numerical Jacobian.
+1577.	Implement Nelder–Mead simplex method to minimize a 2D function; show iterations’ best value.
+1578.	Implement projected gradient descent on box constraints to minimize a convex quadratic.
+1579.	Implement coordinate descent for L1-regularized convex objective (tiny synthetic).
+1580.	Implement backtracking line search (Armijo) and plug into gradient descent on a smooth f.
+1581.	Implement BFGS quasi-Newton minimization on a 2D Rosenbrock function; compare to GD.
+1582.	Implement L-BFGS (limited-memory) for high-dimensional quadratic (toy); report iterations.
+1583.	Implement trust-region (dogleg method) for minimizing a quadratic with SPD Hessian.
+1584.	Implement primal simplex method for a small linear program in standard form.
+1585.	Implement dual simplex for a perturbed LP; verify same optimum as primal.
+1586.	Implement a basic interior-point (barrier) method for LP (tiny instance).
+1587.	Compute LP dual of a given primal and verify strong duality numerically on a tiny case.
+1588.	Implement Hungarian algorithm for rectangular cost matrix (pad to square); output assignment.
+1589.	Implement minimum cost flow on a small network using successive shortest augmenting paths.
+1590.	Implement maximum closure via min-cut reduction on a directed graph (value on nodes).
+1591.	Implement 2-approximation for vertex cover on a graph; compare to optimum on small graphs.
+1592.	Implement greedy set cover; measure approximation ratio on randomly generated instances.
+1593.	Implement local search for k-medians (swap heuristic) and compare to k-means on same data.
+1594.	Implement simulated annealing for Max-Cut; report cut value over temperature schedule.
+1595.	Implement tabu search for Max-Cut (short tabu list); compare with simulated annealing.
+1596.	Implement Metropolis–Hastings sampler to draw from a univariate target π(x) ∝ exp(−x⁴ + x²).
+1597.	Implement random-walk MH to sample from a 2D correlated Gaussian; estimate mean/covariance.
+1598.	Implement Gibbs sampling for a bivariate Gaussian with known conditionals; track convergence.
+1599.	Implement slice sampling (univariate) for a log-concave density; compare to MH acceptance.
+1600.	Implement Hamiltonian Monte Carlo (HMC) in 1D with leapfrog integrator (toy potential).
+1601.	Implement Variational Inference (mean-field) for a simple two-parameter model (toy ELBO).
+1602.	Implement belief propagation (sum-product) on a tree-structured graphical model; compute marginals.
+1603.	Implement max-product on a factor tree to compute MAP assignment.
+1604.	Implement Beta–Binomial Bayesian update; sample posterior and report credible interval.
+1605.	Implement Dirichlet–Multinomial posterior update for a K-category count vector.
+1606.	Implement Thompson Sampling for Bernoulli bandits with Beta priors; compare to ε-greedy.
+1607.	Implement UCB1-Tuned for multi-armed bandits and compare regret to UCB1.
+1608.	Implement policy iteration for a finite MDP; output optimal value function and policy.
+1609.	Implement value iteration for the same MDP; compare iterations to convergence with policy iteration.
+1610.	Implement Q-learning with function approximation (tile coding on a gridworld).
+1611.	Implement actor–critic (TD(0)) on a tiny continuing task; plot (print) learning curve stats.
+1612.	Implement REINFORCE with baseline for the same MDP; compare variance vs plain REINFORCE.
+1613.	Implement Cross-Entropy Method (CEM) optimization to find max of a noisy black-box function.
+1614.	Implement Bayesian Optimization with a toy surrogate (quadratic fit) and UCB acquisition; iterate to optimum.
+1615.	Implement Gaussian Process Regression with RBF kernel on 1D toy data; sample posterior.
+1616.	Implement sparse GP approximation with m inducing points (FITC; tiny data).
+1617.	Implement kernel ridge regression with RBF kernel; compare to linear ridge.
+1618.	Implement SVM with RBF kernel using quadratic programming (tiny dataset).
+1619.	Implement one-class SVM for anomaly detection on toy data.
+1620.	Implement isolation forest for anomaly detection; score points in toy dataset.
+1621.	Implement LOF (Local Outlier Factor) for anomaly detection (small dataset).
+1622.	Implement t-SNE for 2D visualization of toy high-dim data (few iterations).
+1623.	Implement UMAP (approximate version) for dimensionality reduction (tiny data).
+1624.	Implement autoencoder for anomaly detection; reconstruct errors mark outliers.
+1625.	Implement GAN (Generative Adversarial Network) with 1D Gaussian data.
+1626.	Create a virtual environment and freeze requirements.
+1627.	Package a library using pyproject.toml and build it locally.
+1628.	Write a Dockerfile for a Flask app and run the container.
+1629.	Add a GitHub Actions workflow to run tests on push.
+
+1630.	Implement conditional GAN for generating digits 0 vs 1 (toy MNIST subset).
+1631.	Implement Wasserstein GAN with weight clipping on toy data.
+1632.	Implement cycle-consistent GAN (CycleGAN) for mapping circles↔squares (toy).
+1633.	Implement variational autoencoder (VAE) on 2D Gaussian mixture; visualize latent samples.
+1634.	Implement β-VAE with disentangling objective (toy data).
+1635.	Implement normalizing flow with affine coupling layers (tiny 1D distribution).
+1636.	Implement score-based diffusion model for denoising 1D Gaussian noise.
+1637.	Implement denoising diffusion probabilistic model (DDPM) for 1D data.
+1638.	Implement transformer encoder stack (multi-head attention + FFN + LN) for toy classification.
+1639.	Implement transformer decoder with masked attention for character-level LM.
+1640.	Implement BERT-style masked LM pretraining on toy corpus.
+1641.	Implement GPT-style autoregressive LM on character-level toy data.
+1642.	Implement pointer-generator network for summarization (toy text).
+1643.	Implement attention-based seq2seq for translation (tiny corpus, char-level).
+1644.	Implement copy mechanism in seq2seq (toy copy task with rare tokens).
+1645.	Implement hierarchical RNN (word-level, sentence-level) for toy document classification.
+1646.	Implement graph adjacency matrix → embeddings using spectral decomposition.
+1647.	Implement Graph Convolutional Network (GCN) on a toy citation graph.
+1648.	Implement Graph Attention Network (GAT) on same toy graph.
+1649.	Implement node2vec random walk embeddings; run on tiny graph.
+1650.	Implement DeepWalk embeddings on toy graph; visualize in 2D.
+1651.	Implement PageRank GNN layer (propagate scores); compare to classical PageRank.
+1652.	Implement graph isomorphism network (GIN) for graph classification (tiny dataset).
+1653.	Implement tree-LSTM encoder for parse trees (toy).
+1654.	Implement message-passing neural network (MPNN) on small molecule graphs.
+1655.	Implement attention pooling for graph-level embedding; classify toy graphs.
+1656.	Implement temporal GNN: propagate over dynamic edges with timestamps (toy).
+1657.	Implement reinforcement learning on graphs: shortest path agent via Q-learning.
+1658.	Implement multi-agent RL: two agents cooperate in a gridworld (toy).
+1659.	Implement independent Q-learning for multi-agent predator-prey game.
+1660.	Implement MADDPG (multi-agent DDPG) on continuous toy environment (tiny).
+1661.	Implement self-play Tic-Tac-Toe agent via Q-learning.
+1662.	Implement AlphaZero-style Tic-Tac-Toe: MCTS + NN policy (very tiny).
+1663.	Implement Monte Carlo Tree Search (MCTS) for Connect Four (small depth).
+1664.	Implement minimax with alpha-beta pruning for Othello 4×4 board.
+1665.	Implement expectimax for 2048 (tiny version).
+1666.	Implement policy gradient RL to learn 2048 strategy (tiny version).
+1667.	Implement evolutionary strategy to optimize controller weights for CartPole (toy).
+1668.	Implement CMA-ES (Covariance Matrix Adaptation Evolution Strategy) on a 2D test function.
+1669.	Implement Bayesian linear regression with Gaussian prior on weights; compute posterior mean/variance.
+1670.	Implement Bayesian logistic regression with Laplace approximation (toy data).
+1671.	Implement Bayesian ridge regression and compare MAP estimate with OLS.
+1672.	Implement empirical Bayes estimate for binomial proportion (Beta prior).
+1673.	Implement hierarchical Bayesian model for two groups of coin flips (Beta priors on shared hyper).
+1674.	Implement Gibbs sampler for Bayesian linear regression (conjugate priors).
+1675.	Implement Metropolis-Hastings sampler for Bayesian logistic regression coefficients (small n).
+1676.	Implement Bayesian model averaging over two candidate linear models; compute weighted prediction.
+1677.	Implement Dirichlet Process stick-breaking construction; simulate first n weights.
+1678.	Implement Chinese Restaurant Process for N customers; output table counts.
+1679.	Implement Latent Dirichlet Allocation Gibbs sampler on toy documents (tiny vocab).
+1680.	Implement collapsed Gibbs sampling for mixture of Gaussians (small data).
+1681.	Implement variational Bayes for mixture of Gaussians (toy).
+1682.	Implement probabilistic PCA via EM algorithm (tiny dataset).
+1683.	Implement factor analysis with EM; output loading matrix.
+1684.	Implement ICA (Independent Component Analysis) via FastICA on toy mixed signals.
+1685.	Implement non-negative matrix factorization (NMF) with multiplicative updates.
+1686.	Implement matrix completion with alternating least squares (low-rank).
+1687.	Implement collaborative filtering recommender via user–item matrix factorization (toy).
+1688.	Implement ALS with regularization for implicit feedback (toy).
+1689.	Implement spectral clustering on a similarity matrix; cluster into k groups.
+1690.	Implement Laplacian eigenmaps dimensionality reduction (toy).
+1691.	Implement diffusion maps embedding on toy affinity matrix.
+1692.	Implement Isomap manifold learning on toy data.
+1693.	Implement Locally Linear Embedding (LLE) on toy 2D → 1D unfolding.
+1694.	Implement Hessian LLE variant on toy Swiss roll.
+1695.	Implement multidimensional scaling (MDS) on distance matrix.
+1696.	Implement t-SNE with Barnes-Hut approximation (tiny dataset).
+1697.	Implement autoencoder manifold embedding (nonlinear DR).
+1698.	Implement variational autoencoder manifold embedding (toy).
+1699.	Implement spectral decomposition of Laplacian to compute Fiedler vector for graph partitioning.
+1700.	Implement Cheeger cut approximation via second eigenvector threshold.
+1701.	Implement normalized cuts clustering (toy).
+1702.	Implement graph spectral embedding into k dimensions; cluster via k-means.
+1703.	Implement random walk embedding: compute stationary probabilities after t steps.
+1704.	Implement resistance distance between nodes using Laplacian pseudoinverse.
+1705.	Implement Kirchhoff index (sum of all resistance distances).
+1706.	Implement graph Fourier transform of a signal on nodes.
+1707.	Implement graph wavelet transform on toy graph (filter via spectral kernels).
+1708.	Implement PageRank with teleportation and compare to eigenvector centrality.
+1709.	Implement HITS algorithm (hubs & authorities) on a directed graph.
+1710.	Implement SimRank similarity between graph nodes.
+1711.	Implement personalized PageRank from a given source node.
+1712.	Implement community detection using Girvan–Newman edge betweenness.
+1713.	Implement modularity calculation for a given partition.
+1714.	Implement spectral modularity maximization (leading eigenvector).
+1715.	Implement Louvain algorithm for modularity optimization (small graph).
+1716.	Implement label propagation algorithm for community detection.
+1717.	Implement overlapping community detection using link partitioning (toy).
+1718.	Implement stochastic block model generation and fit via EM (small n).Write a Python program to create a Tkinter window with a label that says “Hello World”.
+1719.	Write a Tkinter program with a button that changes the text of a label when clicked.
+1720.	Write a Tkinter program with an entry box where the user types their name, and a button that displays “Hello [Name]” in a label.
+1721.	Write a Tkinter program to build a simple calculator with +, −, ×, ÷ operations.
+1722.	Write a Tkinter program with checkboxes for selecting hobbies and display selected ones.
+1723.	Write a Tkinter program to create a login form with username and password fields.
+1724.	Write a Tkinter program to display a listbox of items and show the selected item in a label.
+1725.	Write a Tkinter program with radio buttons for gender selection and show selected option.
+1726.	Write a Tkinter program with a canvas where the user can draw lines with the mouse.
+1727.	Write a Tkinter program to create a digital clock that updates every second.
+1728.	Write a Python program to create a simple Flask app that displays “Hello World” on the home page.
+1729.	Extend the Flask app to display “Hello, [name]” when you visit /hello/<name>.
+1730.	Create a Flask app with a form that asks for a number and returns its square.
+1731.	Create a Flask app with two routes: /add and /subtract, both taking query parameters.
+1732.	Create a Flask app that renders an HTML template with a variable inserted into it.
+1733.	Create a Flask app that allows file upload and saves the file to the server.
+1734.	Create a Flask app with a route /json that returns a JSON response.
+1735.	Create a Flask app with a form that takes username & password and displays them.
+1736.	Create a Flask app that serves static images from a folder.
+1737.	Create a Flask app that shows a list of items on a webpage from a Python list.
+1738.	Write SQL queries in Python (sqlite3): create a table students (id, name, marks).
+1739.	Insert 5 sample records into students table and print all rows.
+1740.	Write a query to fetch all students with marks > 50.
+1741.	Write a query to update marks of a student by id.
+1742.	Write a query to delete a student record by id.
+1743.	Create another table courses and insert sample records.
+1744.	Write a query to perform INNER JOIN between students and courses.
+1745.	Write a query to count number of students in each course.
+1746.	Write a query to order students by marks descending.
+1747.	Write a query to find the student with the highest marks.
+1748.	Write a Python function to add two numbers and write a unittest for it.
+1749.	Write a unittest for a function that checks if a string is a palindrome.
+1750.	Write a unittest for a function that returns factorial of a number.
+1751.	Write a unittest for a function that returns the maximum element in a list.
+1752.	Write a unittest for a function that raises a ValueError for negative input.
+1753.	Write a test suite for basic arithmetic functions (add, subtract, multiply, divide).
+1754.	Write a unittest for a function that checks if a number is prime.
+1755.	Write a unittest for a function that sorts a list of integers.
+1756.	Write a unittest for a function that reads a file and returns line count.
+1757.	Write a unittest for a function that finds the average of a list of numbers.
+1758.	Write a Python program to create a REST API using Flask that returns a welcome message in JSON.
+1759.	Add JSON schema validation to a Flask POST endpoint.
+1760.	Implement pagination (?page=&limit=) for /users.
+1761.	Add JWT authentication to secure a route.
+1762.	Add rate limiting: allow 5 requests/minute per client.
+1763.	Write a Flask REST API with endpoint /square/<n> that returns the square of n.
+1764.	Write a Flask REST API with endpoint /add?a=..&b=.. that returns sum of two query parameters.
+1765.	Write a Flask REST API with endpoint /reverse/<string> that returns the reversed string.
+1766.	Write a Flask REST API with POST endpoint /greet that takes JSON input with a name and returns “Hello [name]”.
+1767.	Write a Flask REST API with endpoint /random that returns a random number between 1 and 100.
+1768.	Write a Flask REST API with endpoint /users that returns a list of users in JSON.
+1769.	Write a Flask REST API that accepts a list of numbers in POST request and returns their sum.
+1770.	Write a Flask REST API that connects to SQLite and returns all students.
+1771.	Write a Flask REST API that accepts a new student record and inserts it into SQLite.
+1772.	Write a Python class BankAccount with methods deposit, withdraw, and balance.
+1773.	Extend BankAccount class to charge a fee for withdrawals.
+1774.	Create a class Rectangle with methods to compute area and perimeter.
+1775.	Overload the __add__ operator to add areas of two Rectangle objects.
+1776.	Create a class LibraryBook with attributes title, author, available (boolean).
+1777.	Add methods to LibraryBook to issue and return books.
+1778.	Create a class Fraction with numerator and denominator and support addition.
+1779.	Add string representation (__str__) to Fraction class.
+1780.	Create a class Polynomial with coefficients and method to evaluate at x.
+1781.	Add method to Polynomial to compute derivative.
+1782.	Write a Python program to load a CSV file using pandas and print the first 5 rows.
+1783.	Write a Python program to load a CSV file and print the column names.
+1784.	Write a Python program to handle missing values in a dataset by filling them with column mean.
+1785.	Write a Python program to drop rows with missing values from a DataFrame.
+1786.	Write a Python program to sort a DataFrame by a column.
+1787.	Write a Python program to filter rows where a column value > threshold.
+1788.	Parse CSV with datetime column; resample to weekly mean.
+1789.	Create a pivot table of sales by department vs month.
+1790.	Convert a string category column to CategoricalDtype and show memory savings.
+1791.	Compute rolling 7-day average on a timeseries column.
+1792.	Write a Python program to group data by a column and compute mean.
+1793.	Write a Python program to merge two DataFrames on a common column.
+1794.	Write a Python program to join two DataFrames with different keys.
+1795.	Write a Python program to compute correlation between all numeric columns in a dataset.
+1796.	Write a Python program to create and start a thread that prints numbers from 1 to 5.
+1797.	Write a Python program to create two threads that print odd and even numbers up to 10.
+1798.	Write a Python program to demonstrate race condition with two threads incrementing a counter.
+1799.	Write a Python program to fix race condition using threading.Lock.
+1800.	Write a Python program with a producer-consumer model using queue.Queue.
+1801.	Write a Python program to create and run multiple threads to download files (simulated).
+1802.	Write a Python program that runs two tasks concurrently using asyncio.
+1803.	Write a Python program to demonstrate async function with asyncio.sleep().
+1804.	Write a Python program with asyncio to fetch data from 3 URLs concurrently.
+1805.	Write a Python program to implement an async producer-consumer with asyncio.Queue.
+1806.	Write a Python program to log messages to a file using logging module.
+1807.	Write a Python program to log errors and exceptions with logging.
+1808.	Write a Python program to create custom logging levels.
+1809.	Write a Python program to configure logging format with timestamp, level, and message.
+1810.	Write a Python program to send logs to both console and file.
+1811.	Write a Python program to rotate logs when file size exceeds a limit.
+1812.	Write a Python program to create a decorator that logs function execution time.
+1813.	Write a Python program to create a decorator that retries a function 3 times on failure.
+1814.	Write a Python program to profile a function’s runtime using cProfile.
+1815.	Write a Python program to measure memory usage of a function.
+1816.	Write a Python program to connect to SQLite and create a table employees.
+1817.	Write a Python program to insert employee records into the table.
+1818.	Write a Python program to query all employees with salary > 50000.
+1819.	Write a Python program to update salary of an employee.
+1820.	Write a Python program to delete an employee by id.
+1821.	Write a Python program to count employees in each department.
+1822.	Write a Python program to calculate average salary by department.
+1823.	Write a Python program to perform JOIN between employees and departments.
+1824.	Write a Python program to export query results into CSV.
+1825.	Validate incoming CSV rows with pydantic models; log invalid ones.
+1826.	Implement incremental ETL: load only rows updated after last run.
+1827.	Add schema versioning: accept a new column with default value if missing.
+1828.	Write a Python program to import data from CSV into SQLite.
+1829.	Write a program to read data from CSV, clean missing values, and write to new CSV.
+1830.	Write a program to extract data from an API, transform it, and load into SQLite.
+1831.	Write a pipeline that reads JSON logs and stores them in a database.
+1832.	Write a program to schedule a daily ETL task (simulated).
+1833.	Write a program to merge multiple datasets and produce a clean final dataset.
+1834.	Build a web scraper to fetch titles and links from the first page of a news site (requests + regex/bs4).
+1835.	Build a CLI dictionary app: fetch definitions via a free API; cache results locally in JSON.
+1836.	Build a Markdown → HTML converter supporting headings, bold, italic, links, lists.
+1837.	Build a JSON → CSV converter for an array of flat objects.
+1838.	Build a CSV → SQLite importer: read a CSV and insert rows into a SQLite table.
+1839.	Build a SQLite browser CLI: allow SELECT queries, print results in table format.
+1840.	Build a to-do list manager CLI with add/list/mark-done/remove; persist to a JSON file.
+1841.	Build a contact book manager CLI with name/phone/email; save/load to CSV.
+1842.	Build a unit converter CLI: km↔mi, kg↔lb, °C↔°F, etc., with extendable config.
+1843.	Build a password generator CLI with options for length, symbols, digits.
+1844.	Build a URL shortener with SQLite: map long→short codes, support lookup.
+1845.	Build a tiny HTTP server that serves static files from a folder.
+1846.	Build a multi-client chat server using sockets (TCP), with broadcast to all clients.
+1847.	Build a chat client that connects to the above server; supports sending/receiving.
+1848.	Build a file transfer server: client uploads/downloads files over TCP.
+1849.	Build a log file analyzer: parse Apache logs, output top IPs and request counts.
+1850.	Build a word frequency analyzer: read a text file, output top 20 words with counts.
+1851.	Build a text search engine: index a directory of .txt files, support keyword queries.
+1852.	Build a simple spell checker using edit distance ≤2 and a dictionary.
+1853.	Build a markdown note-taking app CLI with tagging and search across notes.
+1854.	Build a basic calculator GUI (Tkinter): buttons for digits and +−×÷.
+1855.	Build a unit converter GUI (Tkinter): drop-downs for units, input, output.
+1856.	Build a Pomodoro timer GUI with start/stop/reset and countdown display.
+1857.	Build a quiz app: read Q&A from a file, ask questions, score answers.
+1858.	Build a flashcard app: spaced repetition (SM-2 algorithm, simplified).
+1859.	Build a maze generator (DFS backtracking) and solver (BFS); render ASCII maze.
+1860.	Build a sudoku generator (valid puzzles) and solver (backtracking).
+1861.	Build a tic-tac-toe AI using minimax with alpha-beta pruning.
+1862.	Build a 2048 game clone (CLI, 4×4 board, arrow key input).
+1863.	Build a snake game clone (CLI grid or Tkinter canvas).
+1864.	Build a minesweeper game (CLI or Tkinter GUI).
+1865.	Build a Connect Four AI using minimax (7×6 board).
+1866.	Build a chessboard visualizer (Tkinter): render pieces, allow manual moves.
+1867.	Build a checkers game with legal move enforcement.
+1868.	Build a sokoban puzzle solver (small levels) using BFS/DFS.
+1869.	Build a crossword generator: place words from dictionary onto grid (greedy).
+1870.	Build a hangman game (CLI): choose random word, guess letters.
+1871.	Build a typing speed test app: display random text, measure WPM and accuracy.
+1872.	Build a markdown blog generator: convert .md files to static HTML pages with index.
+1873.	Build a personal finance tracker: record income/expenses in SQLite, show summaries.
+1874.	Build a budget planner GUI: categories, monthly limits, track spending.
+1875.	Build a calendar CLI app: add/list events with date/time; persist in JSON.
+1876.	Build a habit tracker app: daily checkmarks per habit, store progress.
+1877.	Build a BMI calculator GUI with inputs for height and weight.
+1878.	Build a student grading system: input marks, compute averages, grades, ranks.
+1879.	Build a library management system: track books, borrowers, checkouts (SQLite).
+1880.	Build a movie recommendation app: cosine similarity on movie–rating matrix (toy dataset).
+1881.	Build a music playlist manager: add/remove/search songs, shuffle play.
+1882.	Build a alarm clock GUI with settable alarm time and sound.
+1883.	Build a weather forecast app: fetch city weather from open API and display.
+1884.	Build a BMI tracker app with history: log height/weight over time, plot progress (matplotlib).
+1885.	Build a step counter simulator: generate daily steps, track weekly/monthly averages.
+1886.	Build a calorie counter app: input meals with calories, compute daily totals and deficits.
+1887.	Build a basic inventory system: add/remove products, track stock, export CSV.
+1888.	Build a shopping cart simulator: add/remove items, compute bill, apply discounts.
+1889.	Build a restaurant order system: take table orders, generate bills, save to SQLite.
+1890.	Build a coffee shop POS system with a GUI: menu, order, bill.
+1891.	Build a student attendance tracker: mark attendance, compute percentage, export CSV.
+1892.	Build a quiz competition manager: teams, buzzers, scoring, leaderboard.
+1893.	Build a school timetable generator: assign classes to teachers without clashes.
+1894.	Build a bus seat reservation system (CLI): reserve/cancel/show available seats.
+1895.	Build a train ticket booking simulator with waitlist handling.
+1896.	Build a airline seat reservation GUI with seat map, booking, cancellation.
+1897.	Build a hotel room booking system: check availability, book rooms, generate invoices.
+1898.	Build a parking lot system: track cars entering/exiting, available slots.
+1899.	Build a car rental system: rent cars by day, track customers, invoices.
+1900.	Build a library catalog web app using Flask: search books by title/author.
+1901.	Build a movie database app using Flask: add movies, ratings, search.
+1902.	Build a recipe manager: add ingredients, steps, tags; search by ingredient.
+1903.	Build a diet planner app: input calories/macros, suggest meal plans.
+1904.	Build a flashcard GUI app with spaced repetition scheduling.
+1905.	Build a language learning app: store vocabulary, quiz with multiple choice.
+1906.	Build a currency converter app: fetch live rates from API, convert values.
+1907.	Build a unit conversion GUI: length, weight, area, volume, temperature.
+1908.	Build a scientific calculator GUI: trig, log, exponent, factorial.
+1909.	Build a graphing calculator: plot y=f(x) entered by user (matplotlib).
+1910.	Build a matrix calculator: addition, multiplication, determinant, inverse.
+1911.	Build a polynomial calculator: add, multiply, evaluate, differentiate.
+1912.	Build a complex number calculator: addition, multiplication, modulus, argument.
+1913.	Build a prime number toolkit: check primality, generate primes, factorize.
+1914.	Build a number theory toolkit: gcd, lcm, totient, modular inverse.
+1915.	Build a probability simulator: toss coins, roll dice, simulate distributions.
+1916.	Build a statistics calculator: mean, median, variance, std, skew, kurtosis.
+1917.	Build a regression calculator: fit linear regression to (x,y) data.
+1918.	Build a correlation calculator: Pearson, Spearman, Kendall.
+1919.	Build a time series analyzer: moving average, EWMA, autocorrelation.
+1920.	Build a stock price simulator: random walk with drift.
+1921.	Build a portfolio tracker: record stock buys/sells, compute PnL.
+1922.	Build a loan calculator: monthly payment, total interest, amortization schedule.
+1923.	Build a mortgage calculator GUI with plots of principal vs interest.
+1924.	Build a compound interest simulator: compute growth over years with deposits.
+1925.	Build a retirement savings planner: simulate contributions, growth, withdrawals.
+1926.	Build a tax calculator: input income, apply slabs, compute tax due.
+1927.	Build a invoice generator: input items, prices, quantities; generate PDF.
+1928.	Build a resume builder: input fields, export as formatted PDF.
+1929.	Build a expense tracker app: record transactions, show summaries by category.
+1930.	Build a personal budget app: set monthly budgets per category, track spending.
+1931.	Build a bill split app: split group expenses fairly among people.
+1932.	Build a tip calculator: split bill with custom tip %.
+1933.	Build a event manager app: create events, invite people, track RSVPs.
+1934.	Build a calendar scheduler GUI: add/edit events, daily/weekly view.
+1935.	Build a reminder app: schedule reminders, show notifications.
+1936.	Build a alarm clock app with snooze, recurring alarms.
+1937.	Build a stopwatch and timer app with lap times.
+1938.	Build a music player app: play mp3 files with play/pause/skip.
+1939.	Build a video player app: play mp4 with controls (use VLC bindings).
+1940.	Build a image viewer app with zoom, rotate, slideshow.
+1941.	Build a photo gallery manager: tag images, search, organize albums.
+1942.	Build a photo editor app: crop, resize, brightness, contrast, filters.
+1943.	Build a drawing app (Tkinter canvas): free draw, shapes, colors.
+1944.	Build a paint app clone with undo/redo.
+1945.	Build a screenshot tool: capture screen, save as image.
+1946.	Build a screen recorder: capture screen to video file (basic).
+1947.	Build a voice recorder: record microphone to .wav file.
+1948.	Build a voice changer: record, apply pitch/tempo effects, playback.
+1949.	Build a speech-to-text app (use speech recognition API).
+1950.	Build a text-to-speech app (use pyttsx3).
+1951.	Build a translator app: use API to translate between languages.
+1952.	Build a chatbot: respond to user queries using simple rules/FAQ.
+1953.	Build a AI chatbot: use OpenAI API for intelligent answers.
+1954.	Build a sentiment analyzer: classify text as positive/negative.
+1955.	Build a spam detector: classify email as spam/ham using Naive Bayes.
+1956.	Build a topic modeling app: extract topics from docs using LDA.
+1957.	Build a document summarizer: extractive summary of a text.
+1958.	Build a keyword extractor: rank words via TF-IDF.
+1959.	Build a plagiarism checker: compare documents by similarity.
+1960.	Build a search engine: index documents, query with keywords, rank results.
+1961.	Build a recommender system: movie recommendations using cosine similarity.
+1962.	Build a collaborative filtering recommender (user-user).
+1963.	Build a matrix factorization recommender with SGD (toy dataset).
+1964.	Build a image classifier: train CNN on MNIST dataset.
+1965.	Build a digit recognizer GUI: draw digit, recognize via trained CNN.
+1966.	Build a object detector: detect faces using Haar cascades.
+1967.	Build a emotion detector: classify facial expressions (tiny dataset).
+1968.	Build a handwritten OCR app: read handwritten digits.
+1969.	Build a captcha solver (basic preprocessing + CNN).
+1970.	Build a style transfer app: apply artistic style to an image.
+1971.	Build a photo colorizer: colorize grayscale photos with model.
+1972.	Build a image super-resolution app: upscale low-res images.
+1973.	Build a image caption generator: CNN + RNN model on small dataset.
+1974.	Build a video frame extractor: split video into frames.
+1975.	Build a GIF maker: create GIF from images or video frames.
+1976.	Build a video summarizer: extract highlights by scene change detection.
+1977.	Build a face recognition app: identify faces using embeddings.
+1978.	Build a voice recognition app: identify speaker by voice.
+1979.	Build a music genre classifier: classify audio into genres.
+1980.	Build a sound effect generator: synthesize simple waveforms.
+1981.	Build a morse code translator: text ↔ morse, audio beep playback.
+1982.	Build a encryption app: AES encrypt/decrypt files with password.
+1983.	Build a password manager: store encrypted passwords in SQLite with master key.
+1984.	Build a notes web app with Flask: add/edit/delete notes, store in SQLite.
+1985.	Build a blog web app with Flask: posts, categories, comments (SQLite backend).
+1986.	Build a user login system in Flask with password hashing and sessions.
+1987.	Build a task manager web app: users can add tasks with deadlines, mark as done.
+1988.	Build a expense tracker web app: users input transactions, see category totals.
+1989.	Build a polling app: create polls, vote, view results as bar chart.
+1990.	Build a URL shortener web app with analytics (count clicks).
+1991.	Build a contact form web app: submit form, save messages in database.
+1992.	Build a guestbook web app: visitors can leave messages.
+1993.	Build a basic chat web app: real-time messages with Flask-SocketIO.
+1994.	Build a quiz web app: multiple-choice quizzes, score tracking.
+1995.	Build a Q&A forum web app: post questions, answers, upvotes.
+1996.	Build a file upload web app: upload files, save to server, list available files.
+1997.	Build a photo gallery web app: upload/view images, add captions.
+1998.	Build a music streaming web app: upload mp3, play via browser.
+1999.	Build a video streaming web app: serve video chunks with range requests.
+2000.	Build a portfolio website generator: input data, generate static site.
+2001.	Build a resume builder web app: fill form, export PDF.
+2002.	Build a invoice generator web app: input items, generate downloadable PDF.
+2003.	Build a calendar web app: add/edit events, monthly view.
+2004.	Build a reminder web app: schedule reminders, send email notification.
+2005.	Build a weather forecast web app: input city, fetch API data, show charts.
+2006.	Build a currency converter web app: fetch live rates, convert.
+2007.	Build a stock tracker web app: input tickers, fetch API, plot prices.
+2008.	Build a crypto tracker web app: fetch Bitcoin/Ethereum prices, plot history.
+2009.	Build a news aggregator web app: fetch headlines from multiple APIs.
+2010.	Build a RSS reader web app: fetch RSS feeds, display articles.
+2011.	Build a book library web app: browse books, search by title/author.
+2012.	Build a movie catalog web app: search and display movie info via OMDB API.
+2013.	Build a recipe finder web app: search recipes by ingredients (API).
+2014.	Build a fitness tracker web app: log workouts, view progress charts.
+2015.	Build a habit tracker web app: mark habits daily, show streaks.
+2016.	Build a Pomodoro timer web app: countdown + stats dashboard.
+2017.	Build a typing speed test web app: measure WPM and accuracy.
+2018.	Build a polling dashboard web app: real-time results visualization.
+2019.	Build a COVID-19 tracker web app: fetch live stats, plot charts.
+2020.	Build a map visualizer web app: show locations on Leaflet.js map.
+2021.	Build a geocoding web app: input address, fetch coordinates (API).
+2022.	Build a flight search web app (dummy data): search flights, filter by price/time.
+2023.	Build a bus booking web app (dummy data): pick route, seats, confirm booking.
+2024.	Build a hotel booking web app (dummy data): pick dates, rooms, confirm.
+2025.	Build a restaurant reservation web app: choose table/time, confirm booking.
+2026.	Build a food ordering web app: browse menu, add to cart, checkout.
+2027.	Build a e-commerce product catalog: browse products, add to cart.
+2028.	Build a checkout system: cart, discount codes, final invoice.
+2029.	Build a payment simulator: dummy credit card form, validate inputs.
+2030.	Build a wishlist system: add/remove items to wishlist.
+2031.	Build a review system: leave star ratings + text reviews.
+2032.	Build a recommendation system web app: suggest items based on user ratings.
+2033.	Build a dashboard web app with charts (Chart.js) for sales data.
+2034.	Build a student performance dashboard: input marks, show charts + ranks.
+2035.	Build a finance dashboard: income/expenses over time with plots.
+2036.	Build a IoT sensor dashboard: stream simulated temperature data, plot live.
+2037.	Build a real-time chat dashboard with message analytics.
+2038.	Build a social feed web app: post messages, likes, comments.
+2039.	Build a friendship system: send/accept friend requests.
+2040.	Build a notification system: show in-app notifications on new activity.
+2041.	Build a admin dashboard: list users, delete accounts, view logs.
+2042.	Build a logging system: track user actions, save in DB.
+2043.	Build a activity timeline: show chronological list of user events.
+2044.	Build a leaderboard system: rank users by score.
+2045.	Build a badge system: award badges for milestones.
+2046.	Build a gamification system: points, levels, rewards.
+2047.	Build a forum system: categories, threads, replies.
+2048.	Build a messaging system: private messages between users.
+2049.	Build a group chat system: create groups, chat inside.
+2050.	Build a collaborative editor: two users edit same doc in real-time.
+2051.	Build a whiteboard app: users draw on shared canvas.
+2052.	Build a file sharing app: upload/download with unique links.
+2053.	Build a cloud storage app: user accounts, upload/manage files.
+2054.	Build a version control simulator: commit, history, revert.
+2055.	Build a Git log visualizer: parse repo log, show graph.
+2056.	Build a task Kanban board: columns (To-do/In progress/Done), drag tasks.
+2057.	Build a bug tracker app: report issues, assign, resolve.
+2058.	Build a feature request board: upvote/downvote features.
+2059.	Build a wiki system: pages with markdown, links, edit history.
+2060.	Build a knowledge base app: categories, articles, search.
+2061.	Build a FAQ system: admin adds Q&A, users search answers.
+2062.	Build a customer support ticket system: users submit tickets, agents reply.
+2063.	Build a live chat support app: user–agent chat with transcript.
+2064.	Build a feedback system: collect star ratings + comments, generate reports.
+2065.	Build a survey app: create surveys, collect responses, analyze results.
+2066.	Build a email sender web app: send bulk emails with templates.
+2067.	Build a newsletter system: subscriptions, campaigns, reports.
+2068.	Build a SMS notification app using API (Twilio etc.).
+2069.	Build a push notification app for web (Service Workers).
+2070.	Build a IoT home automation dashboard: toggle lights/fans (simulated).
+2071.	Build a IoT greenhouse monitor: show temperature/humidity, trigger alerts.
+2072.	Build a IoT security system simulator: motion detection alerts.
+2073.	Build a IoT smart meter dashboard: track electricity usage.
+2074.	Build a IoT health tracker: show heart rate/blood pressure (simulated).
+2075.	Build a IoT vehicle tracker: GPS position updates on map.
+2076.	Build a traffic monitor dashboard: show simulated traffic density on roads.
+2077.	Build a air quality monitor dashboard: show AQI data from API.
+2078.	Build a weather station simulator: log simulated data, plot trends.
+2079.	Build a smart irrigation system simulator: auto-water if soil moisture < threshold.
+2080.	Build a smart parking system simulator: mark free/occupied slots in real-time.
+2081.	Build a smart classroom app: attendance, quizzes, live feedback.
+2082.	Build a remote classroom app: video streaming + chat (simplified).
+2083.	Build a learning management system (LMS): courses, lessons, quizzes, grades.
+2084.	Build a student grade analytics app: input marks, compute ranks, plot distribution.
+2085.	Build a teacher performance tracker: students rate teachers, compute averages.
+2086.	Build a school management system: students, teachers, classes, attendance.
+2087.	Build a exam scheduling system: assign exams to rooms without clashes.
+2088.	Build a college admission system: input applicants, rank by score, allocate seats.
+2089.	Build a bus route optimizer: shortest paths between stops, show routes.
+2090.	Build a ride-sharing simulator: match riders to drivers based on proximity.
+2091.	Build a carpool matching app: group users with overlapping routes.
+2092.	Build a traffic light simulator: simulate lights at intersections, adjust timings.
+2093.	Build a city traffic flow simulator: cars move across grid, congestion analysis.
+2094.	Build a election voting system simulator: users cast votes, tally results.
+2095.	Build a election result dashboard: votes by region, charts, maps.
+2096.	Build a population census data analyzer: load dataset, compute summaries.
+2097.	Build a health record system: store patients, diagnoses, medications.
+2098.	Build a hospital management system: admissions, discharges, billing.
+2099.	Build a blood bank management system: donors, inventory, matching.
+2100.	Build a vaccine distribution simulator: track supply, demand, allocation.
+2101.	Build a epidemic spread simulator: SIR model on a population grid.
+2102.	Build a contact tracing app (simulated data): store contacts, flag exposures.
+2103.	Build a healthcare dashboard: aggregate hospital data, plot occupancy.
+2104.	Build a fitness coaching app: suggest workouts based on goals.
+2105.	Build a diet recommendation app: suggest meals from user profile.
+2106.	Build a sleep tracker app: input bed/wake times, analyze patterns.
+2107.	Build a mental health journaling app: mood logs, charts, suggestions.
+2108.	Build a pharmacy inventory system: drugs, stock levels, expiry alerts.
+2109.	Build a emergency response simulator: ambulance allocation to incidents.
+2110.	Build a disaster relief logistics simulator: distribute supplies to affected areas.
+2111.	Build a wildfire spread simulator: grid model, probability of spread.
+2112.	Build a earthquake impact simulator: buildings, magnitudes, damages.
+2113.	Build a flood risk dashboard: rainfall data, river levels, flood zones.
+2114.	Build a climate data analyzer: temperature trends, anomalies.
+2115.	Build a carbon footprint calculator: transport, energy, diet inputs.
+2116.	Build a renewable energy simulator: solar/wind outputs over time.
+2117.	Build a power grid simulator: supply, demand, blackouts.
+2118.	Build a water distribution system simulator: pipes, flow, leaks.
+2119.	Build a waste management tracker: bins, collection schedules, reports.
+2120.	Build a smart recycling app: classify items as recyclable/non-recyclable.
+2121.	Build a agriculture crop planner: suggest crops based on soil/weather.
+2122.	Build a yield prediction model: train regression on toy crop dataset.
+2123.	Build a soil moisture monitoring dashboard: simulated sensors, alerts.
+2124.	Build a farm irrigation optimizer: simulate water distribution.
+2125.	Build a market price dashboard: fetch crop prices, plot trends.
+2126.	Build a supply chain tracker: goods moving across suppliers, distributors.
+2127.	Build a warehouse inventory optimizer: reorder points, safety stock.
+2128.	Build a logistics route planner: shortest paths for multiple deliveries.
+2129.	Build a delivery tracking app: show package status updates.
+2130.	Build a fleet management system: track vehicles, fuel, maintenance.
+2131.	Build a port cargo simulator: ships docking, containers loading.
+2132.	Build a airport scheduling simulator: flights, runways, delays.
+2133.	Build a air traffic control simulator: aircraft, routes, conflicts.
+2134.	Build a railway scheduling system: trains, tracks, conflicts.
+2135.	Build a metro system simulator: trains, stations, passenger flow.
+2136.	Build a shipping logistics optimizer: container allocation, routes.
+2137.	Build a warehouse robotics simulator: bots moving items to shelves.
+2138.	Build a factory production line simulator: machines, throughput.
+2139.	Build a supply-demand equilibrium simulator: toy economy model.
+2140.	Build a marketplace app: users list items, buy/sell, track transactions.
+2141.	Build a auction system: create auctions, place bids, determine winners.
+2142.	Build a stock trading simulator: buy/sell stocks, track portfolio value.
+2143.	Build a crypto trading simulator: live API prices, fake trades.
+2144.	Build a portfolio optimization tool: maximize return, minimize risk.
+2145.	Build a option pricing calculator: Black-Scholes formula.
+2146.	Build a futures contract simulator: mark-to-market profits/losses.
+2147.	Build a forex trading simulator: convert currencies, trade pairs.
+2148.	Build a hedging simulator: simulate hedging a portfolio with options.
+2149.	Build a banking system simulator: accounts, transfers, interest.
+2150.	Build a ATM simulator: deposit, withdraw, balance inquiry.
+2151.	Build a loan approval predictor: ML classification on toy dataset.
+2152.	Build a credit scoring model: logistic regression on sample data.
+2153.	Build a fraud detection system: anomaly detection on transactions.
+2154.	Build a KYC system: store user data, verify documents (dummy).
+2155.	Build a insurance claim system: file claims, approve/reject.
+2156.	Build a risk analysis dashboard: portfolio VaR, CVaR.
+2157.	Build a savings goal planner: input goal, time, interest rate.
+2158.	Build a pension fund simulator: contributions, growth, withdrawals.
+2159.	Build a tax filing simulator: income, deductions, compute tax liability.
+2160.	Build a government budget simulator: allocate funds to sectors, track deficit.
+2161.	Build a currency policy simulator: print money, observe inflation effects.
+2162.	Build a inflation tracker dashboard: CPI data, plot trends.
+2163.	Build a unemployment rate tracker: dataset analysis, plot trends.
+2164.	Build a GDP growth simulator: toy macroeconomic model.
+2165.	Build a stock market index calculator: weighted average of stock prices.
+2166.	Build a economic inequality analyzer: Gini coefficient, Lorenz curve.
+2167.	Build a housing price predictor: regression on toy dataset.
+2168.	Build a real estate listing web app: properties, prices, filters.
+2169.	Build a mortgage approval simulator: compute eligibility based on income.
+2170.	Build a city rent tracker: dataset analysis, price trends.
+2171.	Build a transport demand predictor: regression on ridership data.
+2172.	Build a tourism dashboard: arrivals, revenues, trends.
+2173.	Build a hotel booking predictor: classification on dataset.
+2174.	Build a airbnb price predictor: regression on toy dataset.
+2175.	Build a restaurant recommender: suggest based on cuisine + reviews.
+2176.	Build a food delivery simulator: orders, riders, delivery times.
+2177.	Build a supply chain disruption simulator: delays, shortages, impacts.
+2178.	Build a global trade dashboard: imports/exports dataset, plots.
+2179.	Build a currency correlation analyzer: compute correlations, visualize.
+2180.	Build a energy demand predictor: regression on time-series.
+2181.	Build a power outage simulator: demand spikes, failures.
+2182.	Build a smart city dashboard: transport, energy, pollution, water.
+2183.	Build a digital twin simulator: virtual model of a city system, update with data.
+2184.	Build a handwritten digit classifier web app: upload digit images → CNN predicts (MNIST).
+2185.	Build a real-time digit recognizer: draw on canvas, model predicts instantly.
+2186.	Build a image classifier trainer: upload dataset, train simple CNN, view accuracy.
+2187.	Build a image augmentation tool: apply flips, rotations, zooms, brightness changes.
+2188.	Build a image similarity search app: find similar images using embeddings.
+2189.	Build a face detection web app: upload photo, mark faces with bounding boxes.
+2190.	Build a face recognition attendance system: capture webcam, auto-mark present.
+2191.	Build a emotion recognition app: webcam photo → classify emotion.
+2192.	Build a mask detection system: classify masked vs unmasked faces.
+2193.	Build a age & gender predictor from face images (toy model).
+2194.	Build a OCR text extractor: upload image → output extracted text (Tesseract).
+2195.	Build a business card scanner: OCR + regex to extract name, phone, email.
+2196.	Build a license plate reader: extract plate text from car images.
+2197.	Build a document scanner app: detect edges, crop, enhance, save as PDF.
+2198.	Build a captcha generator: create captcha images with distortions.
+2199.	Build a captcha solver: preprocess, feed to CNN for recognition.
+2200.	Build a signature verifier: compare uploaded signatures using embeddings.
+2201.	Build a currency note detector: classify real vs fake notes (toy dataset).
+2202.	Build a plant leaf disease detector: classify leaves as healthy/diseased.
+2203.	Build a fruit quality classifier: classify ripe vs unripe fruits.
+2204.	Build a garbage classification app: recyclable vs non-recyclable vs organic.
+2205.	Build a clothing classifier: classify T-shirts, trousers, shoes (Fashion-MNIST).
+2206.	Build a art style classifier: classify paintings (Impressionism, Cubism, etc.).
+2207.	Build a object detection app: detect multiple objects in an image (YOLO tiny).
+2208.	Build a video object tracker: track selected object across frames.
+2209.	Build a pedestrian counter: count people crossing a line in video.
+2210.	Build a vehicle counter: count cars on a road video.
+2211.	Build a helmet detection app: classify bike riders with/without helmets.
+2212.	Build a fire detection system: detect flames in video feed.
+2213.	Build a smoke detection system: detect smoke in video feed.
+2214.	Build a CCTV anomaly detector: detect unusual motion in videos.
+2215.	Build a pose estimation app: detect human skeleton keypoints (OpenPose lite).
+2216.	Build a gesture recognition system: classify hand gestures (rock/paper/scissors).
+2217.	Build a sign language recognizer: classify ASL letters (toy dataset).
+2218.	Build a body language analyzer: detect if person is sitting/standing/running.
+2219.	Build a fall detection system: detect falls from camera (simulated).
+2220.	Build a sports action classifier: classify tennis/basketball/football clips.
+2221.	Build a celebrity face matcher: upload photo → match closest celebrity.
+2222.	Build a cartoonify app: convert face photos to cartoon-style images.
+2223.	Build a photo background remover: separate subject from background.
+2224.	Build a green screen app: replace background with chosen image.
+2225.	Build a image color palette extractor: get top 5 dominant colors.
+2226.	Build a image collage maker: arrange multiple photos into grid.
+2227.	Build a meme generator app: overlay text on images.
+2228.	Build a image filter app: sepia, blur, sharpen, grayscale.
+2229.	Build a photo restoration app: remove scratches from old photos.
+2230.	Build a photo enhancer app: auto-adjust brightness/contrast.
+2231.	Build a low-light enhancer: brighten dark photos.
+2232.	Build a super-resolution enhancer: upscale low-res photos.
+2233.	Build a deepfake face swap app (toy version).
+2234.	Build a AI voice generator: synthesize voice from text.
+2235.	Build a voice cloning app: clone a speaker’s voice (tiny dataset).
+2236.	Build a speech emotion recognizer: classify happy, sad, angry from voice.
+2237.	Build a language identifier: detect language of given text.
+2238.	Build a sentiment analyzer web app: classify text input as positive/negative.
+2239.	Build a toxic comment detector: classify text as toxic vs clean.
+2240.	Build a spam SMS detector: train classifier on SMS dataset.
+2241.	Build a fake news detector: classify news as real/fake.
+2242.	Build a sarcasm detector: classify text as sarcastic/non-sarcastic.
+2243.	Build a author identification app: predict author from writing style.
+2244.	Build a plagiarism detector: compute similarity between documents.
+2245.	Build a summarizer app: generate extractive summary of text.
+2246.	Build a keyword extractor app: rank keywords using TF-IDF.
+2247.	Build a topic modeling app: extract topics with LDA.
+2248.	Build a Q&A chatbot: answer based on given document (retrieval-based).
+2249.	Build a FAQ bot: predefined Q&A pairs, respond to matching queries.
+2250.	Build a translation app: English ↔ Hindi using API.
+2251.	Build a paraphrase generator: generate alternative phrasing of a sentence.
+2252.	Build a text similarity app: cosine similarity of embeddings.
+2253.	Build a text classifier trainer: upload labeled dataset, train classifier.
+2254.	Build a named entity recognizer: detect people, places, orgs in text.
+2255.	Build a POS tagger: tag words in sentence with parts of speech.
+2256.	Build a dependency parser visualizer: show parse tree.
+2257.	Build a semantic role labeler: identify verb–argument structure (toy model).
+2258.	Build a coreference resolver: detect pronouns referring to same entity (toy).
+2259.	Build a text-to-SQL app: convert English query to SQL (toy dataset).
+2260.	Build a document search engine: semantic search with embeddings.
+2261.	Build a resume matcher: match resumes with job descriptions.
+2262.	Build a job recommender: recommend jobs to users based on skills.
+2263.	Build a interview question generator: generate questions from job role.
+2264.	Build a exam paper generator: generate random Q&A sets.
+2265.	Build a MCQ quiz generator: auto-generate multiple-choice questions from text.
+2266.	Build a flashcard generator: auto-generate flashcards from text.
+2267.	Build a personal tutor chatbot: answers math/science questions.
+2268.	Build a math solver app: solve algebra/calculus equations.
+2269.	Build a equation plotter: plot y=f(x) from input equation.
+2270.	Build a step-by-step differentiation tool.
+2271.	Build a step-by-step integration tool.
+2272.	Build a matrix solver: solve Ax=b using numpy/scipy.
+2273.	Build a graph visualizer: input edges, visualize with networkx.
+2274.	Build a graph algorithm visualizer: BFS/DFS/Dijkstra animations.
+2275.	Build a sorting visualizer: bubble, merge, quick sort animations.
+2276.	Build a pathfinding visualizer: A*, Dijkstra on grid.
+2277.	Build a game AI visualizer: minimax moves in tic-tac-toe.
+2278.	Build a chess AI: minimax + evaluation for small board.
+2279.	Build a checkers AI: alpha-beta pruning.
+2280.	Build a Othello AI: heuristic + minimax.
+2281.	Build a Go (5×5) AI: Monte Carlo tree search (basic).
+2282.	Build a poker hand evaluator: classify poker hands.
+2283.	Build a poker simulator: deal hands, simulate rounds, compute winners.
+2284.	Save a trained model to disk using joblib.
+2285.	Load a saved model and make predictions.
+2286.	Track experiment results (accuracy, parameters) in a CSV log.
+2287.	Use MLflow to track experiments (basic).
+2288.	Automate retraining a model when new data is added.
+2289.	Serve a trained scikit model via FastAPI with /predict endpoint.
+2290.	Add request/response logging for predictions.
+2291.	Expose Prometheus /metrics with latency histogram.
+2292.	Implement data drift detection (PSI) for a numeric feature.
+2293.	Implement logistic regression from scratch, compare to scikit-learn’s results.
+2294.	Implement linear SVM from scratch, test on a toy dataset.
+2295.	Implement kernel SVM with RBF kernel from scratch.
+2296.	Train a decision tree classifier from scratch using Gini index.
+2297.	Implement random forest from scratch; compare accuracy with sklearn.
+2298.	Implement gradient boosting (toy version) from scratch.
+2299.	Implement XGBoost-like algorithm on small data, compare vs sklearn.
+2300.	Implement AdaBoost from scratch; test on binary classification.
+2301.	Implement k-means clustering from scratch, test on synthetic data.
+2302.	Implement hierarchical clustering with single/complete linkage.
+2303.	Implement DBSCAN clustering from scratch, visualize clusters.
+2304.	Implement Gaussian Mixture Model (GMM) using EM algorithm.
+2305.	Compare GMM vs k-means clustering on toy dataset.
+2306.	Implement PCA from scratch, compare eigen decomposition vs sklearn.
+2307.	Implement LDA (Linear Discriminant Analysis) from scratch.
+2308.	Implement t-SNE from scratch (simplified, small dataset).
+2309.	Implement UMAP-like dimensionality reduction (simplified).
+2310.	Build an autoencoder for dimensionality reduction.
+2311.	Compare autoencoder vs PCA on MNIST.
+2312.	Implement denoising autoencoder for noisy MNIST images.
+2313.	Implement variational autoencoder (VAE) from scratch (PyTorch/TF).
+2314.	Implement GAN (Generative Adversarial Network) on MNIST.
+2315.	Implement DCGAN on CIFAR-10.
+2316.	Train a conditional GAN to generate MNIST digits by class.
+2317.	Implement Wasserstein GAN (WGAN).
+2318.	Implement CycleGAN for horse ↔ zebra dataset.
+2319.	Implement Pix2Pix for image-to-image translation.
+2320.	Implement StyleGAN (toy version, tiny dataset).
+2321.	Compare GAN vs VAE on reconstruction quality.
+2322.	Implement ResNet from scratch (PyTorch/TF).
+2323.	Implement DenseNet from scratch.
+2324.	Implement EfficientNet (tiny version).
+2325.	Train a CNN for CIFAR-10 with data augmentation.
+2326.	Train a CNN for medical image classification (tiny dataset).
+2327.	Implement attention mechanism from scratch (scaled dot-product).
+2328.	Implement transformer encoder from scratch.
+2329.	Implement transformer decoder (toy dataset).
+2330.	Train a transformer for machine translation (tiny dataset).
+2331.	Implement BERT pretraining (masked LM) on toy corpus.
+2332.	Fine-tune BERT for sentiment classification.
+2333.	Implement GPT-style language model from scratch (tiny version).
+2334.	Fine-tune GPT-2 on a custom dataset (e.g., poems).
+2335.	Implement RNN from scratch (char-level text generation).
+2336.	Implement LSTM from scratch.
+2337.	Implement GRU from scratch.
+2338.	Compare RNN vs LSTM vs GRU on text dataset.
+2339.	Implement seq2seq with attention for toy translation.
+2340.	Implement pointer-generator network (summarization toy dataset).
+2341.	Implement transformer summarizer (toy dataset).
+2342.	Implement transformer-based chatbot trained on conversation dataset.
+2343.	Implement LightGBM-like gradient boosting (leaf-wise growth strategy).
+2344.	Implement CatBoost-style boosting (categorical features handling, simplified).
+2345.	Compare XGBoost vs LightGBM vs CatBoost on the same dataset.
+2346.	Implement stacking ensemble (logistic regression as meta-model).
+2347.	Implement blending ensemble (hold-out blending vs stacking).
+2348.	Implement meta-learning classifier: predict which ML algorithm works best for a dataset.
+2349.	Train an imbalanced dataset classifier: use SMOTE vs class weighting.
+2350.	Implement cost-sensitive learning: custom loss for imbalanced classes.
+2351.	Implement focal loss for classification (as in RetinaNet).
+2352.	Train an object detector (YOLOv3-tiny) on a custom dataset.
+2353.	Train a Mask R-CNN for instance segmentation (small dataset).
+2354.	Implement semantic segmentation with U-Net on toy data.
+2355.	Implement DeepLab-like segmentation (atrous convolutions).
+2356.	Compare U-Net vs DeepLab on segmentation task.
+2357.	Implement self-supervised contrastive learning (SimCLR-like).
+2358.	Implement BYOL (Bootstrap Your Own Latent) simplified version.
+2359.	Implement MoCo (Momentum Contrast) simplified version.
+2360.	Train self-supervised embeddings and test on linear probe classification.
+2361.	Implement knowledge distillation: train small student model from larger teacher.
+2362.	Implement pruning in neural networks: remove low-weight connections.
+2363.	Implement quantization-aware training: train with reduced precision.
+2364.	Implement transfer learning: fine-tune ResNet on custom dataset.
+2365.	Implement multi-task learning: shared encoder, two classification heads.
+2366.	Implement multi-label classification with sigmoid outputs.
+2367.	Implement zero-shot classification using embeddings + cosine similarity.
+2368.	Implement few-shot classification with prototypical networks.
+2369.	Implement Siamese network for face verification.
+2370.	Use SHAP to explain predictions of a trained model.
+2371.	Use LIME to explain predictions on a text classifier.
+2372.	Compare SHAP explanations for two different models.
+2373.	Detect bias in a dataset (e.g., gender imbalance).
+2374.	Write a report on model fairness evaluation.
+2375.	Implement triplet loss model for face recognition.
+2376.	Implement metric learning: learn embeddings where similar items are closer.
+2377.	Implement Graph Convolutional Network (GCN) from scratch.
+2378.	Implement Graph Attention Network (GAT) from scratch.
+2379.	Implement GraphSAGE (sampling-based graph embedding).
+2380.	Implement node classification on citation graph dataset.
+2381.	Implement link prediction using graph embeddings.
+2382.	Implement graph clustering using spectral embeddings.
+2383.	Implement graph autoencoder for link prediction.
+2384.	Implement temporal GNN (dynamic graphs with timestamps).
+2385.	Implement reinforcement learning Q-learning on CartPole.
+2386.	Implement Deep Q-Network (DQN) for CartPole.
+2387.	Implement Double DQN and compare to vanilla DQN.
+2388.	Implement Dueling DQN and compare results.
+2389.	Implement Policy Gradient REINFORCE on CartPole.
+2390.	Implement Actor-Critic (A2C) on CartPole.
+2391.	Implement PPO (Proximal Policy Optimization) simplified.
+2392.	Implement multi-agent reinforcement learning (2-player gridworld).
+2393.	Implement AlphaZero-style self-play for Tic-Tac-Toe.
+2394.	Implement AlphaZero-style self-play for Connect Four.
+2395.	Implement multi-modal model: classify using both image + text inputs.
+2396.	Implement vision-language model: image captioning with CNN + RNN.
+2397.	Implement a mini GPT-like model (transformer decoder) trained on text dataset.
+2398.	Compute demographic parity and equal opportunity differences on a dataset.
+2399.	Apply reweighting to mitigate disparity and recompute metrics.
+2400.	Write a short “model fairness card” documenting limitations.
+
+

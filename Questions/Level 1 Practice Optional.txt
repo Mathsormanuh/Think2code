@@ -162,5 +162,162 @@
 161.	Given a list of n integers, separate even and odd numbers into two lists.
 162.	Given a list of n integers, print the longest increasing subsequence (brute force for small n).
 163.	Given a list of n integers, print the longest decreasing subsequence.
-164.	Read a string and print its length.
+164. Given a list of integers and a value k, print all pairs (i, j) such that arr[i] + arr[j] = k (i < j).
+165. Given a list, count number of pairs whose sum equals k.
+166. Given a list, print all unique pairs with sum k (no duplicate pairs even if elements repeat).
+167. Given a list, print all triplets (i, j, k) such that their sum equals a given value.
+168. Given a list, count number of triplets with sum = k.
+169. Given a list, print all possible contiguous subarrays.
+170. Given a list of size n, print total number of subarrays.
+171. Given a list, print all subarrays whose sum equals k.
+172. Given a list, count number of subarrays with sum = k.
+173. Given a list, find maximum sum among all subarrays (brute force).
+174. Given a list, find minimum sum among all subarrays.
+175. Given a list, find longest subarray having sum = k.
+176. Given a list, find longest subarray with sum = 0.
+177. Given a list, find length of longest subarray with all distinct elements.
+178. Given a list, find longest contiguous increasing subarray (strictly increasing).
+179. Given a list, find longest contiguous decreasing subarray.
 
+180. Given a list, find index i such that sum of elements before i equals sum after i (equilibrium index).
+181. Given a list, print all equilibrium indices.
+182. Given a list, find element occurring more than n/2 times (majority element).
+183. Given a list, find all elements occurring more than n/3 times.
+184. Given a list, find kth smallest element without sorting entire array.
+185. Given a list, find kth largest element without sorting entire array.
+186. Given a list, print k largest elements.
+187. Given a list, print k smallest elements.
+188. Given a list, find median without using built-in sort.
+189. Given a list, rearrange elements such that elements < k come first, then =k, then >k.
+
+190. Given two sorted lists, merge them into one sorted list.
+191. Given two lists, print intersection (include duplicates as many times as they appear in both).
+192. Given two lists, print union (only unique elements).
+193. Given three lists, print common elements present in all three.
+194. Given a list, remove duplicates in-place without using extra space.
+195. Given a list, move all zeros to the end while keeping relative order.
+196. Given a list, move all negative numbers to the beginning while preserving order.
+197. Given a list, rearrange such that positives and negatives appear alternately.
+198. Given a list containing only 0, 1, 2, sort it without using sort().
+199. Given a list, separate even and odd numbers.
+
+200. Given a list containing numbers from 1 to n with one missing, find the missing number.
+201. Given a list containing numbers from 1 to n with multiple missing, print all missing numbers.
+202. Given a list where one number is duplicated, find that duplicate.
+203. Given a list, print all duplicate elements.
+204. Given a list, find smallest missing positive integer.
+205. Given a list, find smallest missing non-negative integer.
+206. Given a list, find length of longest sequence of consecutive integers.
+207. Given a list, check if all elements can form a consecutive sequence.
+208. Given a list, find longest consecutive subsequence (not necessarily contiguous).
+
+209. Given a list, count number of inversions (i < j and arr[i] > arr[j]).
+210. Given a list, count pairs where arr[i] > 2 * arr[j].
+211. Given a list, check if there exists a pair with absolute difference = k.
+212. Given a list, find pair with minimum absolute difference.
+213. Given a list, find pair with maximum difference.
+214. Given a list, find pair whose sum is closest to a target value.
+215. Given a list, find triplet whose sum is closest to target.
+
+216. Given a list, generate all subsets (power set).
+217. Given a list, generate all subsets of size k.
+218. Given a list, generate all permutations of elements.
+219. Given a list, generate all combinations (choose k elements).
+220. Given a list, print total number of subsets.
+
+221. Given a list, implement linear search (return index of element).
+222. Given a sorted list, implement binary search.
+223. Implement insertion sort manually.
+224. Implement selection sort manually.
+225. Implement bubble sort manually.
+226. Implement merge sort.
+227. Implement quick sort.
+
+228. Given a list, find longest increasing subsequence (optimized).
+229. Given a list, find longest decreasing subsequence (optimized).
+230. Given a list, find maximum product of any contiguous subarray.
+231. Given a list, find a subarray whose product equals k.
+232. Given a list, find maximum product subarray.
+233. Given a list, find maximum circular subarray sum.
+
+234. Given a list, print all leaders (element greater than all elements to its right).
+235. Given a list, for each element, print next greater element to its right.
+236. Given a list, for each element, print next smaller element.
+237. Given a list, for each element, print previous greater element.
+238. Given stock prices list, find max profit from one buy and one sell.
+239. Given stock prices list, find max profit with multiple transactions allowed.
+
+240. Given a string, print all substrings.
+241. Given a string of length n, print total number of substrings.
+242. Given a string, count substrings with all unique characters.
+243. Given a string, find longest substring without repeating characters.
+244. Given a string, find longest substring with at most k distinct characters.
+245. Given a string s and string t, find smallest substring of s containing all characters of t.
+246. Given a string and a pattern, print all starting indices where an anagram of pattern appears.
+247. Given two strings, check if they are anagrams.
+248. Given a list of strings, group them such that each group contains anagrams.
+
+249. Given a string, print all palindromic substrings.
+250. Given a string, count number of palindromic substrings.
+251. Given a string, find longest palindromic substring.
+252. Given a string, find minimum number of insertions required to make it palindrome.
+253. Given a string, check if its characters can be rearranged to form a palindrome.
+
+254. Given a string like "aaabbc", compress it to "a3b2c1".
+255. Given a compressed string like "a3b2", expand it to original form.
+256. Given a string, remove duplicate characters.
+257. Given a string, remove duplicate characters while preserving order.
+258. Given a string, find first non-repeating character.
+259. Given a string, find kth non-repeating character.
+
+260. Given a sentence, reverse each word individually.
+261. Given a sentence, reverse the order of words.
+262. Given two strings, check if one is rotation of another.
+263. Given a list of strings, find longest common prefix.
+264. Given a string and pattern, find first occurrence of pattern (manual search).
+265. Given a string, count how many times a pattern appears.
+
+266. Given a string containing brackets (), {}, [], check if it is balanced.
+267. Given a string, remove minimum number of brackets to make it valid.
+268. Given a string with brackets, check if nesting is correct.
+269. Given a string like "3+2-1", evaluate result.
+270. Given a string with parentheses like "(2+3)*4", evaluate result.
+
+271. Given a numeric string, convert it to integer manually.
+272. Given an integer, convert it to string manually.
+273. Given a string, check if it represents a valid number (integer or decimal).
+274. Given two version strings like "1.2.3" and "1.2.10", compare which is greater.
+
+275. Given two strings, compute edit distance using recursion.
+276. Given two strings, compute edit distance using dynamic programming.
+277. Given two strings, find longest common subsequence.
+278. Given two strings, find longest common substring.
+279. Given two strings, check if one is subsequence of another.
+
+280. Given a string, generate all permutations.
+281. Given a string, generate all combinations of length k.
+282. Given a string, print all subsequences.
+283. Given a string, print all substrings with unique characters.
+
+284. Given a string, find smallest substring that repeats to form entire string (e.g., "ababab" → "ab").
+285. Given a string, check if it is made by repeating a substring.
+286. Given a string s and t, find minimum window in s containing all characters of t.
+287. Given a string, find longest repeating substring.
+288. Given a string, count distinct substrings.
+
+289. Given a string, build prefix table (LPS array for pattern).
+290. Given text and pattern, implement naive pattern matching.
+291. Given text and pattern, find all matches using sliding window idea.
+292. Given a string, implement basic rolling hash (for substring comparison).
+293. Given a string, check if it contains any repeated substring pattern.
+
+294. Given a string and number of rows r, write characters in zigzag form row-wise and then read row by row.
+     Example: s = "PAYPALISHIRING", r = 3
+     Output: "PAHNAPLSIIGYIR"
+
+295. Given two large numbers as strings, perform addition and return result as string.
+296. Given two large numbers as strings, perform multiplication.
+297. Given two large numbers as strings, perform subtraction.
+298. Given two large numbers as strings, perform division (integer result).
+299. Given a string, check if it is a valid IPv4 address (format: x.x.x.x where 0 ≤ x ≤ 255).
+300. Given a string, check if it is palindrome ignoring spaces, punctuation, and case.
