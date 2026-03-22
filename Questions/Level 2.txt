@@ -1,0 +1,370 @@
+LEVEL 2 – BASIC SYNTAX & VARIABLES (50 QUESTIONS)
+
+Q1. Calculate circumference and area of a circle using radius.
+Q2. Convert days into years, weeks, and remaining days.
+Q3. Convert seconds into HH:MM:SS format.
+Q4. Input marks of 5 subjects and calculate total and percentage.
+Q5. Calculate average speed given distance and time.
+Q6. Convert a decimal number to binary without using built-in functions.
+Q7. Convert a binary number to decimal.
+Q8. Calculate EMI using a simple interest formula.
+Q9. Find volume of cylinder, cone, and sphere.
+Q10. Convert Fahrenheit to Celsius and Kelvin.
+Q11. Calculate GST for a given amount.
+Q12. Break an amount into minimum number of currency notes.
+Q13. Evaluate a mathematical expression using operator precedence.
+Q14. Convert character to ASCII and ASCII to character.
+Q15. Calculate final amount after discount.
+Q16. Find distance between two coordinate points.
+Q17. Compute slope of a line from two points.
+Q18. Convert inches to centimeters.
+Q19. Calculate successive discounts.
+Q20. Compute salary including HRA, DA, and PF.
+Q21. Check if three angles can form a triangle.
+Q22. Convert time from 12-hour format to 24-hour format.
+Q23. Calculate perimeter of a polygon with n sides.
+Q24. Compute mean, median, and mode manually.
+Q25. Round a floating number to N decimal places.
+Q26. Calculate percentage difference between two numbers.
+Q27. Compute total bill with tax and shipping charges.
+Q28. Convert bytes into KB, MB, GB.
+Q29. Convert a number (1–9999) into words.
+Q30. Perform arithmetic operation based on user choice.
+Q31. Convert Cartesian coordinates to Polar coordinates.
+Q32. Convert Polar coordinates to Cartesian.
+Q33. Divide a number into a given ratio.
+Q34. Swap two numbers using XOR.
+Q35. Calculate harmonic mean.
+Q36. Calculate geometric mean.
+Q37. Evaluate quadratic expression ax² + bx + c.
+Q38. Convert human years into dog years.
+Q39. Compute average marks of n students.
+Q40. Compute bank balance after multiple transactions.
+Q41. Convert mixed fraction to improper fraction.
+Q42. Convert improper fraction to mixed fraction.
+Q43. Calculate energy using E = mc².
+Q44. Convert Earth weight to Moon weight.
+Q45. Estimate water consumption per person.
+Q46. Calculate fuel required for a trip.
+Q47. Add two complex numbers.
+Q48. Multiply two complex numbers.
+Q49. Convert temperature between Celsius, Fahrenheit, and Kelvin.
+Q50. Calculate depreciation of an asset.
+
+LEVEL 2 – CONDITIONAL STATEMENTS (50 QUESTIONS)
+
+Q1. Classify number as even, odd, or divisible by 5.
+Q2. Determine age category (child, adult, senior).
+Q3. Classify angle type.
+Q4. Determine season from month number.
+Q5. Check eligibility for blood donation.
+Q6. Validate password strength.
+Q7. Check if three points lie on same line.
+Q8. Determine valid time format.
+Q9. Determine valid date format.
+Q10. Classify day as weekday or weekend.
+Q11. Find smallest of four numbers.
+Q12. Find second largest of three numbers.
+Q13. Determine electricity bill using slabs.
+Q14. Calculate income tax using progressive slabs.
+Q15. Check if number is perfect.
+Q16. Check if number is abundant or deficient.
+Q17. Check Pythagorean triplet.
+Q18. Determine quadrant of coordinate point.
+Q19. Validate triangle inequality rule.
+Q20. Check automorphic number.
+Q21. Check strong number.
+Q22. Determine grade with remarks.
+Q23. Check scholarship eligibility based on multiple criteria.
+Q24. Determine bank interest rate by account type.
+Q25. Check harshad number.
+Q26. Check neon number.
+Q27. Validate mobile number format.
+Q28. Validate email format.
+Q29. Determine driving license eligibility.
+Q30. Classify triangle by sides and angles.
+Q31. Check if character is uppercase, lowercase, or digit.
+Q32. Check if string is uppercase, lowercase, or mixed.
+Q33. Compare two strings lexicographically.
+Q34. Check if date is palindrome.
+Q35. Determine water level warning category.
+Q36. Check eligibility for exam based on attendance.
+Q37. Classify income category.
+Q38. Determine fine for library late return.
+Q39. Check if year is leap and century year.
+Q40. Determine number of days in a month.
+Q41. Check if intervals overlap.
+Q42. Validate student result across subjects.
+Q43. Determine profit or loss percentage.
+Q44. Check if radii form concentric circles.
+Q45. Check if character is vowel (both cases).
+Q46. Determine coordinates lie on axis or origin.
+Q47. Check magic number.
+Q48. Check eligibility for competitive exam.
+Q49. Check if number lies within range.
+Q50. Determine meal discount based on age and time.
+
+LEVEL 2 – LOOPS (50 QUESTIONS)
+
+Q1. Print numbers divisible by 3 or 7 up to n.
+Q2. Print squares of numbers from 1 to n.
+Q3. Print cubes of numbers from 1 to n.
+Q4. Generate arithmetic progression up to n terms.
+Q5. Generate geometric progression up to n terms.
+Q6. Count prime numbers between two given numbers.
+Q7. Print prime factors of a number.
+Q8. Print Fibonacci numbers greater than 100 and less than n.
+Q9. Print binary representation of a number using loop.
+Q10. Find sum of odd numbers up to n.
+Q11. Find sum of even numbers up to n.
+Q12. Print all factors of a number in descending order.
+Q13. Check if a number is a perfect square using loop.
+Q14. Find smallest divisor of a number greater than 1.
+Q15. Generate Pascal’s triangle up to n rows.
+Q16. Generate Floyd’s triangle.
+Q17. Count trailing zeros in factorial of a number.
+Q18. Print Armstrong numbers in a given range.
+Q19. Print palindrome numbers in a given range.
+Q20. Generate hollow square pattern.
+Q21. Generate inverted pyramid pattern.
+Q22. Generate diamond pattern.
+Q23. Count frequency of each digit in a number.
+Q24. Find GCD of n numbers.
+Q25. Find LCM of n numbers.
+Q26. Print multiplication table grid up to n.
+Q27. Print common factors of two numbers.
+Q28. Generate Collatz sequence for a number.
+Q29. Find digital root of a number.
+Q30. Print Kaprekar numbers in a range.
+Q31. Find kth prime number.
+Q32. Print sum of series 1/1! + 1/2! + … + 1/n!
+Q33. Print first n twin primes.
+Q34. Print numbers whose sum of digits is even.
+Q35. Reverse a number keeping trailing zeros intact.
+Q36. Compute power of a number using repeated squaring.
+Q37. Print numbers that are palindrome in binary.
+Q38. Print lucky numbers up to n.
+Q39. Count digits in a number using loop.
+Q40. Print numbers whose product of digits is odd.
+Q41. Find nth composite number.
+Q42. Print all Pythagorean triplets up to n.
+Q43. Generate numeric triangle pattern.
+Q44. Generate hollow pyramid pattern.
+Q45. Repeatedly sum digits until a single digit remains.
+Q46. Calculate factorial using while loop.
+Q47. Print all divisors in sorted order.
+Q48. Print alternating series (example: 1 - 2 + 3 - 4 + …).
+Q49. Print Fibonacci numbers at prime index positions.
+Q50. Generate multiplication triangle pattern.
+
+LEVEL 2 – ARRAYS / LISTS (50 QUESTIONS)
+
+Q1. Find third largest element in array.
+Q2. Find second smallest element in array.
+Q3. Count frequency of each element in array.
+Q4. Remove all occurrences of a given element.
+Q5. Rotate array left by k positions.
+Q6. Rotate array right by k positions.
+Q7. Check if array is sorted.
+Q8. Implement selection sort manually.
+Q9. Implement insertion sort manually.
+Q10. Merge two sorted arrays.
+Q11. Insert element at given index.
+Q12. Delete element at given index.
+Q13. Reverse array in-place.
+Q14. Find pair with given sum.
+Q15. Find triplet with given sum.
+Q16. Count duplicate elements.
+Q17. Count distinct elements.
+Q18. Move zeros to end of array.
+Q19. Move negative numbers to left side.
+Q20. Replace each element with its square.
+Q21. Find equilibrium index.
+Q22. Compute prefix sum array.
+Q23. Compute suffix sum array.
+Q24. Find maximum subarray sum (Kadane’s algorithm).
+Q25. Check if array is palindrome.
+Q26. Count peaks and valleys in array.
+Q27. Implement binary search.
+Q28. Sort array by parity (even first, then odd).
+Q29. Replace negative numbers with zero.
+Q30. Convert array into unique set of elements.
+Q31. Find union of two arrays.
+Q32. Find intersection of two arrays.
+Q33. Find symmetric difference of two arrays.
+Q34. Count elements greater than average.
+Q35. Multiply all elements except current index.
+Q36. Find longest increasing subsequence (basic approach).
+Q37. Convert 1D array into 2D matrix.
+Q38. Replace zero with previous non-zero value.
+Q39. Find running average of array.
+Q40. Count total digits in all array elements.
+Q41. Find elements appearing more than once.
+Q42. Remove duplicates from array.
+Q43. Sort array in descending order.
+Q44. Check if two arrays are equal.
+Q45. Count positive and negative numbers.
+Q46. Shift elements left by one position.
+Q47. Shift elements right by one position.
+Q48. Find minimum difference between any two elements.
+Q49. Find missing number in sequence 1 to n.
+Q50. Check if array contains subarray with given sum.
+
+LEVEL 2 – STRINGS (50 QUESTIONS)
+
+Q1. Reverse each word in a sentence.
+Q2. Reverse the order of words in a sentence.
+Q3. Count uppercase letters, lowercase letters, and digits in a string.
+Q4. Remove punctuation characters from a string.
+Q5. Remove duplicate characters from a string.
+Q6. Extract all numbers from a string.
+Q7. Extract only alphabets from a string.
+Q8. Check whether a string is a valid email format.
+Q9. Check whether a string is a valid mobile number.
+Q10. Find lexicographically smallest word in a sentence.
+Q11. Count repeated words in a sentence.
+Q12. Find the longest word in a sentence.
+Q13. Convert a sentence to title case.
+Q14. Toggle case of each character in a string.
+Q15. Encrypt a string using Caesar cipher.
+Q16. Decrypt a Caesar cipher text.
+Q17. Check whether one string is a rotation of another.
+Q18. Check whether one string is a subsequence of another.
+Q19. Find longest common prefix among multiple strings.
+Q20. Count palindromic substrings in a string.
+Q21. Convert string to integer manually without built-in function.
+Q22. Convert integer to string manually without built-in function.
+Q23. Validate a strong password based on given rules.
+Q24. Compress repeating characters in a string (example: aaabb → a3b2).
+Q25. Expand compressed string (example: a3b2 → aaabb).
+Q26. Remove characters from first string that are present in second string.
+Q27. Generate all substrings of a string.
+Q28. Generate all permutations of a string.
+Q29. Check whether a string is a pangram.
+Q30. Check whether a string is an isogram.
+Q31. Rotate a string by k positions.
+Q32. Remove vowels from a string.
+Q33. Count frequency of each character in a string.
+Q34. Sort characters in a string by frequency.
+Q35. Find first non-repeating character in a string.
+Q36. Replace digits in a string with their word equivalents.
+Q37. Remove extra spaces from a string.
+Q38. Count punctuation marks in a string.
+Q39. Compare two strings ignoring case sensitivity.
+Q40. Find most frequent character in a string.
+Q41. Find ASCII sum of all characters in a string.
+Q42. Check whether two strings are mirror strings.
+Q43. Remove characters at prime index positions.
+Q44. Find shortest word in a sentence.
+Q45. Count vowels and consonants in a string.
+Q46. Reverse a string using recursion.
+Q47. Check whether two strings are anagrams.
+Q48. Count number of words in a string.
+Q49. Replace a specific character in a string.
+Q50. Check whether a string is a palindrome.
+
+LEVEL 2 – FUNCTIONS (50 QUESTIONS)
+
+Q1. Write a function to print prime factors of a number.
+Q2. Write a function to count divisors of a number.
+Q3. Write a function to calculate nCr.
+Q4. Write a function to generate Fibonacci series and return it as a list.
+Q5. Write a function to check whether a string is palindrome.
+Q6. Write a function to check whether a number is a happy number.
+Q7. Write a function to check whether a number is perfect.
+Q8. Write a function to reverse digits of a number.
+Q9. Write a function to return sum of digits of a number.
+Q10. Write a function to convert binary to decimal.
+Q11. Write a function to convert decimal to binary.
+Q12. Write a function to compute GCD of a list of numbers.
+Q13. Write a function to compute LCM of a list of numbers.
+Q14. Write a function to find largest element in a list.
+Q15. Write a function to find second largest element in a list.
+Q16. Write a recursive function to compute power of a number.
+Q17. Write a recursive function to compute factorial.
+Q18. Write a function to generate first n prime numbers.
+Q19. Write a function to return nth prime number.
+Q20. Write a function to compute average of list elements.
+Q21. Write a function to solve quadratic equation and return roots.
+Q22. Write a function to count vowels in a string.
+Q23. Write a function to remove vowels from a string.
+Q24. Write a function to check whether two strings are anagrams.
+Q25. Write a function to sort an array.
+Q26. Write a function to reverse an array.
+Q27. Write a function to rotate an array by k positions.
+Q28. Write a recursive function to generate Fibonacci number.
+Q29. Write a recursive function to compute GCD.
+Q30. Write a recursive function to implement binary search.
+Q31. Write a function to compute digital root of a number.
+Q32. Write a function to generate Collatz sequence.
+Q33. Write a function to check Armstrong numbers within a range.
+Q34. Write a function to find median of a list.
+Q35. Write a function to find mode of a list.
+Q36. Write a function to count special characters in a string.
+Q37. Write a function to classify a number (prime, composite, perfect, etc.).
+Q38. Write a function to validate a date.
+Q39. Write a function to format time from seconds.
+Q40. Write a function to compute sum of a mathematical series.
+Q41. Write a function to count word frequency in a sentence.
+Q42. Write a function to merge two arrays.
+Q43. Write a function to find common elements between two arrays.
+Q44. Write a function to calculate profit percentage.
+Q45. Write a function to check leap year.
+Q46. Write a function to compute compound interest.
+Q47. Write a function to validate password strength.
+Q48. Write a function to check strong number.
+Q49. Write a function to compute factorial using loop.
+Q50. Write a function to compute power using fast exponentiation.
+
+LEVEL 2 – DATA STRUCTURES & ALGORITHMS (50 QUESTIONS)
+
+Q1. Implement linear search algorithm.
+Q2. Implement binary search algorithm.
+Q3. Implement bubble sort algorithm.
+Q4. Implement selection sort algorithm.
+Q5. Implement insertion sort algorithm.
+Q6. Implement merge sort algorithm.
+Q7. Implement quick sort algorithm.
+Q8. Find first occurrence of an element in sorted array.
+Q9. Find last occurrence of an element in sorted array.
+Q10. Count occurrences of an element using binary search.
+Q11. Find floor of an element in sorted array.
+Q12. Find ceiling of an element in sorted array.
+Q13. Search element in rotated sorted array.
+Q14. Find pivot element in rotated sorted array.
+Q15. Perform matrix addition.
+Q16. Perform matrix subtraction.
+Q17. Perform matrix multiplication.
+Q18. Find transpose of a matrix.
+Q19. Rotate matrix by 90 degrees.
+Q20. Print matrix in spiral order.
+Q21. Find diagonal sum of matrix.
+Q22. Implement stack using array.
+Q23. Implement stack using linked list.
+Q24. Implement queue using array.
+Q25. Implement circular queue.
+Q26. Check balanced parentheses using stack.
+Q27. Evaluate postfix expression.
+Q28. Convert infix expression to postfix.
+Q29. Create singly linked list.
+Q30. Insert node at beginning of linked list.
+Q31. Insert node at end of linked list.
+Q32. Delete node from linked list.
+Q33. Reverse linked list iteratively.
+Q34. Reverse linked list recursively.
+Q35. Find middle node of linked list.
+Q36. Detect loop in linked list.
+Q37. Remove loop from linked list.
+Q38. Count nodes in linked list.
+Q39. Find nth node from end of linked list.
+Q40. Check whether linked list is palindrome.
+Q41. Merge two sorted linked lists.
+Q42. Implement hash table using array.
+Q43. Count frequency of elements using hashing.
+Q44. Perform inorder traversal of binary tree.
+Q45. Perform preorder traversal of binary tree.
+Q46. Perform postorder traversal of binary tree.
+Q47. Count nodes in binary tree.
+Q48. Find height of binary tree.
+Q49. Check whether binary tree is balanced.
+Q50. Find lowest common ancestor in binary tree.
